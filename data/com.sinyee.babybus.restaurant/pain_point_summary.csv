@@ -1,0 +1,79 @@
+merged_topic_label,negative_proportion,total_reviews,pain_point_flag
+"""baby panda game reviews""",0.009259259259259259,108,False
+"""babybus games reviews""",0.0,19,False
+"""best game ever""",0.0,14,False
+"""best game praise""",0.0,21,False
+"""boring game complaints""",0.9411764705882353,17,True
+"""excellent""",0.0,28,False
+"""excitement and appreciation""",0.0,14,False
+"""game quality feedback""",0.0,23,False
+"""game terminology""",0.0,18,False
+"""love for babybus app""",0.1,10,False
+"""panda restaurant game issues""",0.0,18,False
+"""positive game reviews""",0.021739130434782608,46,False
+Unknown,0.0781414994720169,947,False
+app appreciation,0.045454545454545456,22,False
+app quality and purchases,0.0,11,False
+appreciation for aesthetics,0.0,31,False
+appreciation for game aesthetics,0.07407407407407407,27,False
+appreciation for games,0.06666666666666667,15,False
+appreciation of aesthetics,0.11538461538461539,26,False
+baby bus app,0.0,29,False
+baby bus games appreciation,0.038461538461538464,52,False
+baby panda app,0.07692307692307693,13,False
+bengali language reviews,0.024390243902439025,41,False
+best for kids,0.024390243902439025,41,False
+best game praise,0.0,13,False
+best game reviews,0.041666666666666664,24,False
+children's educational app,0.0,17,False
+cooking and recipes,0.11020408163265306,245,False
+cute animal games,0.0,22,False
+daily life and relationships,0.16129032258064516,31,False
+download and offline issues,0.2602739726027397,73,False
+emoticon responses,0.049773755656108594,221,False
+enjoyable and fun game,0.0425531914893617,47,False
+enjoyable game experience,0.043478260869565216,23,False
+enjoying the game,0.034482758620689655,29,False
+excessive in-app ads,0.25862068965517243,58,False
+expensive good games,0.06666666666666667,15,False
+expressing love for game,0.11764705882352941,17,False
+expressions of amazement,0.018867924528301886,53,False
+expressions of love,0.06666666666666667,30,False
+family & childhood games,0.05128205128205128,195,False
+favorite game,0.043478260869565216,23,False
+game download issues,0.07142857142857142,28,False
+game reviews,0.13953488372093023,43,False
+good time pass game,0.0,17,False
+high game appreciation,0.0,17,False
+hindi game reviews,0.0,11,False
+incoherent/unrelated terms,0.125,16,False
+incoherent/unrelated words,0.0967741935483871,31,False
+incomprehensible/non-english reviews,0.03225806451612903,155,False
+little pandas app,0.0,15,False
+love for game,0.0,22,False
+mixed feelings/opinions,0.08695652173913043,23,False
+multilingual game reviews,0.0,19,False
+names and random words,0.11764705882352941,17,False
+negative feedback,0.8181818181818182,22,True
+negative game reviews,0.8536585365853658,41,True
+neutral/average reviews,0.14634146341463414,41,False
+non-english reviews,0.08823529411764706,34,False
+panda related apps,0.038461538461538464,26,False
+persian user interactions,0.0,11,False
+positive affection,0.0,17,False
+positive app feedback,0.0,46,False
+positive exclamations,0.07692307692307693,26,False
+positive feedback,0.016778523489932886,298,False
+positive feedback/appreciation,0.0,22,False
+positive feedback/gratitude,0.0,29,False
+positive game reviews,0.014970059880239521,668,False
+positive reactions,0.00980392156862745,102,False
+positive reviews,0.0,21,False
+praise for app,0.0,19,False
+praise for game quality,0.0,41,False
+quality and odds evaluation,0.631578947368421,19,True
+rating/star giving reasons,0.09803921568627451,51,False
+super fun games,0.0,21,False
+super game reviews,0.0,45,False
+text pasting feature,0.03125,32,False
+user names,0.02643171806167401,227,False

@@ -1,0 +1,75 @@
+merged_topic_label,anger,disgust,fear,joy,neutral,sadness,surprise
+"""appreciation for artistic apps""",0.0,0.0004,0.0,0.0052,0.002,0.0,0.001
+"""best game ever""",0.0,0.0,0.0,0.003,0.0,0.0,0.0
+"""best game praise""",0.0,0.0,0.0,0.0024,0.0014,0.0,0.0004
+"""best game reviews""",0.0,0.0004,0.0,0.0048,0.0044,0.0,0.0
+"""boring game complaints""",0.0002,0.0,0.0,0.0002,0.0002,0.002,0.0002
+"""cute and adorable features""",0.0,0.0012,0.0,0.01,0.0,0.0004,0.0006
+"""interesting and informative content""",0.0,0.0,0.0,0.0014,0.0008,0.0,0.0022
+"""positive game reviews""",0.0002,0.0,0.0002,0.0,0.0058,0.0,0.0
+"""quality of modded apps""",0.0,0.0,0.0,0.0034,0.001,0.0002,0.0
+"""talking tom & friends game reviews""",0.0006,0.0002,0.0008,0.0326,0.0104,0.0034,0.0028
+Unknown,0.0022,0.0016,0.002,0.1,0.037,0.0076,0.0092
+annoying ads feedback,0.0,0.0,0.0,0.0008,0.0012,0.0002,0.0002
+app usage across devices,0.0,0.0,0.0,0.0026,0.0004,0.0,0.0002
+bengali user feedback,0.0,0.0,0.0002,0.0,0.0032,0.0,0.0
+best game ever,0.0,0.0002,0.0,0.0004,0.0024,0.0,0.0004
+best game praise,0.0002,0.0008,0.0,0.0,0.0012,0.0,0.0
+best game reviews,0.0,0.0,0.0,0.0022,0.0092,0.0,0.0004
+best games for kids,0.0,0.0,0.0,0.0028,0.0008,0.0,0.0002
+cat game reviews,0.0,0.0,0.0,0.0002,0.0022,0.0,0.0
+character unlocking complaints,0.0002,0.0,0.0,0.0016,0.001,0.0006,0.0006
+child-friendly learning apps,0.0,0.0,0.0,0.0112,0.0018,0.0,0.0
+cute character interaction,0.0,0.0002,0.0,0.0068,0.0,0.0,0.0004
+download and installation issues,0.0,0.0004,0.0,0.0014,0.004,0.0022,0.0004
+enjoyable fun,0.0,0.0002,0.0,0.007,0.001,0.0004,0.0002
+enjoyable gaming experience,0.0,0.0,0.0,0.0028,0.0002,0.0,0.0002
+enjoyment of play,0.0,0.0002,0.0,0.0044,0.001,0.0002,0.0
+exaggerated reactions,0.0,0.0,0.0,0.0,0.0006,0.0,0.0022
+excessive ads complaints,0.001,0.0006,0.0,0.004,0.0032,0.002,0.0006
+excessive character sleep time,0.0006,0.0004,0.0,0.0034,0.0022,0.003,0.0004
+expressions of surprise,0.0,0.0,0.0,0.0,0.0002,0.0,0.0076
+favorite game praise,0.0,0.0,0.0,0.0058,0.0002,0.0,0.0002
+friendship and socializing,0.0,0.0,0.0,0.0052,0.0018,0.0006,0.0006
+fun and enjoyable experience,0.0,0.0,0.0,0.01,0.0,0.0,0.0
+fun and entertainment,0.0,0.0,0.0002,0.005,0.0,0.0,0.0
+game appreciation,0.0002,0.0,0.0,0.012,0.0014,0.0002,0.0004
+game enjoyment and features,0.0,0.0,0.0,0.0022,0.0,0.0,0.0
+game love/appreciation,0.0,0.0,0.0,0.0062,0.0006,0.0,0.0002
+game reviews,0.0006,0.0,0.0002,0.0118,0.0146,0.0016,0.0002
+good gaming experience,0.0,0.0,0.0,0.0024,0.0004,0.0,0.0
+interesting game reviews,0.0,0.0,0.0006,0.0064,0.0006,0.0,0.0008
+kids-friendly games,0.0,0.0002,0.0,0.042,0.0028,0.001,0.0012
+love for game/group,0.0,0.0,0.0,0.0036,0.0,0.0,0.0
+love for the game,0.0,0.0,0.0,0.0044,0.0,0.0,0.0002
+need for more coins,0.0,0.0,0.0,0.0008,0.001,0.002,0.0
+negative feedback,0.0,0.0024,0.0,0.001,0.0016,0.0018,0.0
+negative game reviews,0.0004,0.002,0.0002,0.0,0.0004,0.0022,0.0002
+neutral/ambivalent responses,0.0004,0.0,0.0,0.0,0.0074,0.0002,0.0
+nice game reviews,0.0,0.0,0.0,0.0156,0.0004,0.0,0.0
+non-english reviews,0.0,0.0,0.0002,0.0,0.0054,0.0002,0.0002
+offline gameplay experience,0.0,0.0,0.0002,0.0016,0.0008,0.0,0.0
+outfit7 game reviews,0.0,0.0,0.0,0.0018,0.0006,0.0002,0.0
+pet care games,0.0004,0.0008,0.0,0.0088,0.0026,0.0004,0.0004
+positive app experience,0.0,0.0,0.0,0.0024,0.0,0.0,0.0
+positive app feedback,0.0,0.0,0.0,0.0204,0.0068,0.0004,0.0004
+positive exclamations,0.0,0.0,0.0,0.0008,0.01,0.0,0.0014
+positive feedback,0.0004,0.0004,0.0,0.0376,0.0584,0.0004,0.0012
+positive feedback/experience,0.0,0.0004,0.0,0.0002,0.0038,0.0002,0.0004
+positive feedback/reactions,0.0,0.0,0.0,0.0028,0.0026,0.0,0.0
+positive game reviews,0.0002,0.0004,0.0002,0.1062,0.0088,0.001,0.0074
+positive reactions,0.0002,0.0004,0.0004,0.0082,0.0448,0.0002,0.0014
+positive sentiments/ love for app,0.0002,0.0,0.0002,0.0052,0.001,0.0004,0.0002
+rating and reviewing games,0.0,0.0002,0.0002,0.006,0.0024,0.0002,0.0004
+relaxing games,0.0,0.0,0.0,0.0018,0.0004,0.0,0.0
+request for app updates,0.0,0.0,0.0,0.0006,0.0016,0.0006,0.0002
+requests for additional features,0.0,0.0,0.0,0.0002,0.0018,0.0006,0.0
+sleep timing issues,0.0002,0.0002,0.0004,0.0014,0.0036,0.0018,0.0006
+stress-free family enjoyment,0.0002,0.0,0.0,0.0056,0.0006,0.0006,0.0002
+super fun game,0.0,0.0,0.0004,0.0004,0.0046,0.0002,0.0
+super game appreciation,0.0,0.0,0.0,0.0018,0.0,0.0,0.0002
+super game reviews,0.0,0.0002,0.0,0.0008,0.0012,0.0002,0.0026
+superb game reviews,0.0002,0.0,0.0,0.0006,0.002,0.0,0.0
+time pass games,0.0,0.0004,0.0,0.003,0.002,0.0002,0.0
+user names and emojis,0.0,0.0,0.0002,0.0002,0.0024,0.0,0.0002
+very nice game,0.0,0.0,0.0,0.0102,0.0,0.0,0.0004

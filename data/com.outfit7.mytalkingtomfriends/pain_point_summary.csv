@@ -1,0 +1,75 @@
+merged_topic_label,negative_proportion,total_reviews,pain_point_flag
+"""appreciation for artistic apps""",0.046511627906976744,43,False
+"""best game ever""",0.0,15,False
+"""best game praise""",0.0,21,False
+"""best game reviews""",0.041666666666666664,48,False
+"""boring game complaints""",0.7857142857142857,14,True
+"""cute and adorable features""",0.13114754098360656,61,False
+"""interesting and informative content""",0.0,22,False
+"""positive game reviews""",0.06451612903225806,31,False
+"""quality of modded apps""",0.043478260869565216,23,False
+"""talking tom & friends game reviews""",0.0984251968503937,254,False
+Unknown,0.08395989974937343,798,False
+annoying ads feedback,0.08333333333333333,12,False
+app usage across devices,0.0,16,False
+bengali user feedback,0.058823529411764705,17,False
+best game ever,0.058823529411764705,17,False
+best game praise,0.45454545454545453,11,True
+best game reviews,0.0,59,False
+best games for kids,0.0,19,False
+cat game reviews,0.0,12,False
+character unlocking complaints,0.2,20,False
+child-friendly learning apps,0.0,65,False
+cute character interaction,0.02702702702702703,37,False
+download and installation issues,0.30952380952380953,42,False
+enjoyable fun,0.06818181818181818,44,False
+enjoyable gaming experience,0.0,16,False
+enjoyment of play,0.06896551724137931,29,False
+exaggerated reactions,0.0,14,False
+excessive ads complaints,0.3157894736842105,57,False
+excessive character sleep time,0.4,50,False
+expressions of surprise,0.0,39,False
+favorite game praise,0.0,31,False
+friendship and socializing,0.07317073170731707,41,False
+fun and enjoyable experience,0.0,50,False
+fun and entertainment,0.038461538461538464,26,False
+game appreciation,0.028169014084507043,71,False
+game enjoyment and features,0.0,11,False
+game love/appreciation,0.0,35,False
+game reviews,0.08275862068965517,145,False
+good gaming experience,0.0,14,False
+interesting game reviews,0.07142857142857142,42,False
+kids-friendly games,0.025423728813559324,236,False
+love for game/group,0.0,18,False
+love for the game,0.0,23,False
+need for more coins,0.5263157894736842,19,True
+negative feedback,0.6176470588235294,34,True
+negative game reviews,0.8888888888888888,27,True
+neutral/ambivalent responses,0.075,40,False
+nice game reviews,0.0,80,False
+non-english reviews,0.06666666666666667,30,False
+offline gameplay experience,0.07692307692307693,13,False
+outfit7 game reviews,0.07692307692307693,13,False
+pet care games,0.11940298507462686,67,False
+positive app experience,0.0,12,False
+positive app feedback,0.014285714285714285,140,False
+positive exclamations,0.0,61,False
+positive feedback,0.012195121951219513,492,False
+positive feedback/experience,0.12,25,False
+positive feedback/reactions,0.0,27,False
+positive game reviews,0.014492753623188406,621,False
+positive reactions,0.02158273381294964,278,False
+positive sentiments/ love for app,0.1111111111111111,36,False
+rating and reviewing games,0.06382978723404255,47,False
+relaxing games,0.0,11,False
+request for app updates,0.2,15,False
+requests for additional features,0.23076923076923078,13,False
+sleep timing issues,0.3170731707317073,41,False
+stress-free family enjoyment,0.1111111111111111,36,False
+super fun game,0.10714285714285714,28,False
+super game appreciation,0.0,10,False
+super game reviews,0.08,25,False
+superb game reviews,0.07142857142857142,14,False
+time pass games,0.10714285714285714,28,False
+user names and emojis,0.06666666666666667,15,False
+very nice game,0.0,53,False

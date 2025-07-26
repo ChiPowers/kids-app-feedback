@@ -1,0 +1,81 @@
+merged_topic_label,anger,disgust,fear,joy,neutral,sadness,surprise
+"""amazing app experience""",0.0,0.0,0.0,0.0004,0.0,0.0,0.0052
+"""best game reviews""",0.0,0.0,0.0,0.0016,0.0014,0.0,0.0002
+"""best"" reviews",0.0,0.0,0.0,0.0,0.0028,0.0,0.0
+"""complaints about paid content""",0.0026,0.003,0.0004,0.0002,0.0036,0.0044,0.0018
+"""epic appreciation""",0.0002,0.0,0.0,0.0018,0.0024,0.0,0.0006
+"""epic books app reviews""",0.0,0.0,0.0,0.0188,0.0048,0.0016,0.0014
+"""epic reading app""",0.0,0.001,0.0002,0.0128,0.0054,0.0014,0.0034
+"""fun and engaging""",0.0,0.0,0.0,0.0074,0.0,0.0006,0.0
+"""fun but glitchy""",0.0,0.0,0.0,0.0034,0.0,0.0,0.0002
+"""love for fun app""",0.0,0.0,0.0,0.0028,0.0,0.0,0.0
+"""love for useful app""",0.0,0.0,0.0,0.0002,0.0052,0.0,0.0
+"""paid reading app complaints""",0.0,0.0,0.0,0.0016,0.001,0.0004,0.0004
+"""positive app feedback""",0.0,0.0,0.0,0.0032,0.0,0.0,0.0
+"""positive app reviews""",0.0,0.0,0.0,0.0014,0.0002,0.0,0.0014
+Unknown,0.0158,0.0114,0.0036,0.1258,0.0778,0.033,0.0212
+app appreciation,0.0,0.0,0.0,0.0026,0.0002,0.0,0.0
+app for books,0.0,0.0,0.0,0.0032,0.0006,0.0,0.0006
+app functionality issues,0.0026,0.004,0.0,0.0,0.0036,0.0044,0.0012
+app not free complaints,0.0006,0.0,0.0002,0.0004,0.0032,0.0014,0.0002
+appreciation for app,0.0002,0.0,0.0002,0.0126,0.0008,0.0002,0.0
+appreciation for coolness,0.0,0.0,0.0,0.003,0.0,0.0002,0.0
+appreciation/love for app,0.0,0.0,0.0,0.0042,0.0002,0.0,0.0
+book availability complaints,0.0,0.0,0.0,0.0008,0.0014,0.0002,0.0
+book collection quality,0.0,0.0004,0.0,0.0102,0.0028,0.0002,0.0008
+cat ninja series reviews,0.0,0.0002,0.0,0.0038,0.0022,0.0,0.0002
+child learning assistance,0.0,0.0,0.0,0.002,0.0004,0.0,0.0002
+children's book selection,0.0,0.0,0.0006,0.0092,0.0032,0.0012,0.0008
+children's books app,0.0,0.0,0.0004,0.005,0.0014,0.0004,0.0004
+children's learning and reading,0.0004,0.0002,0.0,0.0112,0.0054,0.0006,0.0002
+children's reading app,0.0002,0.0002,0.0,0.0082,0.0026,0.0008,0.0002
+coolness appreciation,0.0,0.0,0.0,0.0004,0.0034,0.0,0.0
+cost of epic games,0.0,0.0006,0.0,0.0008,0.0008,0.002,0.0004
+educational app usage,0.0,0.0,0.0,0.004,0.0012,0.0,0.0002
+educational reading game,0.0002,0.0,0.0,0.004,0.0012,0.0,0.0
+emojis/non-english reviews,0.0,0.0,0.0002,0.0002,0.0086,0.0002,0.0
+enjoyable reading experience,0.0,0.0,0.0,0.0078,0.0,0.0,0.0
+enjoyment of reading,0.0002,0.0002,0.0,0.0018,0.0,0.0,0.0
+entertaining and fun,0.0,0.0,0.0,0.0046,0.0002,0.0,0.0
+expressions of love,0.0,0.0002,0.0,0.001,0.0024,0.0006,0.0
+fun educational app,0.0,0.0,0.0,0.0034,0.0,0.0,0.0
+general positive feedback,0.0,0.0002,0.0,0.0012,0.0018,0.0,0.0
+good for kids,0.0002,0.0,0.0,0.0094,0.0012,0.0002,0.0002
+incoherent reviews,0.0002,0.0016,0.0004,0.0012,0.0118,0.0004,0.0008
+indecipherable comments,0.0,0.0,0.0004,0.0,0.0028,0.0,0.0
+kids love it,0.0002,0.0002,0.0,0.0142,0.0014,0.0008,0.0006
+kids loving epic app,0.0,0.0,0.0,0.0062,0.0008,0.0002,0.0004
+kids' reading and learning app,0.0002,0.0,0.0,0.0124,0.0022,0.0002,0.002
+kids-friendly app,0.0004,0.0002,0.0,0.0132,0.0044,0.0004,0.0008
+learning and knowledge enhancement,0.0,0.0,0.0,0.0046,0.003,0.0002,0.0
+limited free books,0.0006,0.0,0.0,0.0012,0.0008,0.002,0.0002
+login issues,0.0042,0.0018,0.0008,0.0006,0.0084,0.0102,0.0026
+love for books,0.0,0.0002,0.0,0.0052,0.0002,0.0,0.0
+love for epic,0.0002,0.0,0.0002,0.006,0.0002,0.0,0.0
+love for reading,0.0,0.0,0.0,0.0036,0.0,0.0,0.0002
+love for reading books,0.0,0.0,0.0,0.0052,0.0,0.0,0.0
+love for the game,0.0,0.0002,0.0,0.0044,0.0004,0.0002,0.0002
+negative app reviews,0.0002,0.0012,0.0014,0.0,0.0004,0.0002,0.0
+negative feedback,0.0,0.0022,0.0,0.0,0.0006,0.0,0.0
+negative reviews,0.0,0.001,0.0002,0.0,0.0004,0.001,0.0004
+paid features complaints,0.0012,0.0012,0.0,0.0008,0.005,0.0012,0.0004
+payment complaints,0.0032,0.0006,0.0,0.0004,0.0034,0.0018,0.0
+payment for reading books,0.0022,0.002,0.0006,0.0,0.0044,0.0032,0.0028
+poor customer service & subscription issues,0.0008,0.0008,0.0008,0.0,0.0042,0.0054,0.0014
+positive app feedback,0.0,0.0,0.0,0.0148,0.008,0.0,0.0002
+positive app reactions,0.0,0.0002,0.0,0.002,0.0022,0.0,0.0018
+positive app reviews,0.0,0.0,0.0,0.0038,0.0034,0.0,0.0002
+positive feedback,0.0,0.0002,0.0,0.0162,0.0286,0.0,0.005
+positive reviews for epic,0.0,0.0002,0.0,0.0046,0.0004,0.0002,0.0
+positive satisfaction,0.0,0.0,0.0,0.0022,0.0002,0.0,0.0
+quality assessment,0.0002,0.0,0.0,0.0046,0.0022,0.0018,0.0
+rating and payment issues,0.0002,0.0004,0.0,0.002,0.0034,0.0014,0.001
+reading and book app,0.0,0.0,0.0004,0.008,0.0012,0.0002,0.0006
+reading and learning app,0.0,0.0,0.0,0.0032,0.0002,0.0,0.0
+reading and researching experience,0.0,0.0,0.0,0.005,0.0002,0.0,0.0
+reading app reviews,0.0,0.0,0.0,0.005,0.003,0.0,0.0004
+school use,0.0,0.0004,0.0002,0.0024,0.0028,0.0004,0.0006
+story-based learning,0.0,0.0,0.0002,0.0038,0.0012,0.0,0.0004
+storytelling app reviews,0.0,0.0,0.0,0.0018,0.0004,0.0,0.0
+subscription issues,0.0052,0.003,0.0018,0.0002,0.0086,0.0138,0.0032
+unwanted free trial issues,0.0006,0.001,0.0004,0.0,0.0036,0.0028,0.0006

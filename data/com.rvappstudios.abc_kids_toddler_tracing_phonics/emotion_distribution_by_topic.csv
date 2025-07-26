@@ -1,0 +1,101 @@
+merged_topic_label,anger,disgust,fear,joy,neutral,sadness,surprise
+"""abc learning""",0.0,0.0,0.0,0.0012,0.0098,0.0002,0.0002
+"""app quality opinions""",0.0,0.0002,0.0,0.0002,0.0038,0.0,0.0002
+"""appreciation for apps""",0.0,0.0,0.0,0.0002,0.0088,0.0,0.0
+"""appreciation for rv app studios""",0.0,0.0,0.0,0.0016,0.0016,0.0,0.0002
+"""best game ever""",0.0,0.0,0.0,0.0022,0.003,0.0002,0.0002
+"""entertaining gameplay""",0.0,0.0,0.0,0.0026,0.0004,0.0,0.0
+"""kids' apps""",0.0,0.0,0.0,0.0,0.0028,0.0,0.0
+"""lucas and friends app reviews""",0.0002,0.0,0.0,0.003,0.0004,0.0002,0.0
+"""nice app for kids""",0.0,0.0004,0.0,0.002,0.0002,0.0,0.0002
+"""nice collection feature""",0.0,0.0,0.0,0.0,0.0236,0.0,0.0
+"""usefulness of app""",0.0,0.0,0.0,0.002,0.002,0.0,0.0
+Unknown,0.0016,0.0056,0.0008,0.1236,0.092,0.007,0.0094
+abc kids app reviews,0.0,0.0,0.0,0.0006,0.0044,0.0,0.0
+abc learning app,0.0002,0.0,0.0,0.0016,0.0008,0.0,0.0002
+alphabet learning app,0.0002,0.0008,0.0,0.0244,0.0188,0.0032,0.0028
+app appreciation,0.0004,0.0,0.0,0.0084,0.004,0.0002,0.0004
+app enjoyed by young girls,0.0,0.0,0.0,0.0044,0.0006,0.0002,0.0004
+app flags and learning,0.0,0.0002,0.0,0.0016,0.0016,0.0,0.0002
+app for young children,0.0,0.0,0.0,0.0018,0.0004,0.0,0.0
+app functionality issues,0.0006,0.0016,0.0,0.0002,0.0056,0.006,0.0014
+app quality evaluation,0.0,0.0,0.0,0.0008,0.0088,0.0004,0.0004
+app quality praise,0.0,0.0,0.0,0.0112,0.002,0.0,0.0002
+app rating and ads feedback,0.0002,0.0,0.0,0.0016,0.0008,0.0002,0.0006
+appreciation and inspiration,0.0,0.0,0.0,0.003,0.002,0.0,0.0002
+appreciation for app,0.0,0.0,0.0,0.0008,0.002,0.0,0.0
+appreciation for children's work,0.0,0.0,0.0,0.0016,0.0002,0.0,0.0002
+appreciation for educational apps,0.0,0.0002,0.0,0.0,0.0032,0.0,0.0
+appreciation for work done,0.0,0.0,0.0,0.0026,0.0016,0.0,0.0
+arabic app reviews,0.0,0.0,0.0002,0.0,0.0028,0.0,0.0
+baby learning apps,0.0,0.0002,0.0,0.002,0.0002,0.0,0.0
+baby learning games,0.0,0.0002,0.0,0.0018,0.0006,0.0,0.0004
+best children's app,0.0,0.0,0.0,0.0024,0.002,0.0,0.0
+best for kids,0.0,0.0,0.0,0.0,0.004,0.0,0.0002
+birthday messages and updates,0.0,0.0,0.0,0.0016,0.0006,0.0,0.0002
+children's learning game issues,0.0002,0.0,0.0002,0.003,0.0004,0.0,0.0
+early childhood learning apps,0.0,0.0,0.0,0.0038,0.0038,0.0,0.0002
+educational app for children,0.0002,0.0002,0.0004,0.0014,0.0046,0.0002,0.0
+educational content,0.0,0.0,0.0,0.004,0.0034,0.0,0.0002
+educational fun game,0.0002,0.0,0.0,0.008,0.0018,0.0002,0.0002
+educational kids app,0.0,0.0,0.0,0.0024,0.0002,0.0,0.0002
+educational kids app appreciation,0.0,0.0,0.0,0.0056,0.0002,0.0,0.0002
+educational learning aid,0.0,0.0,0.0,0.0022,0.0004,0.0,0.0
+emotional expressions,0.0,0.0002,0.0004,0.0004,0.0186,0.0002,0.0002
+emotional reactions,0.0,0.0,0.0006,0.0006,0.0056,0.0002,0.0
+expressions of gratitude,0.0,0.0,0.0,0.0016,0.0036,0.0,0.0002
+fantastic feedback,0.0,0.0,0.0,0.002,0.0002,0.0,0.0
+fantastic kids activity,0.0,0.0,0.0,0.0024,0.0,0.0,0.0008
+filipino language kids apps,0.0,0.0,0.0002,0.0002,0.0028,0.0,0.0002
+five star reviews,0.0,0.0,0.0,0.0018,0.002,0.0004,0.0006
+free app appreciation,0.0,0.0,0.0,0.0014,0.0018,0.0,0.0006
+game enjoyed by siblings,0.0,0.0,0.0002,0.0056,0.0006,0.0002,0.0
+game performance reviews,0.0,0.0004,0.0,0.0024,0.0002,0.001,0.0006
+game sentiments,0.0002,0.0,0.0,0.0032,0.0004,0.0004,0.0
+general approval,0.0,0.0,0.0,0.0,0.0082,0.0002,0.0
+general positive feedback,0.0,0.0,0.0,0.0004,0.066,0.0002,0.0
+good for children,0.0,0.0,0.0,0.0046,0.0002,0.0,0.0
+good for kids,0.0,0.0,0.0,0.0062,0.0004,0.0,0.0002
+helpful for children,0.0,0.0002,0.0,0.0064,0.002,0.0,0.0
+helpfulness of app,0.0,0.0,0.0,0.002,0.0014,0.0,0.0004
+hindi learning app reviews,0.0,0.0,0.0002,0.0,0.0034,0.0,0.0
+incomprehensible reviews,0.0002,0.0008,0.0,0.0004,0.0028,0.0,0.0002
+incomprehensible terms,0.0,0.0002,0.0002,0.0,0.0036,0.0002,0.0
+kids abc tracing apps,0.0,0.0,0.0,0.0006,0.0036,0.0,0.0
+kids enjoying app,0.0,0.0,0.0,0.0082,0.001,0.0,0.0004
+kids learning efficiency,0.0,0.0004,0.0,0.0026,0.0034,0.0,0.0002
+kids' app enjoyment,0.0,0.0,0.0,0.005,0.0002,0.0002,0.0
+kids' app reviews,0.0,0.0004,0.0,0.0036,0.0004,0.0,0.0002
+kids' educational apps,0.0,0.0,0.0004,0.0096,0.0028,0.0,0.0012
+kids' games,0.0,0.0002,0.0,0.0084,0.0012,0.0,0.0002
+kids-friendly app reviews,0.0,0.0002,0.0,0.0036,0.0044,0.0,0.0002
+language options request,0.0,0.0002,0.0,0.0012,0.002,0.0,0.0004
+learning abcs through play,0.0002,0.0,0.0002,0.0032,0.0012,0.0,0.0
+mixed feelings,0.0004,0.0,0.0,0.0016,0.0002,0.0,0.0
+negative feedback,0.0,0.002,0.0002,0.0,0.0004,0.0004,0.0
+nice app for children,0.0,0.0,0.0,0.0026,0.0002,0.0,0.0
+nice kids' app,0.0,0.0,0.0,0.0022,0.0004,0.0,0.0
+no ads/app is free,0.0002,0.0,0.0,0.009,0.0036,0.0004,0.0008
+nonsensical/unintelligible reviews,0.0002,0.0,0.0002,0.0,0.0026,0.0002,0.0
+parent and kids app enjoyment,0.0,0.0002,0.0,0.003,0.0,0.0,0.0
+positive affection,0.0,0.0,0.0002,0.004,0.0,0.0,0.0
+positive app experience,0.0,0.0,0.0,0.0038,0.0008,0.0,0.0
+positive app feedback,0.0,0.0,0.0,0.0088,0.0006,0.0,0.0026
+positive app reviews,0.0,0.0,0.0,0.0062,0.0026,0.0,0.002
+positive entertainment reviews,0.0,0.0,0.0,0.0048,0.0004,0.0,0.0
+positive feedback,0.0004,0.0004,0.0,0.0248,0.03,0.0,0.0034
+positive feedback/appreciation,0.0,0.0,0.0,0.0036,0.0004,0.0,0.0
+positive game reviews,0.0,0.0002,0.0,0.0088,0.0006,0.0,0.0
+positive reactions,0.0,0.0,0.0,0.0004,0.0086,0.0,0.0002
+positive satisfaction,0.0,0.0,0.0,0.003,0.0,0.0,0.0
+praise and positive reviews,0.0,0.0,0.0,0.0004,0.007,0.0,0.0
+praise for app creators,0.0,0.0,0.0,0.0002,0.0024,0.0,0.0002
+religious love expressions,0.0,0.0,0.0,0.0016,0.0012,0.0002,0.0
+request for tamil language addition,0.0002,0.0,0.0,0.001,0.0042,0.0004,0.0004
+step-by-step learning system,0.0,0.0,0.0,0.0032,0.0026,0.0,0.0
+toddler learning apps,0.0,0.0,0.0,0.0018,0.001,0.0,0.0002
+unclear/confusing feedback,0.0002,0.0006,0.0,0.0002,0.011,0.0006,0.0002
+useful and informative app,0.0,0.0,0.0,0.0038,0.001,0.0,0.0
+usernames and languages,0.0002,0.0008,0.0,0.0004,0.02,0.0,0.0006
+wow/impressed reactions,0.0,0.0,0.0,0.0,0.0,0.0,0.004
+youtube video uploads,0.0,0.0,0.0,0.0006,0.0024,0.0,0.0006

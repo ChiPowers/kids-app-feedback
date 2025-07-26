@@ -1,0 +1,96 @@
+merged_topic_label,negative_proportion,total_reviews,pain_point_flag
+"""addictive fun""",0.34782608695652173,23,False
+"""awesome app feedback""",0.0,24,False
+"""best app reviews""",0.10526315789473684,19,False
+"""best game ever""",0.0,39,False
+"""best time pass game""",0.0,11,False
+"""boring game experience""",0.5625,16,True
+"""candy crush gameplay experience""",0.0,35,False
+"""cool"" feedback",0.0,11,False
+"""enjoyable game experience""",0.0,19,False
+"""enjoyable gameplay experience""",0.023809523809523808,42,False
+"""fun and creative""",0.0,22,False
+"""fun and feature-rich""",0.0,16,False
+"""fun experience""",0.0,13,False
+"""highly enjoyable app""",0.0,11,False
+"""interesting game experience""",0.03571428571428571,28,False
+"""interesting puzzle game""",0.0,19,False
+"""pay to progress complaints""",0.45,20,True
+Unknown,0.193006993006993,715,False
+ad frequency and length,0.5298507462686567,134,True
+ads and rewards complaints,0.21153846153846154,52,False
+ai replacing human staff,0.5294117647058824,17,True
+amazing game reviews,0.0,27,False
+app appreciation,0.024390243902439025,41,False
+app functionality issues,0.4897959183673469,49,True
+app quality evaluation,0.16091954022988506,87,False
+appreciating aesthetics,0.07142857142857142,14,False
+awesome games,0.0,36,False
+best gaming experience,0.02127659574468085,47,False
+booster issues and fixes,0.65,20,True
+brain-boosting games,0.0,11,False
+candy crush game reviews,0.16,25,False
+candy crush saga game,0.0,33,False
+emoji reactions,0.03424657534246575,146,False
+emotional connections and love,0.5833333333333334,12,True
+enjoyable fun experience,0.0,13,False
+enjoyable gameplay,0.0,11,False
+enjoyable gaming experience,0.0,30,False
+enjoying the game,0.05555555555555555,18,False
+enjoyment and satisfaction,0.02564102564102564,39,False
+entertainment and interest,0.037037037037037035,27,False
+excellent game,0.0,12,False
+excitement or enthusiasm,0.07692307692307693,13,False
+exciting and challenging gameplay,0.02702702702702703,37,False
+favorite game,0.05,20,False
+foreign language reviews,0.125,16,False
+fun gameplay,0.011111111111111112,90,False
+fun gaming experience,0.0,39,False
+fun packed games,0.0,31,False
+game addiction,0.027777777777777776,36,False
+game difficulty levels,0.22807017543859648,57,False
+game love/appreciation,0.0,27,False
+game quality and gems,0.07692307692307693,13,False
+game sentiments,0.09090909090909091,22,False
+general satisfaction,0.2,20,False
+gold purchase issues,0.65,20,True
+good understanding,0.0,384,False
+great fun,0.0,12,False
+having fun and winning,0.0,19,False
+incomprehensible reviews,0.0,10,False
+long-term game enjoyment,0.0,29,False
+love for game updates,0.0,13,False
+love for the game,0.0,21,False
+mind refreshing games,0.0,33,False
+mind relaxation and enhancement,0.058823529411764705,17,False
+misleading and annoying ads,0.42105263157894735,19,True
+monetization and earnings,0.125,16,False
+negative game reviews,0.6818181818181818,22,True
+neutral/ambivalent responses,0.07575757575757576,66,False
+nice game reviews,0.030303030303030304,33,False
+positive adjectives,0.0,28,False
+positive affection,0.0,44,False
+positive app feedback,0.0,99,False
+positive feedback,0.007407407407407408,405,False
+positive feedback/appreciation,0.0,39,False
+positive feedback/gratitude,0.0,23,False
+positive feedback/high praise,0.031746031746031744,63,False
+positive feedback/reactions,0.008620689655172414,116,False
+positive feedback/reviews,0.02857142857142857,35,False
+positive game experience,0.0,26,False
+positive game reviews,0.004210526315789474,475,False
+positive reactions,0.39285714285714285,28,False
+relaxing entertainment,0.02127659574468085,47,False
+relaxing experience,0.0,32,False
+relaxing fun activities,0.037037037037037035,27,False
+stress relief and mood improvement,0.24390243902439024,41,False
+stress relief games,0.08571428571428572,35,False
+suitable for all ages,0.14285714285714285,14,False
+super fun games,0.0,26,False
+super hero games,0.0,11,False
+superior quality,0.014285714285714285,70,False
+time pass entertainment,0.0390625,128,False
+user experience,0.05,20,False
+user satisfaction,0.0625,16,False
+very good game,0.0,19,False
+wow/awesome reactions,0.0,14,False

@@ -1,0 +1,93 @@
+merged_topic_label,anger,disgust,fear,joy,neutral,sadness,surprise
+"""amazing app experience""",0.0,0.0,0.0,0.0014,0.0,0.0,0.004
+"""awesome app feedback""",0.0,0.0,0.0,0.0052,0.0006,0.0,0.0
+"""best app praise""",0.0002,0.0004,0.0,0.0022,0.0054,0.0,0.0006
+"""cool"" appreciation",0.0,0.0,0.0,0.0004,0.0018,0.0,0.0
+"""fun and amusing experience""",0.0002,0.0,0.0,0.0032,0.0002,0.0004,0.0
+"""game appreciation""",0.0002,0.0,0.0,0.0046,0.0004,0.0,0.0
+"""high praise for app""",0.0,0.0,0.0,0.0006,0.0018,0.0,0.0002
+"""high quality learning app""",0.0,0.0002,0.0,0.0048,0.0034,0.0002,0.0008
+"""khan academy kids app""",0.0004,0.0004,0.0002,0.033,0.0086,0.0004,0.0028
+"""no ads in app""",0.0002,0.0002,0.0,0.0062,0.0026,0.0,0.0012
+"""perfect app satisfaction""",0.0,0.0,0.0,0.001,0.0032,0.0,0.0002
+"""useful and helpful apps""",0.0,0.0,0.0,0.0018,0.0012,0.0002,0.0
+Unknown,0.0024,0.005,0.0014,0.1782,0.0632,0.0086,0.0166
+amazing kids apps,0.0,0.0,0.0,0.0018,0.0004,0.0,0.002
+app download and appreciation,0.0,0.0002,0.0,0.0018,0.001,0.0002,0.0004
+app enjoyed by children,0.0,0.0,0.0,0.0032,0.0004,0.0,0.0004
+app for kids,0.0,0.0,0.0,0.0042,0.003,0.0,0.0006
+app for young children,0.0002,0.0,0.0002,0.0048,0.0,0.0,0.0002
+app login/registration issues,0.0022,0.0012,0.0,0.0008,0.0134,0.022,0.0048
+app loved by kids,0.0,0.0,0.0,0.005,0.0002,0.0,0.0002
+app performance feedback,0.0,0.0,0.0,0.0042,0.001,0.0002,0.0
+app quality evaluation,0.0,0.0,0.0,0.0,0.0054,0.0002,0.0
+appreciation for app,0.0,0.0,0.0,0.0074,0.0,0.0,0.0008
+appreciation/gratitude,0.0,0.0,0.0,0.0018,0.0022,0.0,0.0004
+best educational apps for kids,0.0,0.0,0.0,0.016,0.0102,0.0002,0.0006
+best kids apps,0.0,0.0002,0.0,0.0032,0.006,0.0,0.0004
+child education apps,0.0,0.0,0.0,0.0046,0.0028,0.0006,0.0002
+child's learning experience,0.0,0.0006,0.0004,0.0318,0.004,0.0012,0.002
+children enjoying app,0.0,0.0002,0.0,0.0054,0.0,0.0,0.0
+children's app reviews,0.0,0.0,0.0,0.003,0.0042,0.0,0.0
+children's book library app,0.0,0.0,0.0,0.0028,0.0006,0.0002,0.0
+children's gaming experience,0.0,0.0002,0.0,0.0068,0.0016,0.0004,0.0002
+children's learning application,0.0,0.0,0.0,0.002,0.0,0.0,0.0004
+children's learning improvement,0.0,0.0,0.0,0.0012,0.0014,0.0,0.0002
+connectivity issues,0.0,0.0002,0.0002,0.0032,0.0018,0.0014,0.0004
+early learning experience,0.0,0.0,0.0,0.0046,0.0014,0.0,0.0002
+easy to use educational app,0.0,0.0,0.0,0.0024,0.0016,0.0,0.0
+educational app for kids,0.0,0.0,0.0,0.0048,0.0,0.0,0.0004
+educational app reviews,0.0,0.0,0.0,0.0032,0.0008,0.0,0.0002
+educational application for kids,0.0,0.0,0.0,0.0028,0.001,0.0,0.0
+educational children's app,0.0,0.0,0.0002,0.0,0.0026,0.0,0.0
+educational content,0.0,0.0,0.0,0.0016,0.003,0.0002,0.0
+educational fun for kids,0.0,0.0,0.0,0.0028,0.0002,0.0,0.0002
+educational learning tools,0.0,0.0,0.0,0.0046,0.0022,0.0,0.0002
+educational level difficulty,0.0,0.0,0.0,0.0014,0.0028,0.0002,0.0004
+educational program progression,0.0,0.0,0.0,0.002,0.0,0.0,0.0
+emojis/non-textual reviews,0.0,0.0,0.0002,0.0002,0.0088,0.0,0.0
+engaging educational content,0.0,0.0,0.0,0.0044,0.0012,0.0,0.0002
+excellent app feedback,0.0,0.0,0.0,0.0024,0.0116,0.0,0.0
+excellent app praise,0.0,0.0,0.0,0.0008,0.0016,0.0,0.0002
+free app appreciation,0.0002,0.0002,0.0,0.0034,0.0012,0.0,0.0008
+free educational apps,0.0,0.0,0.0,0.0022,0.0,0.0,0.0008
+free learning games,0.0,0.0,0.0002,0.005,0.0014,0.0,0.0012
+fun and educational,0.0,0.0,0.0,0.0054,0.0,0.0,0.0
+good for children's development,0.0,0.0002,0.0,0.002,0.0,0.0,0.0
+good for kids,0.0,0.0,0.0,0.0036,0.0016,0.0,0.0002
+good kids' app,0.0,0.0,0.0,0.0066,0.0008,0.0,0.0
+great kids' app,0.0,0.0,0.0,0.005,0.0004,0.0,0.0002
+halloween theme concerns,0.0004,0.0012,0.0002,0.0006,0.0006,0.0004,0.0002
+helpful app feedback,0.0,0.0,0.0,0.0034,0.0014,0.0,0.0
+helpful for kids,0.0,0.0,0.0002,0.007,0.0026,0.0,0.0002
+highly recommended choices,0.0,0.0,0.0,0.0,0.0022,0.0,0.0
+homeschooling app experience,0.0,0.0,0.0,0.0018,0.0008,0.0,0.0004
+homeschooling tools and resources,0.0,0.0,0.0,0.003,0.0014,0.0,0.0006
+impressive features,0.0,0.0,0.0,0.0002,0.0004,0.0,0.0024
+initial user impressions,0.0,0.0,0.0,0.0034,0.0008,0.0,0.0
+kid-friendly educational apps,0.0,0.0,0.0,0.0022,0.0004,0.0,0.0
+kids love the app,0.0,0.0002,0.0,0.0072,0.0004,0.0,0.0004
+kids love this app,0.0,0.0,0.0,0.0054,0.0002,0.0002,0.0002
+kids loving the app,0.0,0.0,0.0,0.003,0.0,0.0,0.0
+language learning app,0.0,0.0,0.0,0.0034,0.002,0.0,0.0004
+language options,0.0,0.0,0.0,0.0018,0.005,0.0014,0.001
+learning progress,0.0,0.0,0.0,0.0008,0.0008,0.0,0.0004
+mixed app reactions,0.0002,0.0002,0.0,0.007,0.0008,0.0,0.0018
+multilingual learning apps,0.0,0.0004,0.0002,0.001,0.0052,0.0004,0.0
+negative feedback,0.0004,0.0012,0.0,0.0,0.0004,0.0004,0.0
+positive app feedback,0.0002,0.0002,0.0,0.0184,0.0168,0.0002,0.002
+positive app praise,0.0002,0.0004,0.0002,0.0024,0.0002,0.0,0.0006
+positive app reviews,0.0,0.0,0.0,0.0186,0.007,0.0002,0.0002
+positive experience feedback,0.0002,0.0,0.0,0.0024,0.0004,0.0,0.0006
+positive feedback,0.0,0.0002,0.0002,0.0118,0.0204,0.0002,0.0026
+positive feedback/reactions,0.0,0.0002,0.0,0.0026,0.0022,0.0,0.002
+positive performance evaluation,0.0,0.0002,0.0,0.0028,0.006,0.0,0.0002
+positive reviews,0.0,0.0,0.0,0.001,0.0244,0.0002,0.0
+positive sentiments,0.0,0.0,0.0,0.0012,0.0008,0.0004,0.0
+praise and admiration,0.0,0.0,0.0002,0.0,0.0018,0.0,0.0008
+praise for app quality,0.0,0.0,0.0,0.0024,0.0006,0.0,0.003
+product satisfaction,0.0,0.0002,0.0,0.001,0.0068,0.0002,0.0
+rating the app,0.0,0.0002,0.0,0.0016,0.0014,0.0002,0.0
+reading enjoyment and rewards,0.0,0.0,0.0,0.0018,0.0002,0.0,0.0
+super high performance,0.0,0.0,0.0,0.0,0.0028,0.0,0.0
+usefulness of app,0.0004,0.0,0.0,0.0016,0.003,0.0,0.0004

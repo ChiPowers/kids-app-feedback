@@ -1,0 +1,104 @@
+merged_topic_label,negative_proportion,total_reviews,pain_point_flag
+"""adding voice chat to minecraft""",0.0,25,False
+"""bedrock vs java edition complaints""",0.20588235294117646,68,False
+"""best game forever""",0.0,15,False
+"""best game in world""",0.0,19,False
+"""best game praise""",0.0,34,False
+"""best game reviews""",0.0,18,False
+"""best""",0.02631578947368421,38,False
+"""comparing roblox to other games""",0.16666666666666666,18,False
+"""excitement over app features""",0.07692307692307693,13,False
+"""favorite app praise""",0.038461538461538464,26,False
+"""fun and enjoyable experience""",0.11538461538461539,26,False
+"""game appreciation""",0.018518518518518517,54,False
+"""high praise for game""",0.0625,16,False
+"""minecraft download issues""",0.639344262295082,61,True
+"""minecraft game feedback""",0.1346153846153846,52,False
+"""minecraft game reviews""",0.06451612903225806,31,False
+"""minecraft installation issues""",0.06451612903225806,31,False
+"""minecraft mobile performance issues""",0.5128205128205128,39,True
+"""mobile and pc gaming experience""",0.13333333333333333,15,False
+"""mojang game appreciation""",0.0,28,False
+"""opinion on app""",0.0,29,False
+"""opinion on game performance""",0.03571428571428571,28,False
+"""positive game reviews""",0.037037037037037035,27,False
+"""request for voice chat feature""",0.03571428571428571,56,False
+"""requests for free mods""",0.11764705882352941,17,False
+"""technoblade never dies"" theme",0.3,20,False
+"""voice chat in bedrock edition""",0.045454545454545456,22,False
+"""wow factor""",0.0,10,False
+Unknown,0.23325062034739455,1209,False
+account login issues,0.6129032258064516,31,True
+achievement recognition issues,0.8333333333333334,12,True
+app crashing issues,0.7741935483870968,31,True
+app download issues,0.8,20,True
+app purchase and pricing,0.24444444444444444,45,False
+app rating and features,0.041666666666666664,24,False
+appreciation for mojang games,0.0,10,False
+average gaming experience,0.09523809523809523,21,False
+best game ever,0.07142857142857142,42,False
+best game ever played,0.037037037037037035,54,False
+best game praise,0.0,115,False
+best game reviews,0.0,21,False
+beta version issues,0.5869565217391305,46,True
+bug issues & controls,0.18333333333333332,60,False
+children's creative game,0.06666666666666667,15,False
+creative building games,0.07936507936507936,63,False
+data transfer/backup options,0.41379310344827586,29,True
+demand for game updates,0.2535211267605634,71,False
+download issues,0.6097560975609756,41,True
+emotional gaming experience,0.2727272727272727,11,False
+endless creativity and exploration,0.09523809523809523,21,False
+favorite game praise,0.019230769230769232,52,False
+favorite minecraft experiences,0.0,16,False
+free add-ons and features,0.21739130434782608,23,False
+fun experience,0.045454545454545456,22,False
+game appreciation,0.07142857142857142,14,False
+game enhancements and additions,0.2,20,False
+game performance issues,0.5131578947368421,76,True
+game praise and terminology,0.06666666666666667,15,False
+game quality opinions,0.03225806451612903,93,False
+game quality reviews,0.020618556701030927,97,False
+game reviews,0.14285714285714285,14,False
+good game reviews,0.0,49,False
+good survival game,0.06451612903225806,31,False
+hindi language reviews,0.10784313725490197,102,False
+ineffable appreciation,0.15,20,False
+installation issues,0.7386363636363636,88,True
+issues with purchased content,0.6363636363636364,11,True
+login issues,0.5,14,True
+login issues and errors,0.56,25,True
+long-term gameplay enjoyment,0.0,14,False
+lost/deleted game worlds,0.44680851063829785,47,True
+love for game,0.06666666666666667,15,False
+minecraft appreciation,0.14285714285714285,21,False
+minecraft game reviews,0.0625,48,False
+mob voting and updates,0.23529411764705882,17,False
+multiplayer server issues,0.26666666666666666,15,False
+nostalgic childhood games,0.0,11,False
+performance and optimization issues,0.625,16,True
+playing with friends,0.08450704225352113,71,False
+positive app feedback,0.0,11,False
+positive emojis feedback,0.01098901098901099,91,False
+positive emotions/ love for app,0.09090909090909091,55,False
+positive emotions/reactions,0.0,30,False
+positive feedback,0.02666666666666667,150,False
+positive game reviews,0.05,120,False
+positive praise,0.058823529411764705,17,False
+positive reactions,0.0,57,False
+praise for game quality,0.0,17,False
+quality evaluation,0.08695652173913043,46,False
+rating and review conditions,0.0,23,False
+realm creation issues,0.3333333333333333,18,False
+request for copper golem update,0.13095238095238096,84,False
+request for minecraft voice chat,0.03333333333333333,30,False
+request for voice chat feature,0.0,39,False
+requesting refunds,0.75,24,True
+sandbox game experience,0.16666666666666666,12,False
+server connection issues,0.6415094339622641,106,True
+skin import issues,0.45454545454545453,44,True
+survival game experience,0.0,11,False
+unlimited creativity,0.0,38,False
+very good game reviews,0.0,19,False
+vibrant visuals optimization,0.2978723404255319,47,False
+voice chat feature requests,0.15384615384615385,26,False

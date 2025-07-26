@@ -1,0 +1,90 @@
+merged_topic_label,anger,disgust,fear,joy,neutral,sadness,surprise
+"""angela character interactions""",0.0,0.0,0.0002,0.0012,0.0006,0.0002,0.0
+"""best game reviews""",0.0,0.0,0.0,0.0026,0.0084,0.0,0.0
+"""boring and glitchy game""",0.0,0.0004,0.0,0.0004,0.0012,0.0032,0.0004
+"""cool and relaxing experience""",0.0,0.0,0.0,0.003,0.0018,0.0,0.0002
+"""cute app features""",0.0,0.0014,0.0,0.004,0.0004,0.0,0.0
+"""cute tom cat appreciation""",0.0,0.0004,0.0002,0.0078,0.0026,0.0002,0.0006
+"""entertaining and interesting games""",0.0,0.0,0.0002,0.0064,0.0002,0.0004,0.0004
+"""expressions of approval""",0.0004,0.0,0.0,0.0,0.012,0.0004,0.0002
+"""fun experience""",0.0,0.0002,0.0,0.006,0.0,0.0,0.0
+"""general user feedback""",0.0,0.0,0.0,0.0002,0.002,0.0,0.0
+"""positive game reviews""",0.0,0.0,0.0,0.0114,0.0002,0.0,0.0006
+"""scary glitches and bugs""",0.0006,0.0018,0.0094,0.0004,0.0058,0.0006,0.0008
+"""snake game quality issues""",0.0,0.0,0.0002,0.0012,0.0008,0.0002,0.0
+"""tom character appreciation""",0.0,0.0002,0.0,0.0054,0.0038,0.0004,0.0002
+"""top performance evaluation""",0.0,0.0002,0.0,0.0002,0.0086,0.0,0.0006
+"""very good game""",0.0,0.0,0.0,0.0076,0.0,0.0002,0.0
+Unknown,0.0046,0.004,0.0046,0.0706,0.0474,0.0134,0.0084
+app appreciation,0.0002,0.0002,0.0,0.0084,0.004,0.0002,0.0004
+app functionality and features,0.0002,0.0,0.0,0.001,0.001,0.0004,0.0
+app performance satisfaction,0.0,0.0,0.0,0.0044,0.0002,0.0006,0.0
+app security concerns,0.0,0.0002,0.0004,0.0,0.001,0.0,0.0004
+appreciation for aesthetics,0.0,0.0,0.0,0.0104,0.0018,0.0,0.0002
+arabic game reviews,0.0002,0.0,0.0,0.0,0.0078,0.0,0.0
+bengali app feedback,0.0,0.0,0.0,0.0,0.002,0.0,0.0
+best features/appreciation,0.0,0.0004,0.0,0.0014,0.0024,0.0,0.0
+best game ever,0.0,0.0,0.0,0.0026,0.0038,0.0,0.001
+best game praise,0.0,0.0002,0.0,0.0016,0.0016,0.0,0.0014
+best gaming platform,0.0,0.0,0.0,0.001,0.0014,0.0,0.0
+cat themed games,0.0,0.0002,0.0002,0.0074,0.0024,0.001,0.0004
+character's cuteness appreciation,0.0002,0.0,0.0,0.0032,0.0,0.0,0.0002
+child-friendly app content,0.0002,0.0,0.0002,0.0022,0.0006,0.0002,0.0004
+childhood memories in games,0.0,0.0,0.0002,0.0022,0.001,0.0002,0.0
+children's game reviews,0.0,0.0,0.001,0.0168,0.003,0.0,0.0006
+cool game reviews,0.0,0.0,0.0,0.0022,0.0018,0.0,0.0002
+desire for realism,0.0,0.0,0.0,0.001,0.0026,0.0,0.0002
+download issues,0.0,0.0,0.0002,0.0026,0.0016,0.0016,0.0002
+emotional expressions,0.0,0.0,0.0,0.0022,0.0,0.0004,0.0
+enjoyable productivity,0.0,0.0,0.0,0.0072,0.0004,0.0002,0.0
+enjoyment and repetition,0.0,0.0002,0.0,0.0064,0.001,0.0,0.0
+exaggerated positive feedback,0.0,0.0,0.0,0.0006,0.002,0.0,0.0004
+excessive ads complaints,0.0012,0.001,0.0,0.0044,0.002,0.0014,0.0014
+excessive advertisements,0.0004,0.0004,0.0,0.0006,0.004,0.0022,0.0012
+expressions of amazement,0.0,0.0,0.0,0.0,0.0002,0.0,0.0064
+expressions of love,0.0,0.0,0.0,0.003,0.0008,0.0008,0.0002
+favorite game reviews,0.0,0.0,0.0,0.0044,0.0,0.0004,0.0
+foreign language reviews,0.0,0.0,0.0002,0.0002,0.0046,0.0,0.0
+fun gaming experience,0.0,0.0,0.0,0.0114,0.0012,0.001,0.0002
+funny puzzle game,0.0,0.0,0.0,0.0042,0.0,0.0,0.0006
+game appreciation,0.0,0.0,0.0,0.0088,0.0,0.0,0.0004
+game enjoyed by siblings,0.0,0.0,0.0,0.0064,0.0002,0.0008,0.0004
+game performance feedback,0.0,0.0,0.0,0.001,0.0008,0.0006,0.0
+game playing experience,0.0,0.0002,0.0,0.002,0.0006,0.0,0.0
+game quality and enjoyment,0.0,0.0,0.0,0.0024,0.0018,0.0,0.0032
+game quality and graphics,0.0,0.0,0.0,0.0148,0.0004,0.0006,0.0006
+game reviews in hindi,0.0006,0.001,0.001,0.009,0.0148,0.0006,0.0008
+game satisfaction,0.0,0.0002,0.0,0.0004,0.0014,0.0,0.0004
+gaming terms and reactions,0.0,0.0,0.0,0.0,0.0028,0.0,0.0002
+good hack game reviews,0.0,0.0,0.0,0.0038,0.0,0.0,0.0
+high praise for game,0.0,0.0,0.0,0.0034,0.0006,0.0,0.0002
+high score praise,0.0,0.0,0.0,0.0004,0.0014,0.0,0.0002
+humor and interest,0.0006,0.0004,0.0,0.007,0.002,0.0002,0.0026
+in-app purchases complaints,0.0,0.0,0.0,0.001,0.0018,0.0008,0.0008
+incomprehensible reviews,0.0,0.0002,0.0,0.0002,0.0042,0.0,0.0
+kids-friendly apps,0.0,0.0002,0.0,0.0056,0.0012,0.0004,0.0
+mixed app feedback,0.0,0.0012,0.0,0.0004,0.0004,0.0006,0.0
+negative game reviews,0.0002,0.0016,0.0,0.0,0.0,0.0018,0.0
+negative user experience,0.0002,0.0032,0.0004,0.0,0.0,0.0008,0.0002
+nice game reviews,0.0,0.0,0.0002,0.0184,0.0006,0.0002,0.0004
+non-english reviews,0.0,0.0,0.0,0.0,0.0044,0.0,0.0
+offline gaming experience,0.0,0.0,0.0,0.0024,0.001,0.0002,0.0
+outfit7 app updates,0.0002,0.0002,0.0,0.003,0.0018,0.001,0.0006
+playing since childhood,0.0,0.0002,0.0,0.0068,0.0014,0.0,0.0008
+positive app feedback,0.0,0.0,0.0,0.0104,0.0004,0.0,0.0
+positive app reviews,0.0,0.0,0.0002,0.0024,0.0006,0.0,0.0
+positive feedback,0.0,0.0004,0.0,0.0398,0.0596,0.0004,0.0008
+positive feedback/reactions,0.0,0.0002,0.0002,0.0008,0.035,0.0,0.0002
+positive game aesthetics,0.0,0.0,0.0,0.0074,0.0,0.0,0.0008
+positive game reviews,0.0002,0.0,0.0,0.0382,0.005,0.0002,0.002
+positive gaming experience,0.0,0.0,0.0,0.0062,0.0008,0.0,0.0
+positive reactions,0.0,0.0,0.0,0.0078,0.0256,0.0,0.0016
+positive sentiment expressions,0.0,0.0006,0.0,0.0018,0.0018,0.0002,0.0004
+rating and reviews,0.0,0.0,0.0,0.0036,0.001,0.0002,0.0002
+rating/star reviews,0.0002,0.0,0.0002,0.0004,0.0032,0.0,0.0
+real money and coins issues,0.001,0.0004,0.0,0.0008,0.0014,0.0008,0.0006
+super enjoyment,0.0,0.0,0.0,0.0008,0.003,0.0,0.0002
+super enthusiasm,0.0,0.0,0.0,0.0006,0.013,0.0,0.0006
+talking tom app enjoyment,0.0,0.0,0.0,0.0054,0.0052,0.0002,0.0006
+talking tom game experience,0.0,0.0004,0.0008,0.0308,0.0032,0.0008,0.0028
+time pass games,0.0,0.0,0.0,0.002,0.0018,0.0,0.0002

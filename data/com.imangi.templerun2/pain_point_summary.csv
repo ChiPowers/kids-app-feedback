@@ -1,0 +1,85 @@
+merged_topic_label,negative_proportion,total_reviews,pain_point_flag
+"""appreciation for game""",0.0,85,False
+"""expressions of amazement""",0.0,22,False
+"""fun but repetitive gameplay""",0.04,25,False
+"""holi festival theme issues""",0.5882352941176471,17,True
+"""interesting app experience""",0.0,20,False
+"""interesting game experience""",0.027777777777777776,36,False
+"""mobile gaming experience""",0.07692307692307693,13,False
+"""neutral or okay responses""",0.0,43,False
+"""positive app feedback""",0.0,65,False
+"""positive game reviews""",0.03125,32,False
+"""super"" appreciation",0.02040816326530612,49,False
+"""temple run 2 feedback""",0.11214953271028037,214,False
+"""tilt control issues""",0.5,16,True
+Unknown,0.15819209039548024,708,False
+adventure gaming experience,0.045454545454545456,44,False
+app appreciation,0.07894736842105263,76,False
+app quality evaluation,0.07142857142857142,56,False
+average quality reviews,0.6756756756756757,37,True
+background music issues,0.25925925925925924,27,False
+beautiful game appreciation,0.0,16,False
+best game reviews,0.03488372093023256,86,False
+best offline games,0.07142857142857142,28,False
+challenging game enjoyment,0.07142857142857142,14,False
+difficulty unlocking levels,0.15384615384615385,13,False
+endless gameplay enjoyment,0.05263157894736842,19,False
+enjoyment and satisfaction,0.09523809523809523,21,False
+excellent ads,0.0,18,False
+excessive ads complaints,0.5211267605633803,71,True
+excessive advertisements,0.29411764705882354,34,False
+expressing excitement,0.0,28,False
+expressions of love,0.05263157894736842,19,False
+favorite game,0.0625,64,False
+fun gameplay experience,0.0,16,False
+game appreciation,0.0,46,False
+game difficulty and interest,0.2619047619047619,42,False
+game enjoyment,0.07692307692307693,13,False
+game experience feedback,0.058823529411764705,17,False
+game preferences,0.15384615384615385,13,False
+gameplay repetitiveness,0.6857142857142857,35,True
+general feedback,0.07142857142857142,14,False
+global and weekly challenges,0.2,15,False
+good game reviews,0.043478260869565216,23,False
+good mobile game,0.0,14,False
+graphics quality and performance,0.12121212121212122,33,False
+installation issues,0.4098360655737705,61,True
+kids' adventure games,0.0,23,False
+lost game progress/items,0.4,10,False
+map variety and changes,0.1111111111111111,63,False
+misleading game content,0.25,24,False
+missing game maps,0.42857142857142855,14,True
+mixed feelings,0.2222222222222222,27,False
+negative feedback/reviews,0.9230769230769231,39,True
+negative game reviews,0.967741935483871,31,True
+nice game reviews,0.0,48,False
+non-english reviews,0.09491525423728814,295,False
+nostalgia and memories,0.4230769230769231,26,True
+nostalgic childhood games,0.07142857142857142,56,False
+nostalgic memories,0.05,40,False
+offline playability,0.2,15,False
+positive app feedback,0.0,84,False
+positive appreciation,0.0,20,False
+positive bike reviews,0.0,20,False
+positive feedback,0.004514672686230248,443,False
+positive feedback and recommendations,0.0,13,False
+positive feedback/reactions,0.015151515151515152,66,False
+positive game reviews,0.006872852233676976,582,False
+positive impressions,0.0,12,False
+positive reactions,0.0,24,False
+positive reviews,0.07936507936507936,63,False
+positive sentiments and gratitude,0.0,12,False
+praise and satisfaction,0.0,11,False
+praise for game,0.0,44,False
+praise for game quality,0.0,14,False
+preference for old version,0.11538461538461539,26,False
+rating and stars,0.10526315789473684,38,False
+running games,0.09433962264150944,53,False
+stress relief and relaxation,0.04081632653061224,49,False
+super adventure games,0.0,45,False
+super fun reactions,0.0,12,False
+superb game reviews,0.058823529411764705,17,False
+time passing apps,0.08,50,False
+unclear/non-english reviews,0.028735632183908046,174,False
+unlocking maps and gems,0.3783783783783784,37,False
+update issues,0.22727272727272727,22,False

@@ -1,0 +1,90 @@
+merged_topic_label,negative_proportion,total_reviews,pain_point_flag
+"""amazing variety""",0.0,23,False
+"""app satisfaction and performance""",0.15384615384615385,13,False
+"""best ever""",0.0,46,False
+"""enjoyable entertainment""",0.0,26,False
+"""enjoyment and fun""",0.14285714285714285,14,False
+"""expressions of surprise""",0.0,17,False
+"""interesting and enjoyable""",0.0,10,False
+"""positive education app reviews""",0.0,28,False
+"""quality of app""",0.1111111111111111,18,False
+"""youtube kids app issues""",0.16279069767441862,43,False
+"""youtube kids app""",0.10714285714285714,28,False
+"""youtube kids enjoyment""",0.07142857142857142,56,False
+Unknown,0.16270783847980996,842,False
+account access issues,0.2631578947368421,19,False
+ad pop-up complaints,0.25,16,False
+app affection,0.13333333333333333,30,False
+app for babies,0.09090909090909091,22,False
+app loved by kids,0.02040816326530612,49,False
+app opening/update issues,0.5,38,True
+app quality opinions,0.23076923076923078,13,False
+appreciation for app,0.0,63,False
+appreciation for effort,0.0,12,False
+arabic kids app reviews,0.029411764705882353,34,False
+background play and settings issues,0.45,20,True
+best app reviews,0.0,19,False
+best for kids,0.05,20,False
+best kids vocabulary app,0.03571428571428571,28,False
+channel subscription issues,0.3076923076923077,13,False
+child safety features,0.06896551724137931,29,False
+children's app content concerns,0.16,25,False
+children's app reviews,0.029411764705882353,68,False
+children's educational apps,0.07142857142857142,14,False
+children's video content,0.3170731707317073,41,False
+connection and download issues,0.48148148148148145,27,True
+ease of use & relevance,0.0,22,False
+educational app for kids,0.05,20,False
+educational fun for kids,0.0,14,False
+educational kids' app,0.020833333333333332,48,False
+educational technology,0.07142857142857142,28,False
+english learning aid,0.05555555555555555,18,False
+exceptional performance,0.058823529411764705,17,False
+experience quality,0.125,32,False
+expressions of gratitude,0.05263157894736842,19,False
+foreign language reviews,0.05511811023622047,127,False
+general feedback,0.0031446540880503146,636,False
+good for kids,0.05,60,False
+great for kids,0.0,37,False
+great story experiences,0.0,17,False
+helpfulness of app,0.06666666666666667,15,False
+inappropriate content concerns,0.45454545454545453,55,True
+inappropriate content filtering,0.48717948717948717,39,True
+kid-friendly app experience,0.0,18,False
+kids enjoyment,0.0,22,False
+kids loving the app,0.03260869565217391,92,False
+kids' channels satisfaction,0.07692307692307693,13,False
+kids' entertainment app,0.030303030303030304,33,False
+language settings/options,0.5,16,True
+mixed emotions,0.15384615384615385,52,False
+negative app reviews,0.7307692307692307,26,True
+negative feedback/reviews,0.7887323943661971,71,True
+neutral/ambivalent responses,0.060240963855421686,83,False
+nice app reviews,0.0,33,False
+nice kids' services,0.0,27,False
+non-english reviews,0.06666666666666667,15,False
+parental control features,0.2,15,False
+positive aesthetic feedback,0.0,15,False
+positive affection,0.02564102564102564,39,False
+positive app feedback,0.01048951048951049,286,False
+positive app reviews,0.008403361344537815,119,False
+positive emotions,0.0,90,False
+positive experience,0.9166666666666666,12,True
+positive expressions,0.10526315789473684,38,False
+positive feedback,0.004651162790697674,430,False
+positive feedback/reactions,0.0,22,False
+positive reactions,0.0,75,False
+positive reviews,0.0625,16,False
+quality and performance feedback,0.041666666666666664,24,False
+rating and connectivity issues,0.043478260869565216,23,False
+screen lock feature,0.125,16,False
+search function issues,0.38461538461538464,13,False
+suitable for kids,0.056338028169014086,71,False
+superb application feedback,0.03333333333333333,30,False
+unsafe children's content,0.6428571428571429,28,True
+unwanted app removal issues,0.46153846153846156,13,True
+useful children's app,0.06896551724137931,29,False
+video playback issues,0.5348837209302325,43,True
+watching cartoons,0.11764705882352941,17,False
+youtube comparisons,0.05263157894736842,19,False
+youtube kids content concerns,0.2765957446808511,47,False

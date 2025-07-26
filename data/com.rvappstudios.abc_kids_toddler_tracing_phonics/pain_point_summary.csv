@@ -1,0 +1,101 @@
+merged_topic_label,negative_proportion,total_reviews,pain_point_flag
+"""abc learning""",0.017543859649122806,57,False
+"""app quality opinions""",0.045454545454545456,22,False
+"""appreciation for apps""",0.0,45,False
+"""appreciation for rv app studios""",0.0,17,False
+"""best game ever""",0.03571428571428571,28,False
+"""entertaining gameplay""",0.0,15,False
+"""kids' apps""",0.0,14,False
+"""lucas and friends app reviews""",0.10526315789473684,19,False
+"""nice app for kids""",0.14285714285714285,14,False
+"""nice collection feature""",0.0,118,False
+"""usefulness of app""",0.0,20,False
+Unknown,0.0625,1200,False
+abc kids app reviews,0.0,25,False
+abc learning app,0.07142857142857142,14,False
+alphabet learning app,0.08366533864541832,251,False
+app appreciation,0.04477611940298507,67,False
+app enjoyed by young girls,0.03571428571428571,28,False
+app flags and learning,0.05555555555555555,18,False
+app for young children,0.0,11,False
+app functionality issues,0.5324675324675324,77,True
+app quality evaluation,0.038461538461538464,52,False
+app quality praise,0.0,67,False
+app rating and ads feedback,0.11764705882352941,17,False
+appreciation and inspiration,0.0,26,False
+appreciation for app,0.0,14,False
+appreciation for children's work,0.0,10,False
+appreciation for educational apps,0.058823529411764705,17,False
+appreciation for work done,0.0,21,False
+arabic app reviews,0.06666666666666667,15,False
+baby learning apps,0.08333333333333333,12,False
+baby learning games,0.06666666666666667,15,False
+best children's app,0.0,22,False
+best for kids,0.0,21,False
+birthday messages and updates,0.0,12,False
+children's learning game issues,0.10526315789473684,19,False
+early childhood learning apps,0.0,39,False
+educational app for children,0.14285714285714285,35,False
+educational content,0.0,38,False
+educational fun game,0.038461538461538464,52,False
+educational kids app,0.0,14,False
+educational kids app appreciation,0.0,30,False
+educational learning aid,0.0,13,False
+emotional expressions,0.04,100,False
+emotional reactions,0.11428571428571428,35,False
+expressions of gratitude,0.0,27,False
+fantastic feedback,0.0,11,False
+fantastic kids activity,0.0,16,False
+filipino language kids apps,0.058823529411764705,17,False
+five star reviews,0.08333333333333333,24,False
+free app appreciation,0.0,19,False
+game enjoyed by siblings,0.06060606060606061,33,False
+game performance reviews,0.30434782608695654,23,False
+game sentiments,0.14285714285714285,21,False
+general approval,0.023809523809523808,42,False
+general positive feedback,0.003003003003003003,333,False
+good for children,0.0,24,False
+good for kids,0.0,34,False
+helpful for children,0.023255813953488372,43,False
+helpfulness of app,0.0,19,False
+hindi learning app reviews,0.05555555555555555,18,False
+incomprehensible reviews,0.22727272727272727,22,False
+incomprehensible terms,0.14285714285714285,21,False
+kids abc tracing apps,0.0,21,False
+kids enjoying app,0.0,48,False
+kids learning efficiency,0.06060606060606061,33,False
+kids' app enjoyment,0.037037037037037035,27,False
+kids' app reviews,0.08695652173913043,23,False
+kids' educational apps,0.02857142857142857,70,False
+kids' games,0.02,50,False
+kids-friendly app reviews,0.023809523809523808,42,False
+language options request,0.05263157894736842,19,False
+learning abcs through play,0.08333333333333333,24,False
+mixed feelings,0.18181818181818182,11,False
+negative feedback,0.8666666666666667,15,True
+nice app for children,0.0,14,False
+nice kids' app,0.0,13,False
+no ads/app is free,0.04285714285714286,70,False
+nonsensical/unintelligible reviews,0.1875,16,False
+parent and kids app enjoyment,0.0625,16,False
+positive affection,0.047619047619047616,21,False
+positive app experience,0.0,23,False
+positive app feedback,0.0,60,False
+positive app reviews,0.0,54,False
+positive entertainment reviews,0.0,26,False
+positive feedback,0.013559322033898305,295,False
+positive feedback/appreciation,0.0,20,False
+positive game reviews,0.020833333333333332,48,False
+positive reactions,0.0,46,False
+positive satisfaction,0.0,15,False
+praise and positive reviews,0.0,37,False
+praise for app creators,0.0,14,False
+religious love expressions,0.06666666666666667,15,False
+request for tamil language addition,0.0967741935483871,31,False
+step-by-step learning system,0.0,29,False
+toddler learning apps,0.0,15,False
+unclear/confusing feedback,0.109375,64,False
+useful and informative app,0.0,24,False
+usernames and languages,0.045454545454545456,110,False
+wow/impressed reactions,0.0,20,False
+youtube video uploads,0.0,18,False

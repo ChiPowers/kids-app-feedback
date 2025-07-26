@@ -1,0 +1,78 @@
+merged_topic_label,negative_proportion,total_reviews,pain_point_flag
+"""boring user experience""",0.7727272727272727,22,True
+"""fun app experience""",0.047619047619047616,21,False
+"""fun game reviews""",0.11764705882352941,17,False
+"""likes and preferences""",0.14285714285714285,14,False
+"""megastar mansion issues""",0.21428571428571427,14,False
+"""no ads, offline gameplay""",0.11764705882352941,17,False
+"""requests for free houses""",0.2916666666666667,48,False
+"""toca boca app features""",0.19090909090909092,770,False
+"""wow reactions""",0.0,11,False
+Unknown,0.2494901427600272,1471,False
+account and device syncing,0.21052631578947367,19,False
+app aesthetics and design,0.15,20,False
+app glitches/issues,0.17857142857142858,28,False
+app quality and features,0.14814814814814814,54,False
+avatar world comparisons,0.2553191489361702,47,False
+best game appreciation,0.05555555555555555,18,False
+best game ever,0.037037037037037035,27,False
+character clothing customization,0.07692307692307693,26,False
+character creation and customization,0.027777777777777776,36,False
+character movement complaints,0.52,25,True
+children's game reviews,0.038461538461538464,26,False
+customizable design features,0.0,10,False
+design and story creation,0.0,12,False
+desire for more free content,0.23684210526315788,38,False
+download and storage issues,0.7142857142857143,49,True
+emotional reactions,0.06666666666666667,15,False
+enjoyable and fun app,0.0,16,False
+expressing love and affection,0.18181818181818182,22,False
+expressing love for app,0.15625,32,False
+extreme fun enjoyment,0.0,11,False
+extreme love for app,0.0,28,False
+foreign language reviews,0.26666666666666666,45,False
+free game paywalls,0.2727272727272727,11,False
+friday gift issues,0.34782608695652173,23,False
+fun and creativity,0.08,25,False
+fun entertainment,0.0,15,False
+furniture in game,0.5,12,True
+game bugs/issues,0.46153846153846156,13,True
+game resetting issues,0.4423076923076923,52,True
+game updates and love,0.07407407407407407,27,False
+gameplay experience,0.09090909090909091,11,False
+gameplay glitches and issues,0.6363636363636364,11,True
+general positive feedback,0.0,32,False
+gifts and in-app purchases,0.08333333333333333,12,False
+good for children,0.15384615384615385,13,False
+happy with toy,0.05555555555555555,18,False
+home designing app issues,0.28,25,False
+in-app purchases,0.2840909090909091,88,False
+issues with receiving gifts,0.5454545454545454,11,True
+k-pop collaboration updates,0.13333333333333333,165,False
+kids love this game,0.0,27,False
+lost purchases on new device,0.6391752577319587,97,True
+missing gifts issue,0.5,20,True
+multiplayer and friend features,0.05555555555555555,18,False
+newbie experience & game improvements,0.45454545454545453,11,True
+nostalgia / childhood memories,0.0,31,False
+offline playability,0.1111111111111111,36,False
+pack delivery issues,0.22916666666666666,48,False
+payment and purchase frustrations,0.5294117647058824,17,True
+positive and negative evaluations,0.05263157894736842,19,False
+positive app experience,0.0,11,False
+positive app feedback,0.0,63,False
+positive app reviews,0.1282051282051282,78,False
+positive feedback,0.0,33,False
+positive feedback/appreciation,0.0,12,False
+positive game reviews,0.02591792656587473,463,False
+positive reactions,0.0,44,False
+positive slang feedback,0.2,20,False
+price concerns,0.41379310344827586,29,True
+rating satisfaction,0.24489795918367346,49,False
+request for more free features,0.3,30,False
+request for more free houses,0.24096385542168675,83,False
+requests for additional features,0.0,10,False
+role-playing fun,0.07692307692307693,39,False
+slow loading time,0.4444444444444444,18,True
+unclear/non-english reviews,0.041666666666666664,48,False
+update issues,0.589041095890411,73,True

@@ -1,0 +1,97 @@
+merged_topic_label,negative_proportion,total_reviews,pain_point_flag
+"""best game ever played""",0.0,42,False
+"""best game ever""",0.022222222222222223,45,False
+"""best game praise""",0.05813953488372093,86,False
+"""best gaming experience""",0.05660377358490566,53,False
+"""change from friends to connections""",0.3076923076923077,65,False
+"""complaints about brainrot games""",0.45454545454545453,22,True
+"""cool and nice comments""",0.0,21,False
+"""cool gaming experience""",0.0,19,False
+"""dandy's world game reviews""",0.07692307692307693,13,False
+"""enjoyable and fun""",0.02857142857142857,35,False
+"""enjoyable entertainment""",0.0,46,False
+"""expressions of surprise""",0.0,12,False
+"""fun family entertainment""",0.06666666666666667,30,False
+"""highly praised games""",0.05555555555555555,18,False
+"""nice simulator game""",0.0,26,False
+"""roblox android compatibility issues""",0.7209302325581395,43,True
+"""roblox performance issues""",0.5128205128205128,39,True
+"""superior game performance""",0.0,14,False
+Unknown,0.22295390404515522,1063,False
+account access issues,0.5113636363636364,88,True
+addictive puzzle game,0.3076923076923077,13,False
+affirmative and negative responses,0.1875,16,False
+android compatibility issues,0.5227272727272727,44,True
+app performance evaluation,0.17647058823529413,51,False
+appreciation for service,0.047619047619047616,21,False
+avatar customization games,0.15789473684210525,38,False
+best game ever,0.0,28,False
+best game praise,0.0,48,False
+best multiplayer game,0.0,29,False
+blox fruit game reviews,0.06451612903225806,31,False
+children's game reviews,0.14285714285714285,84,False
+enjoyable app experience,0.0,17,False
+entertaining and fun,0.0,24,False
+excitement for cinema game,0.09523809523809523,21,False
+fantastic user experience,0.0,10,False
+favorite game enjoyment,0.18181818181818182,11,False
+favorite game reviews,0.0,35,False
+five star reviews,0.12121212121212122,33,False
+frequent update complaints,0.575,40,True
+fun and creative experience,0.0,31,False
+fun gameplay experience,0.02702702702702703,37,False
+fun gaming experience,0.0,39,False
+game access issues,0.9230769230769231,13,True
+game appreciation,0.0,16,False
+game feedback and suggestions,0.25,24,False
+game glitches/bugs,0.34375,32,False
+game love and obsession,0.023255813953488372,43,False
+game performance feedback,0.05102040816326531,98,False
+game quality and violence,0.2631578947368421,19,False
+game quality opinions,0.03125,32,False
+gaming platform reviews,0.0,11,False
+garden growing games,0.08450704225352113,71,False
+general app opinions,0.09836065573770492,61,False
+growing a garden,0.05263157894736842,38,False
+hacking and cheating complaints,0.391304347826087,23,False
+long-term gameplay experience,0.043478260869565216,23,False
+love for game,0.02,50,False
+love for multiple games,0.0,26,False
+love for roblox,0.058823529411764705,34,False
+mixed emotions about app,0.19047619047619047,21,False
+mixed emotions about game,0.11764705882352941,17,False
+mixed game opinions,0.20833333333333334,24,False
+moderation and banning issues,0.6666666666666666,33,True
+nice game reviews,0.0,24,False
+no ads experience,0.08695652173913043,23,False
+online dating and bullying issues,0.5,14,True
+performance issues/lagging,0.52,50,True
+playing brookhaven game,0.07407407407407407,27,False
+positive app experience,0.05,20,False
+positive app feedback,0.0,15,False
+positive expressions,0.07692307692307693,26,False
+positive feedback,0.013452914798206279,223,False
+positive feedback and functionality,0.045454545454545456,22,False
+positive feedback/ love for app,0.07317073170731707,41,False
+positive feedback/reactions,0.05,20,False
+positive feedback/reviews,0.06451612903225806,31,False
+positive game reviews,0.037209302325581395,215,False
+positive gaming app reviews,0.10948905109489052,137,False
+positive reaction,0.0,36,False
+positive reactions,0.0,44,False
+praise for game quality,0.0,14,False
+roblox app reviews,0.23529411764705882,17,False
+roblox friends to connections change,0.475,40,True
+roblox gameplay experience,0.08045977011494253,261,False
+roblox garden game,0.0,36,False
+roblox update issues,0.5384615384615384,13,True
+robux and in-game purchases,0.4,95,False
+server and connection issues,0.8421052631578947,19,True
+social interaction and gaming,0.01694915254237288,59,False
+social interaction in games,0.03125,64,False
+unfair account bans,0.7058823529411765,17,True
+unjustified bans complaints,0.9642857142857143,28,True
+variety of fun games,0.0660377358490566,106,False
+very good game reviews,0.0,33,False
+voice chat/mic issues,0.6153846153846154,26,True
+wifi connection issues,0.5714285714285714,14,True

@@ -1,0 +1,97 @@
+merged_topic_label,anger,disgust,fear,joy,neutral,sadness,surprise
+"""best game ever played""",0.0,0.0,0.0,0.0064,0.0004,0.0,0.0016
+"""best game ever""",0.0,0.0002,0.0,0.0006,0.0074,0.0,0.0008
+"""best game praise""",0.0,0.0002,0.0002,0.0102,0.0042,0.0006,0.0018
+"""best gaming experience""",0.0,0.0004,0.0,0.0018,0.008,0.0002,0.0002
+"""change from friends to connections""",0.0018,0.0008,0.0,0.0006,0.0048,0.0014,0.0036
+"""complaints about brainrot games""",0.0008,0.0002,0.0,0.001,0.0012,0.001,0.0002
+"""cool and nice comments""",0.0,0.0,0.0,0.0032,0.0004,0.0,0.0006
+"""cool gaming experience""",0.0,0.0,0.0,0.0034,0.0004,0.0,0.0
+"""dandy's world game reviews""",0.0,0.0,0.0,0.0022,0.0,0.0002,0.0002
+"""enjoyable and fun""",0.0,0.0002,0.0,0.0068,0.0,0.0,0.0
+"""enjoyable entertainment""",0.0,0.0,0.0,0.009,0.0002,0.0,0.0
+"""expressions of surprise""",0.0,0.0,0.0,0.0,0.0,0.0,0.0024
+"""fun family entertainment""",0.0,0.0,0.0,0.0056,0.0,0.0004,0.0
+"""highly praised games""",0.0,0.0,0.0,0.0026,0.0004,0.0002,0.0004
+"""nice simulator game""",0.0,0.0,0.0,0.0052,0.0,0.0,0.0
+"""roblox android compatibility issues""",0.0004,0.0,0.0,0.0008,0.001,0.0058,0.0006
+"""roblox performance issues""",0.0002,0.0002,0.0002,0.0008,0.002,0.0034,0.001
+"""superior game performance""",0.0,0.0,0.0,0.0006,0.002,0.0,0.0002
+Unknown,0.0088,0.0066,0.0026,0.1036,0.0472,0.0294,0.0144
+account access issues,0.0034,0.0,0.0002,0.001,0.0052,0.0054,0.0024
+addictive puzzle game,0.0,0.0002,0.0,0.0008,0.0004,0.0006,0.0006
+affirmative and negative responses,0.0002,0.0004,0.0,0.0,0.0024,0.0,0.0002
+android compatibility issues,0.0006,0.0002,0.0002,0.0008,0.0032,0.0036,0.0002
+app performance evaluation,0.0,0.0012,0.0,0.0074,0.001,0.0006,0.0
+appreciation for service,0.0002,0.0,0.0,0.0032,0.0006,0.0,0.0002
+avatar customization games,0.0004,0.0002,0.0002,0.0046,0.0012,0.0004,0.0006
+best game ever,0.0,0.0,0.0,0.0052,0.0002,0.0,0.0002
+best game praise,0.0,0.0,0.0,0.002,0.0072,0.0,0.0004
+best multiplayer game,0.0,0.0,0.0,0.0056,0.0002,0.0,0.0
+blox fruit game reviews,0.0,0.0,0.0,0.0036,0.0018,0.0004,0.0004
+children's game reviews,0.0002,0.0012,0.0004,0.0118,0.0018,0.0006,0.0008
+enjoyable app experience,0.0,0.0,0.0,0.0032,0.0,0.0,0.0002
+entertaining and fun,0.0,0.0,0.0,0.0048,0.0,0.0,0.0
+excitement for cinema game,0.0004,0.0,0.0,0.0002,0.0028,0.0,0.0008
+fantastic user experience,0.0,0.0,0.0,0.002,0.0,0.0,0.0
+favorite game enjoyment,0.0002,0.0,0.0002,0.0014,0.0004,0.0,0.0
+favorite game reviews,0.0,0.0,0.0,0.0064,0.0002,0.0,0.0004
+five star reviews,0.0002,0.0004,0.0,0.0036,0.0016,0.0002,0.0006
+frequent update complaints,0.0004,0.0006,0.0,0.0006,0.0022,0.0036,0.0006
+fun and creative experience,0.0,0.0,0.0,0.006,0.0002,0.0,0.0
+fun gameplay experience,0.0,0.0,0.0,0.0058,0.0012,0.0002,0.0002
+fun gaming experience,0.0,0.0,0.0,0.0072,0.0004,0.0,0.0002
+game access issues,0.0004,0.0,0.0002,0.0,0.0002,0.0018,0.0
+game appreciation,0.0,0.0,0.0,0.0032,0.0,0.0,0.0
+game feedback and suggestions,0.0004,0.0,0.0008,0.0,0.0036,0.0,0.0
+game glitches/bugs,0.0002,0.0002,0.0,0.0014,0.0022,0.0018,0.0006
+game love and obsession,0.0,0.0,0.0,0.0082,0.0002,0.0002,0.0
+game performance feedback,0.0002,0.0,0.0,0.002,0.016,0.0008,0.0006
+game quality and violence,0.0004,0.0,0.0,0.0012,0.0012,0.0006,0.0004
+game quality opinions,0.0,0.0,0.0,0.006,0.0002,0.0002,0.0
+gaming platform reviews,0.0,0.0,0.0,0.0012,0.0008,0.0,0.0002
+garden growing games,0.0006,0.0002,0.0,0.012,0.0004,0.0004,0.0006
+general app opinions,0.0002,0.0,0.0002,0.0092,0.0018,0.0008,0.0
+growing a garden,0.0002,0.0,0.0,0.0048,0.0016,0.0002,0.0008
+hacking and cheating complaints,0.0008,0.0004,0.0,0.0014,0.001,0.0006,0.0004
+long-term gameplay experience,0.0,0.0,0.0,0.003,0.0008,0.0002,0.0006
+love for game,0.0,0.0,0.0,0.0096,0.0002,0.0002,0.0
+love for multiple games,0.0,0.0,0.0,0.005,0.0,0.0,0.0002
+love for roblox,0.0002,0.0,0.0,0.0046,0.0018,0.0002,0.0
+mixed emotions about app,0.0002,0.0004,0.0,0.0032,0.0,0.0002,0.0002
+mixed emotions about game,0.0004,0.0,0.0,0.003,0.0,0.0,0.0
+mixed game opinions,0.001,0.0,0.0,0.0038,0.0,0.0,0.0
+moderation and banning issues,0.0016,0.0006,0.0004,0.0008,0.0014,0.0018,0.0
+nice game reviews,0.0,0.0,0.0,0.0042,0.0006,0.0,0.0
+no ads experience,0.0002,0.0,0.0,0.0032,0.0008,0.0002,0.0002
+online dating and bullying issues,0.0002,0.0004,0.0,0.001,0.0,0.0008,0.0004
+performance issues/lagging,0.0,0.0002,0.0,0.0022,0.0024,0.005,0.0002
+playing brookhaven game,0.0,0.0,0.0002,0.0044,0.0002,0.0002,0.0004
+positive app experience,0.0,0.0,0.0,0.0036,0.0002,0.0002,0.0
+positive app feedback,0.0,0.0,0.0,0.002,0.001,0.0,0.0
+positive expressions,0.0002,0.0,0.0,0.0006,0.0032,0.0002,0.001
+positive feedback,0.0,0.0002,0.0002,0.0128,0.0308,0.0002,0.0004
+positive feedback and functionality,0.0,0.0,0.0,0.0026,0.0014,0.0002,0.0002
+positive feedback/ love for app,0.0,0.0,0.0,0.0068,0.0008,0.0006,0.0
+positive feedback/reactions,0.0002,0.0,0.0,0.002,0.0,0.0,0.0018
+positive feedback/reviews,0.0,0.0004,0.0,0.0048,0.0002,0.0,0.0008
+positive game reviews,0.0002,0.0004,0.0002,0.0342,0.0044,0.0008,0.0028
+positive gaming app reviews,0.001,0.0006,0.0004,0.018,0.0032,0.001,0.0032
+positive reaction,0.0,0.0,0.0,0.0004,0.0068,0.0,0.0
+positive reactions,0.0,0.0,0.0,0.0036,0.0052,0.0,0.0
+praise for game quality,0.0,0.0,0.0,0.002,0.0006,0.0,0.0002
+roblox app reviews,0.0004,0.0,0.0002,0.0018,0.0008,0.0002,0.0
+roblox friends to connections change,0.0018,0.001,0.0,0.0006,0.0016,0.001,0.002
+roblox gameplay experience,0.001,0.0002,0.0002,0.0394,0.0066,0.0028,0.002
+roblox garden game,0.0,0.0,0.0,0.006,0.0006,0.0,0.0006
+roblox update issues,0.0002,0.0,0.0,0.0002,0.0004,0.0012,0.0006
+robux and in-game purchases,0.0018,0.0008,0.0004,0.0052,0.004,0.0046,0.0022
+server and connection issues,0.0006,0.0002,0.0,0.0002,0.0004,0.0024,0.0
+social interaction and gaming,0.0,0.0,0.0,0.0114,0.0002,0.0002,0.0
+social interaction in games,0.0,0.0,0.0,0.0108,0.0004,0.0004,0.0012
+unfair account bans,0.0008,0.0004,0.0,0.0002,0.0004,0.0012,0.0004
+unjustified bans complaints,0.004,0.0006,0.0002,0.0,0.0002,0.0006,0.0
+variety of fun games,0.0002,0.0002,0.0004,0.0158,0.0028,0.0006,0.0012
+very good game reviews,0.0,0.0,0.0,0.0064,0.0002,0.0,0.0
+voice chat/mic issues,0.0008,0.0002,0.0,0.0004,0.0012,0.0022,0.0004
+wifi connection issues,0.0004,0.0004,0.0,0.0006,0.0002,0.0008,0.0004

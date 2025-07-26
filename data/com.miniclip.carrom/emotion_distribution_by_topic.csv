@@ -1,0 +1,83 @@
+merged_topic_label,anger,disgust,fear,joy,neutral,sadness,surprise
+"""app performance evaluation""",0.0,0.0,0.0,0.0006,0.0106,0.0,0.0
+"""best game ever""",0.0,0.0,0.0,0.0006,0.0022,0.0,0.0004
+"""carrom game appreciation""",0.0002,0.0002,0.0,0.0054,0.0034,0.0004,0.0
+"""expressions of amazement""",0.0,0.0,0.0,0.0,0.0,0.0,0.0082
+"""good app reviews""",0.0,0.0,0.0,0.0004,0.004,0.0,0.0
+"""hackers and miniclip issues""",0.0006,0.0006,0.0,0.0002,0.0006,0.0006,0.0002
+"""hackers in carrom game""",0.0008,0.0004,0.0,0.0002,0.0004,0.0004,0.0
+"""interesting game experience""",0.0,0.0,0.0,0.0034,0.001,0.0002,0.0004
+"""mind-blowing relaxing games""",0.0,0.0,0.0,0.0014,0.0022,0.0,0.001
+"""neutral or indifferent responses""",0.0002,0.0,0.0,0.0002,0.0112,0.0004,0.0
+"""op game reviews""",0.0002,0.0,0.0,0.0002,0.0024,0.0,0.0
+"""positive game reviews""",0.0,0.0,0.0,0.0042,0.0032,0.0004,0.0
+"""super wow reactions""",0.0,0.0,0.0,0.0014,0.007,0.0,0.0008
+"""worst game complaints""",0.0002,0.004,0.0,0.0,0.0,0.0002,0.0
+Unknown,0.0078,0.0102,0.0004,0.0314,0.0342,0.0136,0.007
+ad complaints,0.0,0.0004,0.0004,0.0,0.0104,0.0,0.0
+ad problems,0.0,0.0002,0.0,0.0002,0.0022,0.001,0.0
+ad removal issues,0.0006,0.0,0.0,0.0004,0.0048,0.0016,0.0004
+app functionality and algorithm issues,0.0004,0.0006,0.0,0.0002,0.0006,0.0004,0.0004
+app functionality issues,0.0002,0.0008,0.0,0.0012,0.004,0.0016,0.0006
+app quality feedback,0.0,0.0,0.0,0.006,0.0008,0.0002,0.0
+appreciation for app features,0.0,0.0,0.0,0.001,0.0022,0.0,0.0002
+autoplay and hacking issues,0.0022,0.0018,0.0004,0.0002,0.0056,0.0036,0.0006
+awesome feedback,0.0,0.0,0.0,0.003,0.0,0.0,0.0
+beautiful easy games,0.0,0.0,0.0,0.0028,0.0,0.0,0.0
+best game reviews,0.0002,0.0,0.0,0.0044,0.0118,0.0006,0.0
+carrom board features,0.0,0.0,0.0,0.0002,0.0022,0.0002,0.0
+carrom disc pool game,0.0,0.0,0.0002,0.0028,0.0006,0.0002,0.0004
+carrom game experience,0.0,0.0,0.0,0.004,0.0038,0.0002,0.0
+carrom pool game reviews,0.0,0.0,0.0,0.0022,0.002,0.0002,0.0002
+concerns about hackers,0.0034,0.002,0.0004,0.0016,0.0078,0.0064,0.0016
+emoji feedback,0.0,0.0,0.0004,0.0,0.0014,0.0004,0.0002
+emojis and non-english words,0.0,0.0,0.0,0.0014,0.0386,0.0,0.0004
+enjoyment satisfaction,0.0,0.0,0.0,0.002,0.0006,0.0,0.0
+entertainment value,0.0,0.0,0.0,0.0042,0.0012,0.0008,0.0004
+excessive ads,0.0,0.0004,0.0,0.0,0.0044,0.0044,0.0018
+excessive ads complaints,0.0026,0.0048,0.0,0.0048,0.0124,0.007,0.0016
+excessive advertisements,0.0012,0.0002,0.0,0.0002,0.0,0.0006,0.0
+excessive hacking complaints,0.0,0.0,0.0,0.0,0.0022,0.0006,0.0006
+expressions of gratitude,0.0,0.0,0.0,0.0006,0.0026,0.0,0.0
+favorite game praise,0.0,0.0,0.0,0.0028,0.0,0.0,0.0
+game appreciation,0.0,0.0,0.0,0.0008,0.0018,0.0,0.0002
+game features and updates,0.0,0.0,0.0,0.0026,0.0002,0.0,0.0
+game love/appreciation,0.0002,0.0,0.0,0.0018,0.0002,0.0,0.0
+game performance and improvement,0.0002,0.0,0.0,0.0034,0.0,0.0,0.0
+game quality comments,0.0006,0.0012,0.0012,0.0114,0.0316,0.0048,0.0006
+game reviews and feedback,0.0,0.0,0.0004,0.0002,0.003,0.0,0.0
+gameplay issues and updates,0.001,0.0002,0.0,0.0,0.0006,0.002,0.0002
+gem appreciation,0.0,0.0,0.0,0.001,0.0018,0.0,0.0
+good game reviews,0.0,0.0008,0.0,0.0,0.0008,0.001,0.0
+inappropriate and excessive ads,0.0006,0.0016,0.0,0.002,0.0014,0.002,0.0
+incomprehensible feedback,0.0,0.0,0.0,0.0002,0.0028,0.0,0.0
+indian cricket game issues,0.0,0.0002,0.0,0.0016,0.0022,0.0004,0.0
+mixed quality reviews,0.0,0.0,0.0,0.0004,0.0008,0.0014,0.0
+negative game reviews,0.0004,0.002,0.0002,0.0004,0.0004,0.004,0.0
+negative reviews,0.0,0.003,0.0,0.0,0.0002,0.0006,0.0
+negative user experience,0.0,0.0006,0.0,0.0008,0.0004,0.0006,0.0
+network and connection issues,0.0002,0.0004,0.0,0.0002,0.0014,0.0014,0.0
+nice game appreciation,0.0,0.0,0.0,0.0182,0.0016,0.0,0.0002
+nice game reviews,0.0,0.0,0.0,0.0354,0.001,0.0,0.0004
+passing time enjoyably,0.0,0.0,0.0,0.0012,0.0022,0.0,0.0004
+positive adjectives,0.0,0.0002,0.0,0.0044,0.0006,0.0,0.0002
+positive app feedback,0.0,0.0,0.0,0.0118,0.0024,0.0,0.0016
+positive experience,0.0,0.0,0.0,0.0,0.029,0.0,0.0012
+positive feedback,0.0,0.0,0.0,0.024,0.1542,0.0004,0.0
+positive feedback and suggestions,0.0,0.0,0.0,0.0062,0.0034,0.0008,0.0002
+positive feedback/reactions,0.0,0.0,0.0002,0.0038,0.0002,0.0,0.0006
+positive feedback/reviews,0.0,0.0004,0.0,0.0002,0.0046,0.0,0.0002
+positive game reviews,0.0004,0.0,0.0002,0.0778,0.0086,0.0006,0.0032
+positive short responses,0.0,0.0002,0.0,0.0,0.0018,0.0002,0.0002
+positive short reviews,0.0,0.0,0.0002,0.0002,0.0032,0.0,0.0006
+praise for app performance,0.0,0.0,0.0,0.0,0.0032,0.0002,0.0
+praise for game quality,0.0,0.0004,0.0,0.0016,0.003,0.0,0.0014
+star rating discussion,0.0004,0.0,0.0002,0.0008,0.002,0.0004,0.0002
+stress relief games,0.0004,0.0002,0.0,0.001,0.0004,0.001,0.0002
+super game praise,0.0,0.0,0.0,0.0012,0.0014,0.0,0.0002
+super game reviews,0.0,0.0,0.0,0.001,0.002,0.0,0.0092
+supper game,0.0,0.0,0.0,0.0,0.0026,0.0,0.0
+time passing apps,0.0,0.0,0.0002,0.0,0.0044,0.0002,0.0
+time-passing games,0.0,0.0,0.0,0.0032,0.0032,0.0002,0.0006
+very nice reviews,0.0,0.0,0.0,0.0066,0.0,0.0002,0.0
+worldwide game quality,0.0,0.0002,0.0,0.0012,0.002,0.0,0.0002
