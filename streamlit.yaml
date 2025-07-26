@@ -1,0 +1,25 @@
+# streamlit.yaml
+
+run:
+  # Path to your main app file
+  file: app.py
+  # Optional: port to run on (default 8501)
+  port: 8501
+
+server:
+  # Enable CORS for local dev or deployment flexibility
+  enableCORS: false
+  # Headless mode for server environments
+  headless: true
+
+
+env:
+  OPENAI_API_KEY: "OPENAI_API_KEY"
+
+
+# theme:
+#   primaryColor: "#4CAF50"
+#   backgroundColor: "#FFFFFF"
+#   secondaryBackgroundColor: "#F0F0F0"
+#   textColor: "#000000"
+#   font: "sans serif"
