@@ -1,3 +1,11 @@
 merged_topic_label,negative_proportion,total_reviews,pain_point_flag
-Unknown,0.1871345029239766,684,False
-unknown,0.08016682113067655,4316,False
+Ad Overload,0.3548387096774194,93,False
+Cat-themed game,0.043726235741444866,526,False
+Customer Appreciation,0.046,500,False
+Game Preferences,0.022598870056497175,177,False
+Glitch and Horror Rumors,0.2932330827067669,399,False
+Other,0.10154021677124929,1753,False
+Positive App Feedback,0.07142857142857142,126,False
+Positive Feedback,0.07090909090909091,550,False
+Talking Tom Game,0.05898876404494382,356,False
+User Experience Changes,0.051923076923076926,520,False

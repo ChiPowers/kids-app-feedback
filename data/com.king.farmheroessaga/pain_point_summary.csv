@@ -1,97 +1,10 @@
 merged_topic_label,negative_proportion,total_reviews,pain_point_flag
-"""addictive gameplay""",0.4222222222222222,45,True
-"""best application praise""",0.0,35,False
-"""best game ever""",0.0,14,False
-"""engaging game experience""",0.0,28,False
-"""extra moves and ads""",0.35714285714285715,14,False
-"""fruit themed game reviews""",0.15,20,False
-"""fun and amazing""",0.0,13,False
-"""fun and entertaining""",0.0,16,False
-"""fun entertainment""",0.041666666666666664,24,False
-"""game quality and difficulty""",0.03333333333333333,30,False
-"""interesting content""",0.0625,16,False
-"""neutral or okay reviews""",0.0,37,False
-"""non-stop fun""",0.04,75,False
-"""stress relief enjoyment""",0.0,13,False
-Unknown,0.22255790533736153,993,False
-ad issues,0.3836477987421384,159,False
-app crashing issues,0.8518518518518519,27,True
-app launching issues,0.7857142857142857,14,True
-app opening issues/bugs,0.6666666666666666,18,True
-app updates and improvements,0.05128205128205128,39,False
-appreciation for game/app,0.0,12,False
-awesome cool game,0.0,20,False
-beautiful game reviews,0.125,16,False
-booster issues and usage,0.4,20,False
-brain-stimulating fun,0.0,14,False
-bug and update issues,0.7209302325581395,43,True
-challenging fun game,0.05,60,False
-connection/internet issues,0.5625,16,True
-cost and payment concerns,0.3125,16,False
-cute game graphics,0.0,20,False
-daily game play enjoyment,0.07692307692307693,26,False
-difficulty level & strategy,0.18604651162790697,43,False
-enjoyable gameplay,0.0,44,False
-enjoyable gaming experience,0.02127659574468085,47,False
-enjoying the app,0.0,16,False
-enjoying the game,0.0,12,False
-enjoyment and entertainment,0.0,50,False
-entertainment quality,0.05555555555555555,18,False
-excellent reviews,0.0,17,False
-exciting and engaging fun,0.0,20,False
-farm heroes saga game,0.10843373493975904,83,False
-farming game experience,0.16666666666666666,12,False
-favorite game praise,0.0,36,False
-favorite games,0.0,14,False
-fun and challenging gameplay,0.02857142857142857,35,False
-fun game experience,0.0,41,False
-fun gameplay experience,0.0,39,False
-game addiction,0.038461538461538464,52,False
-game appreciation and enjoyment,0.0,11,False
-game difficulty/levels,0.25133689839572193,187,False
-game freezing issues,0.5,16,True
-game issues and data usage,0.375,16,False
-game lives issues,0.8333333333333334,12,True
-game love/appreciation,0.0,43,False
-gold bars purchase issues,0.38461538461538464,39,False
-good game reviews,0.011627906976744186,86,False
-great gaming experience,0.0,12,False
-high praise/exceptional quality,0.0,31,False
-highly recommended game,0.043478260869565216,23,False
-highly recommended games,0.0,19,False
-in-app purchase issues,0.7222222222222222,18,True
-interesting games,0.1,10,False
-intrusive temu ads,0.7142857142857143,14,True
-king games feedback,0.3157894736842105,19,False
-long-term game love,0.0,11,False
-love for game,0.0,51,False
-loving the game,0.0,22,False
-magic beans usage and issues,0.3684210526315789,38,False
-mind relaxing games,0.0,21,False
-mixed game reviews,0.13793103448275862,29,False
-mobile game transition,0.3,20,False
-nice game reviews,0.0,74,False
-positive affection,0.0,24,False
-positive app experience,0.02702702702702703,37,False
-positive app feedback,0.011235955056179775,178,False
-positive approval,0.0,21,False
-positive emotions,0.037037037037037035,27,False
-positive exclamations,0.0,29,False
-positive feedback,0.012371134020618556,485,False
-positive feedback/reactions,0.0,107,False
-positive game reviews,0.02654867256637168,339,False
-positive initial impressions,0.0,15,False
-praise for game quality,0.0,30,False
-rating satisfaction,0.3333333333333333,21,False
-relaxation and comfort,0.02857142857142857,35,False
-relaxing entertainment,0.0,25,False
-relaxing game experience,0.02127659574468085,47,False
-returning players,0.08080808080808081,99,False
-satisfaction level,0.11363636363636363,44,False
-sound effects appreciation,0.09090909090909091,11,False
-stopping/resuming gameplay,0.18181818181818182,11,False
-stress relief,0.3,20,False
-stress relief games,0.1111111111111111,18,False
-super game appreciation,0.0,12,False
-super praise,0.0,32,False
-time killing games,0.02564102564102564,39,False
+Fruit and Vegetable Game,0.03212290502793296,716,False
+Fun and Entertainment,0.08091286307053942,482,False
+Game enjoyment,0.08620689655172414,174,False
+Other,0.26274271844660196,1648,False
+Positive App Experiences,0.5368421052631579,190,True
+Positive Feedback,0.017105263157894738,760,False
+Positive Game Feedback,0.009398496240601503,532,False
+Positive Impressions,0.007594936708860759,395,False
+Relaxation and Calm,0.08737864077669903,103,False

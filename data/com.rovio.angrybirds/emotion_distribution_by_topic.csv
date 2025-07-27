@@ -1,93 +1,11 @@
 merged_topic_label,anger,disgust,fear,joy,neutral,sadness,surprise
-Unknown,0.0224,0.0134,0.0008,0.0694,0.0742,0.0366,0.0152
-ad annoyance,0.0004,0.0004,0.0,0.0,0.0014,0.0002,0.0006
-addictive gameplay,0.0016,0.0006,0.0,0.0042,0.001,0.0006,0.0004
-ads and app performance,0.0054,0.0014,0.0004,0.001,0.002,0.0018,0.001
-angry birds,0.0074,0.0004,0.0002,0.0008,0.0016,0.0006,0.0
-angry birds classic,0.0056,0.0,0.0,0.001,0.0008,0.0004,0.0002
-angry birds enjoyment,0.0188,0.0002,0.0,0.0124,0.0032,0.002,0.0012
-app accessibility issues,0.0006,0.001,0.0002,0.0014,0.0184,0.0,0.0
-app crashes and ads,0.0002,0.0006,0.0004,0.0,0.0008,0.002,0.0006
-app crashes and freezes,0.0016,0.0,0.0,0.0,0.0006,0.0004,0.0
-app crashes and launch issues,0.0008,0.0008,0.0004,0.0014,0.001,0.005,0.0004
-app crashes and loading issues,0.001,0.0002,0.0,0.0002,0.0022,0.0074,0.0018
-app freezing issues,0.002,0.0002,0.0004,0.0006,0.0048,0.004,0.0006
-app removal & availability,0.0008,0.0002,0.0,0.001,0.002,0.001,0.0022
-app version changes,0.0,0.0002,0.0,0.0016,0.0012,0.0012,0.0006
-best mobile game,0.0002,0.0,0.0,0.0022,0.0014,0.0006,0.0008
-birds and anger,0.0076,0.0004,0.0,0.0026,0.001,0.0,0.0002
-casual acknowledgments,0.0,0.0,0.0,0.0,0.0038,0.0,0.0
-childhood nostalgia,0.0004,0.0,0.0004,0.006,0.0006,0.0,0.0006
-classic favorites,0.0002,0.0,0.0,0.0038,0.0038,0.0002,0.0004
-classic games,0.0002,0.0,0.0,0.0028,0.0018,0.0002,0.0
-device compatibility issues,0.0002,0.0004,0.0,0.0,0.0012,0.0012,0.0008
-difficulty and challenge,0.0,0.0,0.0,0.0048,0.0012,0.0008,0.0002
-engaging games,0.0,0.0,0.0,0.0012,0.0006,0.0,0.0004
-enjoyable and fun games,0.0,0.0,0.0,0.005,0.0004,0.0,0.0002
-enjoyable experience,0.0,0.0,0.0,0.0036,0.0006,0.0002,0.0
-enjoyment and fun,0.0,0.0002,0.0,0.0028,0.0,0.0,0.0
-excellent graphics,0.0,0.0,0.0,0.0002,0.0106,0.0002,0.0004
-excessive ads,0.001,0.0006,0.0002,0.0006,0.004,0.0056,0.0018
-excitement and praise,0.0,0.0,0.0,0.0,0.0004,0.0,0.0042
-favorite games,0.0,0.0,0.0,0.0044,0.0,0.0,0.0002
-feature request: return,0.0,0.0,0.0,0.0004,0.0022,0.0006,0.001
-fun and entertainment,0.0,0.0,0.0,0.0064,0.0,0.0,0.0002
-functionality issues,0.0002,0.0002,0.0,0.0,0.0002,0.0016,0.0002
-game accessibility issues,0.0004,0.0,0.0002,0.0,0.0022,0.0,0.0
-game addiction,0.0006,0.0002,0.0,0.0026,0.0016,0.0002,0.0002
-game crashes and freezes,0.0008,0.0,0.0,0.0002,0.003,0.0038,0.0008
-game enjoyment,0.0,0.0,0.0,0.0074,0.0002,0.0002,0.0002
-game freezing issues,0.0006,0.0002,0.0,0.0014,0.0026,0.0032,0.0004
-game quality,0.0,0.0,0.0,0.0002,0.001,0.0,0.0016
-game quality and accuracy,0.0,0.0,0.0,0.0038,0.0006,0.0,0.0
-game removal frustration,0.0002,0.0,0.0002,0.0006,0.0,0.0008,0.0006
-gameplay and fun,0.0,0.0,0.0,0.005,0.0018,0.0002,0.0
-gaming slang and memes,0.0002,0.0008,0.0,0.0,0.0034,0.0002,0.0004
-iconic & legendary praise,0.0,0.0,0.0,0.0004,0.0024,0.0,0.0002
-kids' games,0.0,0.0,0.0,0.0018,0.0002,0.0,0.0
-level completion & stars,0.0014,0.0012,0.0,0.0012,0.004,0.0016,0.001
-level difficulty,0.0002,0.0002,0.0,0.0028,0.0028,0.001,0.0002
-loading issues,0.0004,0.0,0.0,0.0,0.0004,0.0014,0.0
-loading/startup issues,0.0,0.0,0.0,0.0002,0.0012,0.0034,0.0008
-long-term player engagement,0.0,0.0,0.0,0.0012,0.0008,0.0,0.001
-mind-engaging entertainment,0.0,0.0,0.0,0.0042,0.0008,0.0,0.0014
-mixed feelings,0.0,0.0004,0.0,0.0,0.0026,0.0002,0.0
-mixed feelings about fun,0.0002,0.0,0.0,0.0094,0.0004,0.0002,0.0
-mixed language expressions,0.0,0.0002,0.0004,0.0,0.0032,0.0,0.0
-mixed reactions,0.0002,0.0014,0.0004,0.003,0.0232,0.0,0.0004
-negative experiences,0.0,0.0022,0.0004,0.0,0.0002,0.0004,0.0
-negative game reception,0.0006,0.0036,0.0002,0.0,0.0002,0.002,0.0
-nostalgia for childhood,0.0,0.0004,0.0002,0.0034,0.0026,0.0,0.0002
-nostalgic appreciation,0.0,0.0,0.0,0.0,0.0028,0.0,0.0004
-offline/online functionality,0.0,0.0,0.0,0.0006,0.0024,0.0,0.0002
-original/authentic content,0.0,0.0002,0.0,0.0,0.0026,0.0,0.0002
-overall satisfaction,0.0,0.0,0.0,0.0036,0.0044,0.0,0.0002
-pig-themed destruction,0.0012,0.0008,0.0,0.0024,0.001,0.0002,0.0002
-player affection,0.0,0.0,0.0,0.006,0.0002,0.0,0.0
-player appreciation,0.0,0.0,0.0,0.0054,0.0,0.0,0.0
-player enthusiasm,0.0,0.0,0.0,0.0074,0.0006,0.0,0.0
-positive app experiences,0.0,0.0002,0.0,0.0044,0.0022,0.0004,0.001
-positive app feedback,0.0,0.0,0.0,0.002,0.0008,0.0,0.0018
-positive celebrations,0.0,0.0,0.0,0.0014,0.001,0.0,0.0002
-positive feedback,0.0,0.0006,0.0,0.0122,0.054,0.0,0.0004
-positive game experience,0.0,0.0004,0.0,0.0194,0.0014,0.0004,0.0004
-positive game feedback,0.0,0.0,0.0,0.026,0.0028,0.0002,0.004
-positive game praise,0.0,0.0,0.0,0.0082,0.0,0.0002,0.0
-positive impressions,0.0,0.0,0.0,0.0006,0.0046,0.0,0.0
-positive movie feedback,0.0,0.0,0.0,0.0018,0.0,0.0,0.0002
-positive praise,0.0,0.0002,0.0,0.0232,0.0066,0.0,0.0048
-positive rovio feedback,0.0002,0.0,0.0002,0.002,0.0006,0.0002,0.0006
-post deletion issues,0.0,0.0004,0.0,0.0,0.0014,0.0002,0.0
-preference for older versions,0.0,0.0004,0.0,0.0006,0.002,0.0002,0.0
-retro nostalgia,0.0,0.0,0.0,0.0014,0.003,0.0012,0.0
-sound and support,0.0,0.0002,0.0,0.0002,0.002,0.0,0.0002
-startup crashes,0.0016,0.0004,0.0002,0.0002,0.0018,0.0052,0.001
-stress relief,0.0002,0.0002,0.0,0.005,0.001,0.0002,0.0
-support and monetization issues,0.001,0.0002,0.0,0.0,0.0014,0.001,0.0004
-time passing games,0.0002,0.0,0.0,0.0036,0.0016,0.0002,0.0
-time wasters,0.0,0.0002,0.0002,0.0018,0.0004,0.0,0.0
-too many ads,0.0022,0.0032,0.0002,0.0036,0.0048,0.0038,0.0018
-top arcade games,0.0,0.0,0.0002,0.0026,0.008,0.0,0.0002
-top games,0.0,0.0,0.0,0.0078,0.0074,0.0,0.0014
-top praise,0.0002,0.0,0.0,0.0016,0.007,0.0,0.0002
-user discovery,0.0,0.0,0.0,0.0036,0.0006,0.0,0.0002
+App Crashes and Ads,0.0012,0.0012,0.0004,0.0,0.0038,0.0064,0.002
+App Crashes and Stability,0.0064,0.0022,0.001,0.0036,0.012,0.025,0.0042
+Customer Satisfaction,0.0,0.0006,0.0002,0.0278,0.0202,0.0004,0.0108
+Enjoyable Entertainment,0.0022,0.0014,0.0,0.0484,0.0084,0.002,0.0008
+Game Compatibility Issues,0.0478,0.0024,0.0006,0.0178,0.0096,0.0052,0.0024
+Mixed Excitement,0.0004,0.0044,0.0006,0.0376,0.0896,0.001,0.003
+Negative Experience,0.0012,0.0062,0.0014,0.007,0.0104,0.0062,0.002
+Other,0.0288,0.0188,0.0014,0.0852,0.1024,0.0544,0.031
+Positive Game Feedback,0.0008,0.0012,0.0006,0.107,0.0246,0.0018,0.0056
+Preference for Original App,0.0024,0.0014,0.0002,0.0148,0.0598,0.0044,0.004

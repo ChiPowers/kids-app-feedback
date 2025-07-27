@@ -1,80 +1,10 @@
 merged_topic_label,negative_proportion,total_reviews,pain_point_flag
-Unknown,0.27790432801822323,878,False
-addiction and engagement,0.5,26,True
-adverts and add-ons,0.3076923076923077,13,False
-app quality and updates,0.2647058823529412,34,False
-app uninstallation feedback,0.5454545454545454,22,True
-basic acknowledgments,0.0375,80,False
-beautiful experience,0.02702702702702703,37,False
-boring gameplay,0.5714285714285714,14,True
-candy crush comparisons,0.3333333333333333,12,False
-casual fun,0.0,54,False
-customer appreciation,0.01639344262295082,61,False
-customer satisfaction,0.12244897959183673,49,False
-customer service excellence,0.0,28,False
-difficulty and challenge,0.14285714285714285,28,False
-difficulty and level challenges,0.23529411764705882,34,False
-difficulty challenges,0.5454545454545454,22,True
-enjoyable game,0.047619047619047616,42,False
-enjoyment and fun,0.0,14,False
-enjoyment and play,0.022727272727272728,44,False
-enjoyment of the game,0.047619047619047616,21,False
-entertainment and fun,0.0,55,False
-excellent quality,0.0,16,False
-fun and entertainment,0.0,25,False
-fun and exciting games,0.0,34,False
-game addiction,0.037037037037037035,27,False
-game experience,0.05555555555555555,18,False
-game moves and difficulty,0.3684210526315789,19,False
-game performance issues,0.11267605633802817,71,False
-game quality,0.02857142857142857,35,False
-gameplay enjoyment,0.06666666666666667,45,False
-garden decorations,0.15853658536585366,82,False
-gem collecting,0.0,20,False
-graphics and visual changes,0.8,15,True
-highly enjoyed games,0.0,26,False
-in-app purchases,0.34782608695652173,23,False
-in-app purchases and coins,0.5384615384615384,52,True
-interesting game,0.0,33,False
-love and appreciation,0.38461538461538464,13,False
-mental refreshment,0.0,12,False
-mini games and expeditions,0.36,25,False
-misleading advertisements,0.33548387096774196,155,False
-mixed quality,0.5714285714285714,35,True
-negative game experience,0.88,25,True
-nyc game enthusiasm,0.0,15,False
-payment & refund issues,0.75,12,True
-player affection,0.0,15,False
-player appreciation,0.0,45,False
-player enjoyment,0.0,53,False
-player favorites,0.0,26,False
-player love,0.0,23,False
-positive app experience,0.0,23,False
-positive app feedback,0.0,12,False
-positive excitement,0.024390243902439025,41,False
-positive experiences,0.031746031746031744,63,False
-positive feedback,0.011669658886894075,1114,False
-positive game experience,0.0,294,False
-positive game experiences,0.0,34,False
-positive game feedback,0.0076045627376425855,263,False
-positive game quality,0.0,32,False
-positive gameplay experience,0.0,11,False
-positive impressions,0.0,16,False
-positive mood and happiness,0.09523809523809523,21,False
-positive praise,0.013157894736842105,76,False
-positive reactions,0.06666666666666667,15,False
-positive sentiments,0.023255813953488372,43,False
-positive vibes,0.0,16,False
-puzzle satisfaction,0.15384615384615385,13,False
-relaxation & stress relief,0.02631578947368421,38,False
-relaxation and fun,0.0,24,False
-stress relief games,0.26666666666666666,15,False
-time pass activities,0.0,15,False
-time-wasting games,0.6363636363636364,11,True
-timepass games,0.041666666666666664,24,False
-top game quality,0.02127659574468085,47,False
-top-rated game,0.0,32,False
-update & data privacy,0.5411764705882353,85,True
-user engagement,0.0,18,False
-user experience,0.08333333333333333,12,False
-user ratings and wishes,0.3103448275862069,29,False
+App Update & Graphics Feedback,0.027982326951399118,679,False
+Fun Game Experience,0.007202881152460984,833,False
+Fun and Entertainment,0.07092198581560284,282,False
+In-Game Purchases,0.2692055154300722,1523,False
+Misleading Advertisements,0.42441860465116277,172,True
+Negative Game Experience,0.387434554973822,191,False
+Player Appreciation,0.004739336492890996,211,False
+Positive Feedback,0.019005847953216373,684,False
+Positive Reactions,0.04609929078014184,282,False

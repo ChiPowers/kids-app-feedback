@@ -1,98 +1,11 @@
 merged_topic_label,negative_proportion,total_reviews,pain_point_flag
-Unknown,0.25158946412352406,1101,False
-account recovery issues,0.578125,64,True
-basic acknowledgments,0.05555555555555555,54,False
-beautiful game,0.0,17,False
-beautiful imagery,0.0,12,False
-connection issues,0.125,24,False
-connectivity issues,0.5847457627118644,118,True
-customer appreciation,0.0,15,False
-cute and playful,0.0,38,False
-dark system complaints,0.16666666666666666,54,False
-dark system issues,0.5,68,True
-dinosaur event challenges,0.6666666666666666,15,True
-enjoyable and impressive games,0.0,20,False
-enjoyable game,0.0,22,False
-enjoyment and satisfaction,0.021739130434782608,46,False
-entertainment and fun,0.0,50,False
-excitement and amazement,0.0,26,False
-favorite games,0.0,14,False
-feelings of happiness,0.07142857142857142,28,False
-free skins appreciation,0.07692307692307693,13,False
-fun and entertainment,0.03571428571428571,56,False
-game addiction,0.22857142857142856,35,False
-game balance issues,0.057692307692307696,52,False
-game enjoyment,0.0,12,False
-game enjoyment and community,0.12962962962962962,54,False
-game experience,0.46153846153846156,13,True
-game preference and dissatisfaction,0.6,15,True
-game quality and popularity,0.30434782608695654,23,False
-game quality concerns,0.5833333333333334,12,True
-gameplay and connectivity,0.0,18,False
-gameplay frustration,0.0,12,False
-gaming challenges,0.05,20,False
-gaming experience,0.07692307692307693,39,False
-graphics and animation,0.045454545454545456,22,False
-hero characters,0.09523809523809523,21,False
-impressive aesthetics,0.0,23,False
-in-game purchase issues,0.35135135135135137,37,False
-in-game reporting & penalties,0.78125,32,True
-lack of engagement,0.6428571428571429,14,True
-love and friendships,0.09090909090909091,11,False
-machine learning appreciation,0.0,28,False
-matchmaking & rank disparity,0.5833333333333334,12,True
-matchmaking and role selection,0.5789473684210527,19,True
-matchmaking and team quality,0.48484848484848486,33,True
-matchmaking complaints,0.06060606060606061,33,False
-matchmaking concerns,0.44565217391304346,92,True
-matchmaking frustration,0.8181818181818182,22,True
-matchmaking issues,0.37168141592920356,113,False
-matchmaking problems,0.5384615384615384,13,True
-mixed feedback,0.05714285714285714,35,False
-mixed opinions,0.1111111111111111,45,False
-mixed opinions on game,0.05405405405405406,37,False
-mixed positive reactions,0.10975609756097561,82,False
-mixed reactions,0.0410958904109589,73,False
-mixed update reactions,0.42857142857142855,14,True
-moba game reviews,0.3,20,False
-mobile legend praise,0.058823529411764705,17,False
-mobile legends feedback,0.15217391304347827,46,False
-mobile legends issues,0.0,14,False
-nc games,0.0,12,False
-negative app updates,0.045454545454545456,22,False
-negative experience,0.9523809523809523,21,True
-negative game experience,0.7415730337078652,89,True
-player appreciation,0.0,53,False
-player enjoyment,0.0,23,False
-playing experience,0.06060606060606061,33,False
-playing with friends,0.15789473684210525,19,False
-poor bot behavior,0.5217391304347826,23,True
-poor matchmaking,0.8214285714285714,84,True
-poor matchmaking and updates,0.36363636363636365,11,False
-positive app experience,0.0625,16,False
-positive compliments,0.11764705882352941,17,False
-positive feedback,0.004705882352941176,425,False
-positive feelings,0.08333333333333333,12,False
-positive game experience,0.01020408163265306,98,False
-positive game feedback,0.01090909090909091,275,False
-positive impressions,0.025,40,False
-positive praise,0.022222222222222223,135,False
-positive quality,0.0,11,False
-positive reviews and ratings,0.12121212121212122,33,False
-positive sentiment,0.0,15,False
-positive vibes,0.0,24,False
-product quality,0.0,11,False
-promo dias issues,0.4375,16,True
-protocol error issues,0.2222222222222222,18,False
-skin and skins issues,0.3037974683544304,79,False
-skin requests,0.0967741935483871,31,False
-solo play challenges,0.6842105263157895,19,True
-stress relief,0.3157894736842105,38,False
-superlative praise,0.03333333333333333,30,False
-top game experience,0.0,26,False
-top ratings,0.029411764705882353,34,False
-top-rated game,0.0,23,False
-toxic player behavior,0.8620689655172413,29,True
-unfair matchmaking,0.7413793103448276,58,True
-user language and communication,0.0,14,False
-visuals and graphics,0.06666666666666667,15,False
+Bad Matchmaking,0.6684210526315789,190,True
+Dark System Issues,0.39250493096646943,507,False
+Game Experience Issues,0.0911214953271028,428,False
+Matchmaking Issues,0.4069767441860465,86,True
+Mixed Quality,0.051535087719298246,912,False
+Other,0.32960199004975127,1608,False
+Player Appreciation,0.029411764705882353,238,False
+Positive Enthusiasm,0.13983050847457626,236,False
+Positive Experiences,0.047619047619047616,399,False
+Positive Game Feedback,0.06565656565656566,396,False

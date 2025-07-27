@@ -1,74 +1,10 @@
 merged_topic_label,anger,disgust,fear,joy,neutral,sadness,surprise
-Unknown,0.0052,0.0112,0.0018,0.0692,0.0304,0.0178,0.0086
-addictive entertainment,0.0006,0.0,0.0,0.0064,0.0008,0.001,0.0004
-appreciation and love,0.0,0.0,0.0,0.0012,0.0116,0.0,0.0
-asmr and relaxation,0.0,0.0,0.0002,0.0,0.002,0.0,0.0
-austin's family adventures,0.0,0.0,0.0,0.0018,0.0006,0.0,0.0006
-candy crush clones,0.0,0.0008,0.0004,0.0018,0.0008,0.0014,0.0
-casual speech and expressions,0.0002,0.0004,0.0004,0.002,0.0054,0.0002,0.0002
-challenging gameplay,0.0,0.0,0.0,0.002,0.0004,0.0002,0.0
-children's play and satisfaction,0.0,0.0,0.0,0.0024,0.0004,0.0002,0.0
-customer appreciation,0.0,0.0,0.0,0.0052,0.0002,0.0,0.0
-device access & loss,0.0002,0.0,0.0,0.001,0.0006,0.0024,0.0
-difficulty and frustration,0.0,0.0,0.0,0.0002,0.002,0.0,0.0
-download issues,0.0002,0.0004,0.0,0.0004,0.0006,0.001,0.0002
-easy-to-play puzzle games,0.0,0.0,0.0,0.0026,0.001,0.0002,0.0
-educational apps,0.0,0.0,0.0,0.0024,0.0006,0.0,0.0002
-engaging game content,0.0,0.0,0.0,0.0058,0.0012,0.0,0.001
-enjoyable entertainment,0.0,0.0,0.0,0.0012,0.001,0.0,0.0
-enjoyable game,0.0002,0.0006,0.0,0.014,0.002,0.0002,0.0
-entertainment and humor,0.0,0.0,0.0,0.0168,0.0002,0.0,0.0002
-entertainment experience,0.0,0.0,0.0,0.0118,0.0012,0.0016,0.0004
-excellent quality,0.0002,0.0,0.0,0.0026,0.002,0.0,0.0
-frequent update issues,0.0016,0.0,0.0,0.001,0.0016,0.0056,0.001
-fun and entertainment,0.0,0.0,0.0,0.0098,0.0,0.0,0.0
-game addiction,0.0008,0.0002,0.0,0.0002,0.001,0.0004,0.0
-game graphics,0.0002,0.0,0.0004,0.0002,0.0064,0.0002,0.0
-game progression and rewards,0.0084,0.0068,0.0012,0.0118,0.0188,0.02,0.0066
-game quality,0.0,0.0,0.0,0.0038,0.0,0.0002,0.0
-gameplay enjoyment,0.0,0.0,0.0,0.0032,0.0006,0.0,0.0
-gaming experience,0.0,0.0,0.0,0.0032,0.0004,0.0002,0.0
-garden & home decor,0.0002,0.0,0.0,0.005,0.001,0.0006,0.0006
-general acknowledgments,0.0002,0.0,0.0,0.0002,0.011,0.0,0.0
-graphics and story enjoyment,0.0,0.0002,0.0,0.0022,0.0006,0.0004,0.0
-greatest games,0.0,0.0002,0.0,0.0038,0.0044,0.0002,0.0002
-hints and tutorial settings,0.0004,0.0,0.0,0.0006,0.0012,0.0002,0.0004
-home decoration,0.0002,0.0,0.0,0.0078,0.0018,0.0006,0.0004
-impressive reactions,0.0,0.0,0.0002,0.0,0.0,0.0,0.0028
-in-app purchases and ads,0.0002,0.0002,0.0,0.0016,0.0008,0.0002,0.0004
-loading and freezing issues,0.0006,0.0002,0.0,0.0,0.0018,0.0062,0.0008
-mind-blowing experiences,0.0,0.0002,0.0,0.0,0.0016,0.0,0.0012
-mini games complaints,0.0,0.0,0.0,0.0016,0.0002,0.0004,0.0004
-misleading advertisements,0.0016,0.0018,0.0004,0.0086,0.0122,0.0026,0.0022
-mixed positive feedback,0.0,0.002,0.0002,0.0092,0.0014,0.0008,0.0
-negative reviews,0.0,0.0,0.0002,0.0002,0.0178,0.0,0.0002
-neutral acceptance,0.0002,0.0002,0.0,0.0002,0.002,0.0002,0.0
-offline play issues,0.0,0.0,0.0,0.0006,0.0012,0.0008,0.0006
-opiniones sobre el juego,0.0002,0.0004,0.0,0.0,0.002,0.0,0.0
-player affection,0.0,0.0,0.0,0.0048,0.0002,0.0,0.0002
-player appreciation,0.0,0.0,0.0,0.0226,0.0006,0.0002,0.0
-player enjoyment,0.0,0.0,0.0,0.0134,0.0006,0.0004,0.0004
-positive appreciation,0.0,0.0002,0.0,0.0054,0.0016,0.0,0.0004
-positive excitement,0.0,0.0,0.0,0.0,0.0078,0.0,0.0008
-positive experience,0.0002,0.0002,0.0,0.0092,0.0002,0.0002,0.0
-positive feedback,0.0,0.0002,0.0,0.0228,0.0884,0.0002,0.0006
-positive food reviews,0.0,0.0,0.0,0.0,0.002,0.0,0.0
-positive game experience,0.0,0.0,0.0002,0.0638,0.0042,0.0004,0.0038
-positive game feedback,0.0,0.001,0.0,0.0326,0.006,0.0,0.0008
-positive gameplay experience,0.0,0.0,0.0,0.0028,0.0,0.0,0.0
-positive gaming experience,0.0,0.0,0.0,0.006,0.0,0.0,0.0
-positive impressions,0.0,0.0,0.0,0.0108,0.0044,0.0,0.0012
-positive praise,0.0,0.0,0.0,0.016,0.0024,0.0,0.0028
-positive reactions,0.0,0.0,0.0,0.0002,0.0012,0.0002,0.0012
-positive sentiment,0.0002,0.0,0.0,0.0064,0.0016,0.0008,0.0004
-puzzle games,0.0,0.0,0.0002,0.0052,0.0016,0.0014,0.0006
-rating and feedback,0.0004,0.0004,0.0,0.0008,0.0016,0.0008,0.0006
-relaxing and calming games,0.0,0.0,0.0,0.0094,0.0004,0.0004,0.0
-relaxing timepass,0.0002,0.0002,0.0002,0.0054,0.0038,0.0002,0.0
-repetitive event features,0.0004,0.0002,0.0002,0.0012,0.001,0.0016,0.0002
-simple and fun,0.0,0.0,0.0,0.0012,0.0014,0.0,0.0
-storyline and characters,0.0,0.0,0.0,0.0024,0.0006,0.0,0.0002
-stress relief & relaxation,0.0,0.0,0.0,0.0062,0.0036,0.0004,0.0004
-sweet and beautiful game,0.0,0.0,0.0,0.0038,0.0002,0.0,0.0
-top-rated games,0.0,0.0002,0.0,0.005,0.0038,0.0,0.0008
-update & graphics feedback,0.0022,0.0156,0.0022,0.0044,0.0058,0.0128,0.0042
+Ad-Free Gaming Experience,0.0064,0.0182,0.0028,0.0212,0.0262,0.0288,0.01
+Arabic Game Graphics,0.0012,0.0014,0.0012,0.0036,0.0568,0.0008,0.0006
+Enjoyment and Liveliness,0.0002,0.001,0.0002,0.0776,0.015,0.0028,0.0014
+Impressed Reactions,0.0,0.0,0.0002,0.019,0.0102,0.0,0.0034
+Other,0.0162,0.0188,0.0034,0.1406,0.0616,0.0508,0.0204
+Player Appreciation,0.0004,0.0006,0.0,0.0626,0.012,0.0016,0.002
+Positive Feedback,0.0,0.002,0.0002,0.0474,0.0838,0.001,0.002
+Positive Game Feedback,0.0,0.0002,0.0,0.087,0.0054,0.0,0.003
+Top-rated experiences,0.0008,0.0018,0.0002,0.0282,0.0288,0.0004,0.0066

@@ -1,3 +1,11 @@
 merged_topic_label,negative_proportion,total_reviews,pain_point_flag
-Unknown,0.2655786350148368,1348,False
-unknown,0.23576122672508215,3652,False
+Enjoyable Experience,0.06976744186046512,215,False
+Game Enjoyment,0.01910828025477707,157,False
+Game Enthusiasm,0.05263157894736842,133,False
+Game Nostalgia,0.2084942084942085,518,False
+Gameplay Access Issues,0.4509493670886076,632,True
+Impressive Graphics,0.05,140,False
+Other,0.3150067598017125,2219,False
+Positive Feedback,0.02178649237472767,459,False
+Positive Game Feedback,0.015463917525773196,388,False
+Server Connection Issues,0.5683453237410072,139,True

@@ -1,90 +1,11 @@
 merged_topic_label,negative_proportion,total_reviews,pain_point_flag
-Unknown,0.3893740902474527,1374,False
-account loss and support,0.559322033898305,59,True
-animation & art,0.0851063829787234,47,False
-animation quality,0.0,24,False
-anime & manga love,0.08695652173913043,92,False
-app crashes and bugs,0.5930232558139535,86,True
-app improvements,0.4666666666666667,15,True
-app launch & loading issues,0.7058823529411765,17,True
-arena and pvp challenges,0.48484848484848486,33,True
-awakening system issues,0.43478260869565216,23,True
-basic acknowledgment,0.0,21,False
-casual excitement,0.11538461538461539,26,False
-connection issues,0.7272727272727273,11,True
-connection problems,0.577922077922078,154,True
-country selection issue,0.36363636363636365,33,False
-customer affection,0.0,28,False
-developer neglect,0.4166666666666667,24,True
-difficulty and boss challenges,0.6341463414634146,41,True
-download & installation errors,0.45714285714285713,35,True
-entertainment and fun,0.18518518518518517,54,False
-epic praise,0.2631578947368421,19,False
-f2p friendly gameplay,0.21875,64,False
-gacha & f2p experience,0.32894736842105265,76,False
-gacha frustration,0.5294117647058824,34,True
-gacha game feedback,0.4,10,False
-gacha game praise,0.26881720430107525,93,False
-galaxy s24 ultra crashes,0.65,20,True
-game balance and meta,0.6363636363636364,11,True
-game balance concerns,0.6666666666666666,15,True
-game balance issues,0.4,15,False
-game enjoyment,0.07692307692307693,13,False
-game praise,0.0,15,False
-game quality and storage,0.21052631578947367,19,False
-game story & graphics,0.09352517985611511,139,False
-game updates and changes,0.25252525252525254,99,False
-gameplay enjoyment,0.15384615384615385,26,False
-gear and progression,0.6052631578947368,38,True
-gender representation,0.23076923076923078,13,False
-great graphics,0.0,15,False
-grinding fatigue,0.40540540540540543,37,True
-hero balance concerns,0.6470588235294118,17,True
-hero summoning & currency,0.55,20,True
-high cost & value concerns,0.4166666666666667,24,True
-in-game purchases,0.2727272727272727,11,False
-language and localization issues,0.125,16,False
-large download size,0.25,24,False
-loading and startup delays,0.1111111111111111,27,False
-loading and startup issues,0.7272727272727273,11,True
-login and account issues,0.5294117647058824,17,True
-login issues,0.6875,32,True
-long-term player experience,0.35,20,False
-longtime player appreciation,0.0,13,False
-mixed opinions,0.3,50,False
-mixed opinions on game,0.08333333333333333,12,False
-negative game experience,0.9047619047619048,21,True
-neutral feedback,0.02040816326530612,49,False
-pay-to-win concerns,0.29411764705882354,34,False
-payment & banning issues,0.7857142857142857,14,True
-performance & lag issues,0.375,16,False
-player appreciation,0.08,25,False
-player enjoyment,0.046511627906976744,43,False
-player events,0.1875,16,False
-poor management and quality,0.5,16,True
-positive app feedback,0.13513513513513514,37,False
-positive feedback,0.005952380952380952,168,False
-positive feelings,0.0,25,False
-positive game experience,0.047619047619047616,42,False
-positive game feedback,0.00823045267489712,243,False
-positive genre reviews,0.0,19,False
-positive impressions,0.0,59,False
-positive praise,0.09448818897637795,127,False
-positive reactions,0.06896551724137931,58,False
-pvp and character balance,0.5733333333333334,75,True
-regional disparities,0.5257731958762887,97,True
-reward system issues,0.5,16,True
-rng and gear frustration,0.6206896551724138,58,True
-server connectivity issues,0.4117647058823529,17,True
-server fairness,0.7647058823529411,17,True
-server favoritism,0.5555555555555556,45,True
-server issues and rewards,0.5909090909090909,66,True
-summoning frustrations,0.6,25,True
-taiwan sovereignty debate,0.11538461538461539,26,False
-top mobile games,0.0967741935483871,31,False
-top-rated game,0.015625,64,False
-turn-based rpgs,0.05,20,False
-ui and update issues,0.525,120,True
-unit balance issues,0.5833333333333334,12,True
-unwanted ads,0.6875,16,True
-اللعبة الممتعة,0.047619047619047616,21,False
+App Crashes and Bugs,0.5723793677204659,601,True
+F2P Experience,0.2894736842105263,114,False
+Fun and Entertainment,0.04899135446685879,347,False
+Game Enjoyment,0.08641975308641975,162,False
+Game Quality and Performance,0.09363295880149813,267,False
+Mixed Feelings,0.03829787234042553,235,False
+Other,0.3574346405228758,2448,False
+RNG and Gear Frustration,0.5603448275862069,232,True
+Server Connectivity Issues,0.4703703703703704,270,True
+Top Game Praise,0.04938271604938271,324,False

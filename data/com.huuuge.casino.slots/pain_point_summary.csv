@@ -1,95 +1,11 @@
 merged_topic_label,negative_proportion,total_reviews,pain_point_flag
-Unknown,0.22918531781557744,1117,False
-account recovery issues,0.5102040816326531,49,True
-addictive game experience,0.08333333333333333,12,False
-addictive gameplay,0.2692307692307692,26,False
-app crashes and loading issues,0.5583333333333333,120,True
-app usefulness,0.09375,32,False
-big wins and fun,0.0,28,False
-big wins and supporters,0.10810810810810811,37,False
-casino games,0.08150470219435736,319,False
-casino gaming,0.1951219512195122,41,False
-charm collecting and gambling,0.48333333333333334,60,True
-coolness and simplicity,0.0,36,False
-customer favorites,0.0,11,False
-customer praise,0.0,10,False
-customer satisfaction and happiness,0.23076923076923078,13,False
-enjoyable daily play,0.0,17,False
-enjoyable entertainment,0.0,33,False
-enjoyable game experience,0.0,28,False
-enjoyable gameplay,0.03571428571428571,112,False
-enjoyment and fun,0.01818181818181818,55,False
-enjoyment and visits,0.0,16,False
-excessive ads,0.6190476190476191,42,True
-excessive pop-ups,0.6,15,True
-excitement and enthusiasm,0.0,12,False
-exciting game experience,0.05263157894736842,19,False
-expressive excitement,0.0,11,False
-extreme fun,0.0,17,False
-fraud and scams,0.5873015873015873,126,True
-fun and entertaining game,0.0,26,False
-fun and humor,0.0,28,False
-fun and prizes,0.0,32,False
-fun entertainment,0.0,40,False
-fun game,0.025,40,False
-game graphics and rewards,0.07142857142857142,14,False
-game improvements,0.09090909090909091,11,False
-game losing frustration,0.25925925925925924,27,False
-game quality and preference,0.13043478260869565,46,False
-gameplay enjoyment,0.075,80,False
-general satisfaction,0.0,31,False
-great dog choices,0.0,12,False
-great gaming experiences,0.0,20,False
-huuuge casino experience,0.10144927536231885,69,False
-in-app purchases and loss,0.4,15,False
-in-game betting and currency,0.23333333333333334,30,False
-in-game currency issues,0.2978723404255319,47,False
-in-game purchases and rewards,0.5384615384615384,91,True
-independence day ads,0.0,17,False
-jackpot rewards,0.0,50,False
-lack of engagement,0.6470588235294118,17,True
-lack of support,0.46153846153846156,13,True
-large wins,0.0,40,False
-level progression issues,0.4666666666666667,15,True
-long-term usage,0.16666666666666666,12,False
-love and blessings,0.0,18,False
-mixed feedback,0.7647058823529411,17,True
-mixed feelings,0.07142857142857142,42,False
-mixed positive reactions,0.0425531914893617,47,False
-mixed praise and criticism,0.0,17,False
-money rewards,0.15,20,False
-negative quality,0.5625,16,True
-passing time,0.07142857142857142,56,False
-payout concerns,0.10526315789473684,38,False
-player affection,0.0,39,False
-player enjoyment,0.03571428571428571,28,False
-positive app experiences,0.02564102564102564,78,False
-positive experiences,0.06666666666666667,15,False
-positive feedback,0.002717391304347826,368,False
-positive feelings,0.0,21,False
-positive game experience,0.024390243902439025,41,False
-positive game feedback,0.010869565217391304,184,False
-positive impressions,0.023809523809523808,42,False
-positive praise,0.0,16,False
-positive sentiment,0.020833333333333332,48,False
-positive sentiments,0.0,22,False
-positive vibes,0.0,15,False
-real money rewards,0.4523809523809524,42,True
-relaxation and entertainment,0.04,25,False
-religious faith,0.2727272727272727,11,False
-rewards & bonuses,0.037037037037037035,27,False
-slot casino experience,0.13043478260869565,23,False
-slot games enjoyment,0.09375,96,False
-slot machine deception,0.5,16,True
-slot machine frustration,0.5789473684210527,19,True
-slot machines appreciation,0.03125,32,False
-social gaming & friendships,0.06451612903225806,31,False
-spinning rewards,0.16216216216216217,37,False
-stress relief & relaxation,0.0,18,False
-top picks,0.0,18,False
-top slot app,0.05,20,False
-transformative experience,0.08333333333333333,12,False
-variety of fun games,0.03125,32,False
-winning and jackpots,0.07692307692307693,52,False
-winning and rewards,0.0,42,False
-winning experiences,0.0,20,False
+Basic Acknowledgments,0.23820754716981132,424,False
+Casino Games,0.07339449541284404,218,False
+Fun and Entertainment,0.055944055944055944,429,False
+Game Enjoyment,0.019157088122605363,261,False
+Jackpot Wins,0.059322033898305086,354,False
+Other,0.28215556685307575,1967,False
+Positive Game Feedback,0.023391812865497075,513,False
+Positive Praise,0.019455252918287938,257,False
+Slot Machines,0.13068181818181818,176,False
+Unique Customer Journey,0.0798004987531172,401,False

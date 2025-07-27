@@ -1,5 +1,5 @@
-import pandas as pd
 import os
+import pandas as pd
 from vaderSentiment.vaderSentiment import SentimentIntensityAnalyzer
 from transformers import pipeline
 import torch
@@ -7,7 +7,8 @@ from tqdm import tqdm
 import textstat
 from bertopic import BERTopic
 from sentence_transformers import SentenceTransformer
-from sklearn.cluster import KMeans
+from sklearn.cluster import AgglomerativeClustering
+from collections import Counter
 from openai import OpenAI
 import streamlit as st
 
@@ -22,7 +23,6 @@ emotion_pipeline = pipeline(
 embedding_model = SentenceTransformer("all-MiniLM-L6-v2")
 
 client = OpenAI(api_key=st.secrets["OPENAI_API_KEY"])
-import os
 
 def is_app_preprocessed(app_id, data_dir="data"):
     """Check if all expected output files already exist for the app."""
@@ -79,78 +79,107 @@ Respond with only the label.
         print(f"❌ Error labeling topic {topic_num}: {e}")
         return "Unknown"
 
-def process_reviews_file(app_id: str, base_dir="data"):
-    input_path = os.path.join(base_dir, app_id, "reviews.csv")
-    output_path = os.path.join(base_dir, app_id, f"{app_id}_reviews_preprocessed.csv")
-    app_folder = os.path.join(base_dir, app_id)
-    os.makedirs(app_folder, exist_ok=True)
+def consolidate_merged_topics(df, max_clusters=10, top_n_words=10):
+    unique_topics = sorted(df['merged_topic'].dropna().unique())
+    n_clusters = min(max_clusters, len(unique_topics))
+    if n_clusters == 0:
+        return df  # nothing to cluster
 
-    if not os.path.exists(input_path):
-        print(f"❌ Missing input file for {app_id}")
-        return
+    def get_top_words_for_topic_label(label):
+        texts = df[df['merged_topic'] == label]['text'].dropna().tolist()
+        all_words = []
+        for text in texts:
+            all_words.extend(text.lower().split())
+        word_counts = Counter(all_words)
+        top_words = [word for word, count in word_counts.most_common(top_n_words)]
+        return " ".join(top_words) if top_words else "no words"
 
-    print(f"🔄 Processing {app_id}...")
-    df = pd.read_csv(input_path)
-    df = df.dropna(subset=["text"])
-    df = df[df["text"].str.strip().astype(bool)]
+    topic_texts = [get_top_words_for_topic_label(t) for t in unique_topics]
+    embeddings = embedding_model.encode(topic_texts, show_progress_bar=False)
 
-    # Basic preprocessing
-    df["date"] = pd.to_datetime(df["date"], errors="coerce")
-    df["text_length"] = df["text"].str.len()
-    df["vader_sentiment"] = df["text"].apply(lambda x: analyzer.polarity_scores(x)["compound"])
-    df["emotion"] = batch_emotion_labels(df["text"].tolist())
-    df["readability"] = df["text"].apply(textstat.flesch_reading_ease)
+    clustering = AgglomerativeClustering(n_clusters=n_clusters)
+    cluster_labels = clustering.fit_predict(embeddings)
 
-    # Keyword flags
+    topic_to_cluster = dict(zip(unique_topics, cluster_labels))
+
+    cluster_to_label = {}
+    for cluster in range(n_clusters):
+        member_topics = [t for t, c in topic_to_cluster.items() if c == cluster]
+        labels = df[df['merged_topic'].isin(member_topics)]['merged_topic_label'].unique()
+        cluster_to_label[cluster] = labels[0] if len(labels) > 0 else f"Cluster {cluster}"
+
+    df['merged_topic'] = df['merged_topic'].map(topic_to_cluster)
+    df['merged_topic_label'] = df['merged_topic'].map(cluster_to_label)
+
+    return df
+
+def clean_review_text(text):
+    # Simple cleaning — adjust if you want more
+    return text.strip()
+
+def load_reviews_file(path):
+    return pd.read_csv(path)
+
+def run_topic_modeling(texts):
+    topic_model = BERTopic(embedding_model=embedding_model, verbose=True)
+    topics, probs = topic_model.fit_transform(texts)
+    return topics, probs, topic_model
+
+def analyze_emotions(df):
+    df['emotion'] = batch_emotion_labels(df['text'].tolist())
+    return df
+
+def analyze_sentiment(df):
+    df['vader_sentiment'] = df['text'].apply(lambda x: analyzer.polarity_scores(x)["compound"])
+    return df
+
+def analyze_readability(df):
+    df['readability'] = df['text'].apply(textstat.flesch_reading_ease)
+    df['text_length'] = df['text'].str.len()
+    return df
+
+def detect_keywords(df):
     bug_keywords = ['bug', 'crash', 'glitch', 'error', 'issue', 'broken', 'freeze']
     request_keywords = ['add', 'feature', 'please', 'would like', 'suggest', 'can you', 'request']
     df['contains_bug_keywords'] = df['text'].str.lower().apply(lambda x: any(k in x for k in bug_keywords))
     df['contains_request_keywords'] = df['text'].str.lower().apply(lambda x: any(k in x for k in request_keywords))
+    return df
 
-    # Topic modeling
-    print("🔍 Running BERTopic...")
-    topic_model = BERTopic(embedding_model=embedding_model, verbose=True)
-    topics, probs = topic_model.fit_transform(df['text'].tolist())
-    df['topic'] = topics
-    df['topic_prob'] = probs
+def process_reviews_file(file_path, app_folder, app_id):
+    print(f"Processing {file_path}...")
+    df = load_reviews_file(file_path)
+    df["text"] = df["text"].astype(str).apply(clean_review_text)
+    df = df[df["text"].str.strip().astype(bool)]
 
-    # GPT topic labeling
-    docs = df['text'].tolist()
-    topic_info = topic_model.get_topic_info()
-    labels = {}
+    df = analyze_emotions(df)
+    df = analyze_sentiment(df)
+    df = analyze_readability(df)
+    df = detect_keywords(df)
 
-    for topic_num in tqdm(topic_info['Topic']):
+    topics, probs, topic_model = run_topic_modeling(df["text"].tolist())
+    df["topic"] = topics
+
+    unique_topics = sorted(df["topic"].unique())
+    topic_representative = {}
+    for topic in unique_topics:
+        texts = df[df["topic"] == topic]["text"].tolist()
+        sample_reviews = texts[:3] if len(texts) >= 3 else texts + [""]*(3-len(texts))
+        top_words = [word for word, _ in topic_model.get_topic(topic)[:10]] if topic != -1 else []
+        topic_representative[topic] = (top_words, sample_reviews)
+
+    topic_labels = {}
+    for topic_num, (top_words, sample_reviews) in tqdm(topic_representative.items(), desc="GPT Topic Labeling"):
         if topic_num == -1:
-            continue
-        top_words = [word for word, _ in topic_model.get_topic(topic_num)[:10]]
-        sample_reviews = [docs[i] for i, t in enumerate(topics) if t == topic_num][:3]
-        if len(sample_reviews) < 3:
-            continue
-        label = suggest_label(topic_num, top_words, sample_reviews)
-        labels[topic_num] = label
+            topic_labels[topic_num] = "Other"
+        else:
+            label = suggest_label(topic_num, top_words, sample_reviews)
+            topic_labels[topic_num] = label
 
-    # Topic embedding clustering for consolidation
-    topic_embeddings = topic_model.topic_embeddings_[:len(topic_info)]
-    n_clusters = min(len(topic_embeddings), 10)
-    kmeans = KMeans(n_clusters=n_clusters, random_state=42)
-    cluster_ids = kmeans.fit_predict(topic_embeddings)
+    df["merged_topic"] = df["topic"]
+    df["merged_topic_label"] = df["topic"].map(topic_labels)
 
-    topic_to_cluster = {
-        topic: cluster_ids[i] for i, topic in enumerate(topic_info['Topic']) if topic != -1
-    }
-    df['merged_topic'] = df['topic'].map(topic_to_cluster)
+    df = consolidate_merged_topics(df, max_clusters=10)
 
-    # Build merged labels using majority GPT label in each cluster
-    merged_labels = {}
-    for cluster_id in set(topic_to_cluster.values()):
-        clustered_topics = [t for t, c in topic_to_cluster.items() if c == cluster_id]
-        clustered_labels = [labels.get(t, "Unknown") for t in clustered_topics]
-        most_common_label = pd.Series(clustered_labels).mode().iloc[0]
-        merged_labels[cluster_id] = most_common_label
-
-    df['merged_topic_label'] = df['merged_topic'].map(merged_labels)
-
-    # Pain point detection
     negative_emotions = ['anger', 'sadness', 'fear', 'disgust']
     topic_counts = df.groupby('merged_topic_label').size()
     neg_counts = df[df['emotion'].isin(negative_emotions)].groupby('merged_topic_label').size()
@@ -159,10 +188,9 @@ def process_reviews_file(app_id: str, base_dir="data"):
     pain_points = neg_proportion[neg_proportion > threshold]
     df['pain_point'] = df['merged_topic_label'].isin(pain_points.index)
 
-    # Save processed reviews
+    output_path = os.path.join(app_folder, f"{app_id}_reviews_preprocessed.csv")
     df.to_csv(output_path, index=False)
 
-    # Save topic summary with pain point flag
     topic_summary = df.groupby("merged_topic_label").agg({
         "text": "count",
         "vader_sentiment": "mean",
@@ -181,7 +209,6 @@ def process_reviews_file(app_id: str, base_dir="data"):
     topic_summary["pain_point_flag"] = topic_summary["merged_topic_label"].isin(pain_points.index)
     topic_summary.to_csv(os.path.join(app_folder, "topics.csv"), index=False)
 
-    # Save pain summary
     pain_summary = pd.DataFrame({
         'negative_proportion': neg_proportion,
         'total_reviews': topic_counts,
@@ -189,7 +216,6 @@ def process_reviews_file(app_id: str, base_dir="data"):
     }).reset_index()
     pain_summary.to_csv(os.path.join(app_folder, "pain_point_summary.csv"), index=False)
 
-    # Save normalized emotion distribution
     emotion_dist = (
         df[["merged_topic_label", "emotion"]]
         .value_counts(normalize=True)
@@ -198,9 +224,19 @@ def process_reviews_file(app_id: str, base_dir="data"):
     pivoted = emotion_dist.pivot(index="merged_topic_label", columns="emotion", values="proportion").fillna(0)
     pivoted.to_csv(os.path.join(app_folder, "emotion_distribution_by_topic.csv"))
 
-top_apps = pd.read_csv("data/top_apps.csv")
-for app_id in top_apps["app_id"]:
-    if is_app_preprocessed(app_id):
-        print(f"✅ Skipping {app_id}: already preprocessed.")
+    print(f"Finished processing {app_id}")
+
+data_dir = "data"
+app_ids = [d for d in os.listdir(data_dir) if os.path.isdir(os.path.join(data_dir, d))]
+
+for app_id in app_ids:
+    app_folder = os.path.join(data_dir, app_id)
+    if is_app_preprocessed(app_id, data_dir=data_dir):
+        print(f"✅ Skipping {app_id} — already processed.")
         continue
-    process_reviews_file(app_id)
+
+    review_csv = os.path.join(app_folder, "reviews.csv")
+    if os.path.exists(review_csv):
+        process_reviews_file(review_csv, app_folder, app_id)
+    else:
+        print(f"⚠️ No reviews.csv found for {app_id}")

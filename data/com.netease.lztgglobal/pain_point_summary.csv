@@ -1,94 +1,11 @@
 merged_topic_label,negative_proportion,total_reviews,pain_point_flag
-Unknown,0.31213872832369943,1557,False
-account recovery issues,0.5652173913043478,23,True
-app crashes,0.7714285714285715,35,True
-app discontinuation,0.5714285714285714,14,True
-app not opening,0.6538461538461539,26,True
-app quality,0.041666666666666664,24,False
-app shutdown sadness,0.8666666666666667,15,True
-app size concerns,0.2972972972972973,37,False
-battle royale features,0.0967741935483871,31,False
-battle royale gameplay,0.20689655172413793,29,False
-bot match issues,0.391304347826087,23,False
-bug reports and glitches,0.29411764705882354,17,False
-call of duty comparisons,0.2,25,False
-character customization and outfits,0.15384615384615385,13,False
-cheater complaints,0.5555555555555556,18,True
-cheating and cheaters,0.5813953488372093,43,True
-cheating and developer response,0.7727272727272727,22,True
-cheating issues,0.5681818181818182,44,True
-controller support,0.09090909090909091,11,False
-cr7 op,0.0,12,False
-cross-platform play,0.40476190476190477,42,True
-customer love and suspense,0.07692307692307693,13,False
-cyber hunter appreciation,0.1826086956521739,115,False
-download delays,0.6153846153846154,13,True
-download problems,0.5,30,True
-download size and data usage,0.4,30,False
-download/installation issues,0.5,18,True
-enjoyable fun,0.25,28,False
-enjoyable game,0.06666666666666667,30,False
-expressive reactions,0.0,28,False
-file retrieval errors,0.6428571428571429,14,True
-fortnite comparisons,0.11764705882352941,17,False
-frame rate & performance,0.2857142857142857,14,False
-future and leadership,0.05263157894736842,38,False
-game glitches and bugs,0.38461538461538464,13,False
-game graphics and cheating,0.2,10,False
-game issues and updates,0.11764705882352941,17,False
-game preference and comparisons,0.225,40,False
-game quality and pricing,0.0,15,False
-game references,0.16666666666666666,12,False
-game revival,0.2631578947368421,19,False
-game service & performance,0.42857142857142855,14,True
-game size concerns,0.21428571428571427,14,False
-gameplay experience,0.13333333333333333,15,False
-gameplay mechanics and controls,0.41025641025641024,39,True
-good luck and chance,0.06666666666666667,15,False
-graphics and visuals,0.10112359550561797,89,False
-hacker issues,0.45323741007194246,139,True
-hackers and cheating,0.5833333333333334,24,True
-hacking and cheating reports,0.4,10,False
-login issues,0.8888888888888888,18,True
-loot drop rates,0.36,25,False
-map expansion requests,0.24390243902439024,41,False
-matching delay,0.36585365853658536,82,False
-minimal feedback,0.034482758620689655,29,False
-mixed game feedback,0.037037037037037035,27,False
-mixed or neutral feedback,0.0,118,False
-mixed reactions and humor,0.0625,16,False
-mixed/neutral feedback,0.9333333333333333,15,True
-negative content/trash,0.45454545454545453,11,True
-negative experience,0.8333333333333334,18,True
-negative game experience,0.9253731343283582,67,True
-performance and stability,0.028985507246376812,69,False
-performance issues,0.6,75,True
-player affection,0.10810810810810811,37,False
-player appreciation,0.11363636363636363,44,False
-player enjoyment,0.0,19,False
-pokemon and gaming excitement,0.0,16,False
-popular game praise,0.10526315789473684,38,False
-positive app experience,0.07692307692307693,13,False
-positive excitement,0.1935483870967742,31,False
-positive feedback,0.011363636363636364,176,False
-positive feelings,0.029411764705882353,34,False
-positive game feedback,0.00966183574879227,207,False
-positive impressions,0.0821917808219178,73,False
-positive praise,0.0,54,False
-pubg copy concerns,0.15789473684210525,38,False
-rating and reviews,0.1568627450980392,51,False
-religious references,0.0,21,False
-rules of survival,0.25,16,False
-security concerns,0.25,40,False
-server connection issues,0.6875,16,True
-shooting games,0.0,11,False
-top-rated game,0.024390243902439025,82,False
-unintelligible or nonsensical content,0.2,10,False
-update concerns,0.18309859154929578,71,False
-user affection,0.0,21,False
-user experience frustration,0.13924050632911392,79,False
-user favorites,0.09090909090909091,11,False
-usernames and names,0.020202020202020204,99,False
-visual effects,0.0,22,False
-технические проблемы и несправедливость,0.0,11,False
-تجربة اللعبة,0.09649122807017543,114,False
+Battle Royale Game,0.16988416988416988,259,False
+Download Problems,0.5263157894736842,76,True
+Game nostalgia,0.1537313432835821,670,False
+Hacker Issues,0.4840764331210191,314,True
+Mixed or Neutral Feedback,0.078125,512,False
+Other,0.33865683865683865,2442,False
+Performance and Lagging,0.031746031746031744,189,False
+Positive Feedback,0.02631578947368421,76,False
+Positive Praise,0.011627906976744186,86,False
+اللعب والتسلية,0.11702127659574468,376,False

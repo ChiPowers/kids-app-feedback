@@ -1,108 +1,11 @@
 merged_topic_label,anger,disgust,fear,joy,neutral,sadness,surprise
-"""affirmative responses""",0.0,0.0,0.0,0.0,0.007,0.0002,0.0
-"""ancient world game reviews""",0.0,0.0,0.0,0.001,0.0008,0.0002,0.0
-"""awesome app feedback""",0.0,0.0,0.0,0.0052,0.001,0.0,0.0004
-"""best game ever""",0.0,0.0002,0.0,0.0058,0.011,0.0,0.002
-"""best game in the world""",0.0,0.0,0.0,0.0032,0.0026,0.0,0.0
-"""best game in world""",0.0002,0.0002,0.0,0.0026,0.0038,0.0,0.0012
-"""best game reviews""",0.0002,0.0,0.0,0.0034,0.0124,0.0,0.0002
-"""best mobile game experience""",0.0,0.0,0.0,0.0082,0.0042,0.0004,0.0022
-"""best""",0.0,0.0002,0.0,0.0006,0.0076,0.0,0.0006
-"""comparing free fire and pubg""",0.0006,0.0,0.0,0.0016,0.0016,0.0004,0.0
-"""enjoyable fun experience""",0.0,0.0002,0.0,0.0034,0.0,0.0,0.0
-"""excellent work feedback""",0.0,0.0,0.0,0.003,0.0012,0.0,0.0
-"""expressions of love""",0.0,0.0,0.0,0.0024,0.0032,0.0014,0.0002
-"""favorite game praise""",0.0,0.0,0.0004,0.0,0.0038,0.0,0.0
-"""free fire game reviews""",0.001,0.0,0.0,0.004,0.0018,0.0004,0.0002
-"""high praise for game""",0.0,0.0004,0.0,0.016,0.003,0.0002,0.002
-"""perfect app satisfaction""",0.0,0.0,0.0,0.0,0.0032,0.0,0.0002
-"""positive app feedback""",0.0,0.0,0.0,0.003,0.0002,0.0,0.0
-"""positive game reviews""",0.0,0.0,0.0,0.0192,0.0014,0.0,0.0
-"""praise for game""",0.0,0.0,0.0,0.0,0.0032,0.0,0.0
-"""pubg app appreciation""",0.0,0.0,0.0004,0.0044,0.0024,0.0002,0.0004
-"""pubg game love""",0.0004,0.0006,0.0002,0.0192,0.0046,0.0022,0.0026
-"""pubg game reviews""",0.0008,0.0,0.001,0.0002,0.0086,0.0,0.0
-"""pubg mobile game reviews""",0.0,0.0,0.0,0.0,0.0018,0.0002,0.0004
-"""pubg mobile game""",0.0,0.0,0.0,0.001,0.0012,0.0,0.0
-"""value of pubg game""",0.0002,0.0,0.0,0.0002,0.0018,0.0002,0.0002
-"""very good reviews""",0.0,0.0008,0.0,0.0066,0.0014,0.0,0.0
-"""very nice game""",0.0,0.0,0.0,0.0048,0.0,0.0,0.0
-Unknown,0.0028,0.0052,0.0004,0.079,0.0712,0.0192,0.011
-account security issues,0.0018,0.0,0.0,0.0002,0.001,0.0018,0.0
-adventure combat game,0.0004,0.0,0.0,0.0024,0.0006,0.0002,0.0002
-african server issues,0.0002,0.0002,0.0,0.0002,0.0014,0.0006,0.0
-app quality opinions,0.0,0.0002,0.0,0.004,0.0,0.0,0.0002
-appreciation for application,0.0,0.0,0.0,0.0016,0.002,0.0,0.0
-appreciation for team effort,0.0,0.0,0.0,0.0006,0.003,0.0,0.0
-arabic game praises,0.0002,0.0,0.0016,0.0,0.0058,0.0,0.0
-arabic praise/positive feedback,0.0,0.0,0.0,0.0,0.0028,0.0,0.0
-bad update glitches,0.0002,0.0006,0.0,0.0002,0.0002,0.0008,0.0
-battle ground games,0.0,0.0,0.0,0.0014,0.0018,0.0,0.0004
-battle royale game quality,0.0,0.0,0.0,0.0028,0.0022,0.0002,0.0002
-best game ever played,0.0,0.0,0.0,0.002,0.0,0.0,0.0002
-best game reviews,0.0,0.0,0.0,0.0016,0.001,0.0,0.0
-best of the best,0.0,0.0,0.0,0.0008,0.0036,0.0002,0.0002
-cheating and hacking issues,0.0004,0.0008,0.0,0.0008,0.0014,0.001,0.0002
-emojis and non-english words,0.0,0.0004,0.0002,0.0014,0.0278,0.0002,0.0
-emotional connection to games,0.0,0.0,0.0,0.001,0.0018,0.0,0.0004
-emotional game experience,0.0,0.0,0.0,0.0006,0.0014,0.0002,0.0
-enjoyable and addictive gameplay,0.0,0.0,0.0,0.0048,0.0008,0.0,0.0
-enjoyable gaming experience,0.0,0.0,0.0,0.0022,0.0,0.0,0.0
-exciting gameplay experience,0.0,0.0,0.0,0.004,0.0,0.0002,0.0
-expressions of amazement,0.0,0.0,0.0,0.0,0.0002,0.0,0.0044
-favorite game appreciation,0.0002,0.0,0.0,0.0088,0.0014,0.0002,0.0
-favorite games,0.0,0.0,0.0,0.0024,0.0022,0.0,0.0
-fps performance issues,0.0004,0.0002,0.0,0.0014,0.0074,0.0022,0.0008
-frequent game updates,0.0,0.0,0.0,0.0018,0.0002,0.0002,0.0004
-game appreciation,0.0,0.0,0.0,0.0004,0.0018,0.0,0.0002
-game enjoyment,0.0,0.0,0.0,0.006,0.0,0.0,0.0
-game performance issues,0.0004,0.0,0.0,0.0008,0.0012,0.0032,0.0002
-game preferences,0.0004,0.0,0.0,0.007,0.0006,0.0002,0.0002
-game quality and experience,0.0,0.0,0.0,0.0018,0.0006,0.0,0.0002
-game reviews,0.0,0.0002,0.0,0.0002,0.003,0.0,0.0
-game update issues,0.0002,0.0,0.0006,0.0024,0.0152,0.0008,0.0004
-good gaming experience,0.0,0.0,0.0002,0.0036,0.0022,0.0,0.0
-graphics quality and improvement,0.0,0.0,0.0,0.0038,0.0016,0.0,0.0004
-great strategy game,0.0002,0.0,0.0,0.0076,0.0004,0.0,0.0002
-high ms and crashing issues,0.0,0.0,0.0,0.0002,0.0012,0.0008,0.0002
-impressive visual effects,0.0,0.0,0.0,0.0022,0.0,0.0,0.0006
-in-game rewards and currency,0.0004,0.0,0.0,0.0016,0.0034,0.0022,0.001
-incoherent reviews,0.0,0.0002,0.0,0.002,0.0006,0.0,0.0002
-lobby and bot complaints,0.0004,0.0002,0.0002,0.0002,0.0014,0.0016,0.0
-long-term gameplay experience,0.0,0.0,0.0,0.0094,0.0026,0.0006,0.001
-love and enjoyment,0.0,0.0002,0.0,0.0008,0.002,0.002,0.0
-love for game,0.0,0.0,0.0,0.0058,0.0006,0.0002,0.0
-love for the game,0.0,0.0,0.0,0.0026,0.0002,0.0,0.0002
-low-end device compatibility,0.0,0.0002,0.0002,0.0012,0.002,0.0026,0.0006
-mixed user experience,0.0,0.0,0.0,0.0004,0.0012,0.0012,0.0
-negative game reviews,0.0,0.0006,0.0002,0.0,0.0,0.0022,0.0
-network connection issues,0.0004,0.0,0.0002,0.0004,0.0006,0.0008,0.0004
-new update features,0.0,0.0002,0.0,0.0024,0.0022,0.0002,0.0
-nice game reviews,0.0,0.0,0.0,0.0188,0.0006,0.0,0.0
-online multiplayer games,0.0,0.0,0.0,0.001,0.0016,0.0002,0.0
-positive app feedback,0.0,0.0002,0.0,0.0044,0.001,0.0,0.0
-positive app reactions,0.0,0.0,0.0,0.0046,0.0,0.0,0.0018
-positive emotional response,0.0,0.0002,0.0004,0.005,0.0002,0.0,0.0
-positive experience memories,0.0,0.0,0.0,0.003,0.0012,0.0,0.0002
-positive feedback,0.0,0.0,0.0,0.0016,0.0468,0.0002,0.0002
-positive feedback/reactions,0.0,0.0,0.0,0.006,0.0032,0.0002,0.0036
-positive game feedback,0.0,0.0,0.0,0.001,0.0024,0.0,0.0004
-positive game reviews,0.0002,0.0002,0.0002,0.0212,0.0122,0.0014,0.001
-positive praise,0.0004,0.0002,0.0,0.0048,0.0044,0.0,0.002
-positive reviews in arabic,0.0,0.0,0.0,0.0,0.0022,0.0,0.0
-positive satisfaction,0.0,0.0,0.0,0.0056,0.0006,0.0,0.0
-positive sentiment,0.0,0.0,0.0,0.0052,0.0002,0.0,0.0
-praise for game quality,0.0004,0.0,0.0,0.0032,0.0004,0.0,0.0012
-pubg game discussion,0.0,0.0,0.0,0.0012,0.0062,0.0002,0.0002
-pubg game reviews,0.0004,0.0002,0.0,0.0066,0.0014,0.0006,0.0004
-pubg mobile appreciation,0.0008,0.0002,0.0,0.0308,0.0082,0.0024,0.002
-realistic graphics/gameplay,0.0,0.0,0.0,0.0018,0.0022,0.0,0.0004
-request for glacier m416,0.0002,0.0,0.0002,0.0032,0.0036,0.002,0.0004
-request for m416 skin,0.0,0.0,0.0,0.0006,0.0016,0.0006,0.0
-request for smoother graphics,0.0,0.0,0.0,0.0008,0.001,0.0,0.0002
-shooting game feedback,0.0004,0.0002,0.0,0.004,0.0008,0.0,0.0008
-stress relief activities,0.0,0.0,0.0,0.0018,0.0008,0.001,0.0
-technical issues/errors,0.0004,0.0,0.0,0.0002,0.003,0.0064,0.0012
-transformers update issues,0.0004,0.0006,0.0004,0.001,0.0006,0.0004,0.0006
-very good game,0.0,0.0,0.0,0.007,0.0004,0.0,0.0
-world's top games,0.0,0.0,0.0,0.0006,0.0002,0.0,0.0012
+App Updates and Events,0.0002,0.0008,0.0,0.006,0.0158,0.002,0.0004
+Best Game Ever,0.0006,0.0006,0.0,0.0322,0.034,0.0006,0.0076
+FPS Performance Concerns,0.0026,0.0016,0.0014,0.0792,0.0594,0.0146,0.0104
+Mixed Reactions,0.0002,0.0008,0.0002,0.0316,0.0404,0.0004,0.001
+Other,0.0104,0.007,0.002,0.1546,0.0852,0.041,0.0186
+Player Appreciation,0.0,0.0002,0.0,0.0388,0.006,0.0,0.0004
+Positive Feedback,0.0,0.0008,0.0002,0.021,0.0542,0.0042,0.0068
+Positive Game Experience,0.0006,0.0014,0.0002,0.0594,0.0128,0.004,0.0034
+Positive Praise,0.0002,0.0012,0.0002,0.0286,0.032,0.0006,0.0066
+أفضل الألعاب,0.0012,0.0,0.003,0.0004,0.048,0.0002,0.0

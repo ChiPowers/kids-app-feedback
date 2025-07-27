@@ -1,90 +1,10 @@
 merged_topic_label,negative_proportion,total_reviews,pain_point_flag
-"""addictive fun""",0.3333333333333333,24,False
-"""addictive gameplay""",0.027777777777777776,36,False
-"""amazing app experience""",0.0,31,False
-"""best game ever""",0.0,36,False
-"""boring game experience""",0.47368421052631576,19,True
-"""enjoyable simple game""",0.0,28,False
-"""fun and feature-rich""",0.0,15,False
-"""fun game experience""",0.0,88,False
-"""highly enjoyable app""",0.0,12,False
-"""interesting game experience""",0.037037037037037035,27,False
-"""interesting puzzle game""",0.0,21,False
-"""superior quality praise""",0.0136986301369863,73,False
-Unknown,0.17196531791907516,692,False
-account deletion/update issues,0.48484848484848486,33,True
-ads in game,0.5362318840579711,138,True
-affirmative responses,0.07575757575757576,66,False
-ai replacing human staff,0.5294117647058824,17,True
-amazing game reviews,0.0,30,False
-app aesthetics praise,0.07142857142857142,14,False
-app praise,0.08,25,False
-app quality feedback,0.02702702702702703,37,False
-awesome game reviews,0.0,32,False
-best game reviews,0.0,12,False
-best gaming experience,0.017241379310344827,58,False
-booster issues and fixes,0.7,20,True
-brain-boosting games,0.0,10,False
-candy crush enjoyment,0.20833333333333334,24,False
-candy crush saga game,0.0,31,False
-challenging and exciting fun,0.030303030303030304,33,False
-easy classic puzzles,0.0,12,False
-emotional love experiences,0.5833333333333334,12,True
-enjoyable fun game,0.0,20,False
-enjoyable gameplay experience,0.019230769230769232,52,False
-enjoyable games,0.0,30,False
-enjoying the game,0.0,11,False
-enjoyment and satisfaction,0.0,32,False
-enjoyment of candy crush,0.05,40,False
-entertaining and fun,0.0,24,False
-excellent game praise,0.0,13,False
-excitement and enthusiasm,0.11764705882352941,17,False
-expressions of affection,0.0,21,False
-fantastic game reviews,0.0,10,False
-favorite foods,0.1,10,False
-favorite game,0.05263157894736842,19,False
-fun and enjoyable,0.0,24,False
-fun gaming experience,0.0,68,False
-game appreciation,0.0,20,False
-game difficulty and levels,0.37254901960784315,102,False
-gold purchase issues,0.7222222222222222,18,True
-good reviews,0.02040816326530612,49,False
-good understanding,0.0,387,False
-great fun,0.0,12,False
-great game reviews,0.0,40,False
-having fun,0.0,16,False
-incomprehensible reviews,0.15584415584415584,77,False
-long-term game enjoyment,0.0,25,False
-mind refreshing games,0.0,35,False
-mind relaxation & enhancement,0.05555555555555555,18,False
-misleading and long ads,0.3333333333333333,18,False
-mixed feelings about game,0.08695652173913043,23,False
-mixed quality reviews,0.16470588235294117,85,False
-monetization and rewards,0.15789473684210525,19,False
-negative game experience,0.75,16,True
-nice game appreciation,0.029411764705882353,34,False
-nice game reviews,0.014814814814814815,135,False
-non-english reviews,0.1111111111111111,18,False
-positive affection,0.0,43,False
-positive app feedback,0.10144927536231885,69,False
-positive app praise,0.01818181818181818,55,False
-positive emotions/reactions,0.027586206896551724,145,False
-positive exclamations,0.0,15,False
-positive feedback,0.007920792079207921,505,False
-positive feedback/appreciation,0.0,39,False
-positive feedback/experience,0.0,13,False
-positive feedback/reactions,0.1935483870967742,62,False
-positive feedback/reviews,0.0,38,False
-positive game reviews,0.0,295,False
-positive reactions,0.0,57,False
-positive user satisfaction,0.0625,16,False
-purchase issues and refunds,0.6363636363636364,11,True
-relaxing experience,0.0,28,False
-relaxing gameplay experience,0.022727272727272728,44,False
-relaxing time-passer,0.05555555555555555,36,False
-stress relief games,0.08108108108108109,37,False
-stress relief therapy,0.25,44,False
-superhero games,0.0,34,False
-time pass games,0.046875,128,False
-user experience feedback,0.045454545454545456,22,False
-very good game,0.0,20,False
+Candy Crush Enjoyment,0.08653846153846154,104,False
+Excessive Ads,0.4872448979591837,392,True
+Exciting Experiences,0.11705685618729098,299,False
+Negative Game Experience,0.030303030303030304,726,False
+Other,0.09877622377622378,1144,False
+Positive Feedback,0.04213036565977742,1258,False
+Positive Fun,0.017241379310344827,116,False
+Positive Game Feedback,0.012379642365887207,727,False
+Stress Relief,0.06837606837606838,234,False

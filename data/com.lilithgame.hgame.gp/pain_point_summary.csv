@@ -1,92 +1,11 @@
 merged_topic_label,negative_proportion,total_reviews,pain_point_flag
-"""addictive fun""",0.0,18,False
-"""addictive gameplay""",0.4,25,False
-"""app quality and features""",0.0,15,False
-"""average user satisfaction""",0.11764705882352941,17,False
-"""best game ever""",0.10526315789473684,19,False
-"""boring app experience""",0.6428571428571429,14,True
-"""cool"" reactions",0.0,38,False
-"""enjoyable fun experience""",0.0,24,False
-"""fun and entertaining""",0.0,27,False
-"""fun gameplay experience""",0.0,27,False
-"""gacha game criticisms""",0.34615384615384615,26,False
-"""mixed quality feedback""",0.7391304347826086,23,True
-"""p2w (pay-to-win) criticism""",0.34615384615384615,26,False
-"""rimuru character requests""",0.1951219512195122,41,False
-"""solid pay-to-win game""",0.0,11,False
-"""time wasting apps""",0.25,16,False
-Unknown,0.1570841889117043,974,False
-account and purchases issues,0.0,11,False
-account recovery issues,0.5555555555555556,207,True
-addictive gameplay experience,0.11764705882352941,68,False
-affirmative responses,0.15384615384615385,13,False
-afk arena game issues,0.2275132275132275,189,False
-anime character crossovers,0.047619047619047616,21,False
-app permissions and updates,0.12903225806451613,31,False
-appreciation for coolness,0.0,11,False
-appreciation of coolness,0.06666666666666667,15,False
-art and gameplay appreciation,0.025,40,False
-artistic style appreciation,0.0,14,False
-awesome game reviews,0.0,16,False
-best game reviews,0.043478260869565216,23,False
-casual gameplay experience,0.0,11,False
-character design and storyline,0.02857142857142857,70,False
-chat feature complaints,0.44,25,True
-classic vs companion mode,0.21428571428571427,14,False
-code redemption issues,0.4,15,False
-cool game reviews,0.0,29,False
-easy and fun gameplay,0.022727272727272728,44,False
-easy and fun learning,0.07142857142857142,28,False
-emoji reactions,0.01639344262295082,61,False
-enjoyable gameplay experience,0.0,28,False
-enjoyable leisure time,0.043478260869565216,23,False
-f2p friendly and loading times,0.06896551724137931,29,False
-fun experience,0.0,112,False
-fun for diamonds,0.0,12,False
-fun game experience,0.18181818181818182,11,False
-fun interactive game,0.0,29,False
-fun strategic game,0.0684931506849315,73,False
-game love,0.08823529411764706,34,False
-game quality opinions,0.13333333333333333,15,False
-game rewards and diamonds,0.12903225806451613,31,False
-gameplay experience evaluation,0.15384615384615385,13,False
-gameplay grind experience,0.125,16,False
-general positive feedback,0.0,18,False
-great game experience,0.014084507042253521,71,False
-great graphics and gaming experience,0.0,14,False
-hero acquisition difficulty,0.11764705882352941,102,False
-high quality praise,0.043478260869565216,23,False
-highly recommended fun,0.0,29,False
-idle rpg games,0.13043478260869565,23,False
-indifferent or uncertain responses,0.47368421052631576,19,True
-initial enjoyment of app,0.0,36,False
-initial impressions,0.0,16,False
-initial positive impressions,0.0,28,False
-initial user experience,0.08333333333333333,12,False
-leisure gaming experience,0.041666666666666664,24,False
-lilith games server issues,0.48,25,True
-long-term enjoyment of game,0.0,12,False
-long-term gameplay experience,0.1,10,False
-lots of fun activities,0.0,12,False
-love for the game,0.043478260869565216,23,False
-misleading game ads,0.23076923076923078,26,False
-mobile game satisfaction,0.125,32,False
-negative game reviews,0.8,15,True
-neutral/apologetic feedback,0.05263157894736842,19,False
-non-english reviews,0.05128205128205128,39,False
-pay-to-win complaints,0.25,40,False
-positive affection,0.0,51,False
-positive app feedback,0.0,89,False
-positive feedback,0.0,379,False
-positive feedback/love for app,0.0,12,False
-positive game reviews,0.031476997578692496,413,False
-positive reactions,0.05263157894736842,57,False
-positive reviews,0.0273972602739726,73,False
-promised 1000 summons complaints,0.2857142857142857,21,False
-requesting more gems/diamonds,0.022222222222222223,45,False
-rpg game praise,0.13333333333333333,15,False
-star rating changes,0.25,40,False
-time-killing games,0.07352941176470588,68,False
-update and loading issues,0.4859154929577465,284,True
-very good game reviews,0.0,31,False
-waifu and lover discussion,0.0,31,False
+Addiction and Engagement,0.07216494845360824,291,False
+Chat System Issues,0.3626373626373626,182,False
+Customer Praise,0.00819672131147541,244,False
+Easy to Play,0.07407407407407407,243,False
+Mixed Feedback,0.08607594936708861,395,False
+Pay-to-Win Costs,0.23543233082706766,2128,False
+Positive Feedback,0.013215859030837005,227,False
+Positive Game Experience,0.02834008097165992,741,False
+Positive Sentiment,0.05517241379310345,145,False
+Проблемы с аккаунтом,0.07673267326732673,404,False

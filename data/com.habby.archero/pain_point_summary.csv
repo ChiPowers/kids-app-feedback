@@ -1,85 +1,11 @@
 merged_topic_label,negative_proportion,total_reviews,pain_point_flag
-"""addictive gameplay""",0.047619047619047616,42,False
-"""addictive nature of app""",0.45,20,True
-"""archero game difficulty""",0.25,92,False
-"""boring game experience""",0.7,20,True
-"""cool relaxing games""",0.0,18,False
-"""cool"" reactions",0.0,26,False
-"""fun and easy gameplay""",0.06666666666666667,30,False
-"""fun experience""",0.0449438202247191,89,False
-"""general positive feedback""",0.0,50,False
-"""positive feedback""",0.058823529411764705,34,False
-Unknown,0.28389513108614234,1335,False
-account access issues,0.5533980582524272,103,True
-account suspension/ban issues,0.7931034482758621,29,True
-addictive fun games,0.16666666666666666,12,False
-affirmative responses,0.08,25,False
-app crashing issues,0.6463414634146342,82,True
-app performance and progress loss,0.10526315789473684,19,False
-app performance issues,0.0,10,False
-app quality opinions,0.21428571428571427,14,False
-best game ever,0.016666666666666666,60,False
-best game reviews,0.030303030303030304,33,False
-best mobile games,0.09090909090909091,55,False
-black screen/loading issues,0.5185185185185185,54,True
-bug and update issues,0.42857142857142855,49,True
-code redemption issues,0.47058823529411764,17,True
-cross-platform account transfer,0.23529411764705882,17,False
-difficulty progressing levels,0.2962962962962963,27,False
-download and installation issues,0.631578947368421,19,True
-energy system complaints,0.35294117647058826,17,False
-enjoyable and entertaining,0.0625,32,False
-enjoyable gaming experience,0.0,51,False
-equipment and item drops,0.5714285714285714,14,True
-equipment fusion issues,0.4666666666666667,15,True
-event access issues,0.65,20,True
-excessive and unrewarding ads,0.3188976377952756,254,False
-exciting fun activities,0.0,16,False
-expressing love,0.1388888888888889,36,False
-expressive sounds/reactions,0.36363636363636365,11,False
-facebook login issues,0.6304347826086957,46,True
-fraudulent transactions/scams,0.6865671641791045,67,True
-fun and easy gameplay,0.0,31,False
-fun and enjoyable experience,0.0,31,False
-fun game reviews,0.06756756756756757,74,False
-game difficulty and advertising tactics,0.2727272727272727,22,False
-game difficulty and boss battles,0.5,32,True
-game quality evaluation,0.16666666666666666,36,False
-gameplay and level mechanics,0.125,16,False
-gameplay experience,0.12195121951219512,41,False
-gameplay grind complaints,0.4,10,False
-gems and chest issues,0.4857142857142857,70,True
-great game reviews,0.0,18,False
-incoherent reviews,0.4166666666666667,24,True
-long-term gameplay enjoyment,0.015625,64,False
-lost/missing inventory issues,0.45714285714285713,35,True
-minimal advertisements,0.1111111111111111,27,False
-multilingual game reviews,0.041666666666666664,24,False
-negative feedback/reviews,0.75,24,True
-network connection issues,0.5737704918032787,61,True
-nice game reviews,0.0,64,False
-offline play issues,0.22580645161290322,62,False
-overcomplicated game updates,0.5,16,True
-overwhelming updates & gameplay issues,0.5,12,True
-pay to win criticism,0.3076923076923077,65,False
-pay-to-win criticisms,0.5789473684210527,38,True
-performance issues/lagging,0.5,38,True
-positive app feedback,0.046153846153846156,65,False
-positive comparisons,0.0,21,False
-positive feedback,0.01486988847583643,269,False
-positive feedback/compliments,0.0,13,False
-positive feedback/reactions,0.041666666666666664,48,False
-positive game impressions,0.0625,16,False
-positive game reviews,0.010452961672473868,287,False
-praise for game,0.05555555555555555,18,False
-praise for game quality,0.038461538461538464,26,False
-progress reset/restart issues,0.5238095238095238,21,True
-roguelike games reviews,0.0,15,False
-sky tower level progression complaints,0.4,10,False
-star rating feedback,0.23809523809523808,63,False
-storage and download issues,0.3373493975903614,83,False
-super peak game elements,0.16666666666666666,12,False
-time-killing games,0.10606060606060606,66,False
-unfair duel mode issues,0.6153846153846154,13,True
-update issues & fixes,0.4864864864864865,37,True
-very fun game,0.0,22,False
+Addictive Fun,0.08296943231441048,229,False
+Addictive Gameplay,0.04319654427645788,463,False
+Casual Acknowledgments,0.05817174515235457,361,False
+Offline Play Issues,0.48013245033112584,302,True
+Other,0.33702094033978663,2531,False
+Pay-to-Win Concerns,0.3805309734513274,113,False
+Positive Feedback,0.033962264150943396,265,False
+Positive Game Experience,0.031185031185031187,481,False
+Redemption & False Advertising,0.48120300751879697,133,True
+Игры и развлечения,0.29508196721311475,122,False

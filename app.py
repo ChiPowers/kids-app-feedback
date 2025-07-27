@@ -92,7 +92,8 @@ with tabs[1]:
     st.dataframe(pain_points, use_container_width=True)
 
     st.subheader("Emotion Breakdown by Pain Point Topic")
-    pain_reviews = pain_reviews.dropna(subset=["emotion", "merged_topic_label"])
+    pain_reviews = reviews_df.dropna(subset=["emotion", "merged_topic_label"])
+
     grouped = pain_reviews.groupby(["merged_topic_label", "emotion"]).size().reset_index(name="count")
 
     stacked_bar = alt.Chart(grouped).mark_bar().encode(

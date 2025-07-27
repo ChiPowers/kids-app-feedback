@@ -1,85 +1,11 @@
 merged_topic_label,anger,disgust,fear,joy,neutral,sadness,surprise
-"""addictive gameplay""",0.0,0.0002,0.0,0.007,0.001,0.0002,0.0
-"""addictive nature of app""",0.0008,0.0004,0.0002,0.001,0.001,0.0004,0.0002
-"""archero game difficulty""",0.0008,0.0008,0.0,0.006,0.006,0.003,0.0018
-"""boring game experience""",0.0,0.0016,0.0,0.0,0.0012,0.0012,0.0
-"""cool relaxing games""",0.0,0.0,0.0,0.0032,0.0004,0.0,0.0
-"""cool"" reactions",0.0,0.0,0.0,0.001,0.004,0.0,0.0002
-"""fun and easy gameplay""",0.0,0.0,0.0,0.005,0.0006,0.0004,0.0
-"""fun experience""",0.0004,0.0,0.0,0.016,0.0008,0.0004,0.0002
-"""general positive feedback""",0.0,0.0,0.0,0.001,0.009,0.0,0.0
-"""positive feedback""",0.0,0.0002,0.0,0.0052,0.001,0.0002,0.0002
-Unknown,0.0136,0.0204,0.0036,0.0996,0.075,0.0382,0.0166
-account access issues,0.0006,0.0,0.0008,0.0014,0.005,0.01,0.0028
-account suspension/ban issues,0.0026,0.0004,0.0006,0.0002,0.0004,0.001,0.0006
-addictive fun games,0.0,0.0004,0.0,0.0016,0.0,0.0,0.0004
-affirmative responses,0.0,0.0002,0.0002,0.0002,0.0044,0.0,0.0
-app crashing issues,0.0012,0.0002,0.0004,0.0006,0.0036,0.0088,0.0016
-app performance and progress loss,0.0,0.0002,0.0002,0.0,0.0034,0.0,0.0
-app performance issues,0.0,0.0,0.0,0.0,0.002,0.0,0.0
-app quality opinions,0.0,0.0002,0.0,0.0012,0.001,0.0004,0.0
-best game ever,0.0,0.0002,0.0,0.005,0.0058,0.0,0.001
-best game reviews,0.0,0.0002,0.0,0.0022,0.004,0.0,0.0002
-best mobile games,0.0,0.0,0.0,0.006,0.0032,0.001,0.0008
-black screen/loading issues,0.0002,0.0002,0.0,0.0004,0.0036,0.0052,0.0012
-bug and update issues,0.0002,0.001,0.0,0.0018,0.0034,0.003,0.0004
-code redemption issues,0.0004,0.0002,0.0,0.0,0.0012,0.001,0.0006
-cross-platform account transfer,0.0,0.0002,0.0,0.001,0.0012,0.0006,0.0004
-difficulty progressing levels,0.0002,0.0004,0.0,0.0014,0.0024,0.001,0.0
-download and installation issues,0.0004,0.0002,0.0,0.0004,0.0008,0.0018,0.0002
-energy system complaints,0.0004,0.0002,0.0,0.0,0.0014,0.0006,0.0008
-enjoyable and entertaining,0.0,0.0004,0.0,0.0042,0.0018,0.0,0.0
-enjoyable gaming experience,0.0,0.0,0.0,0.0096,0.0004,0.0,0.0002
-equipment and item drops,0.0006,0.0006,0.0,0.0002,0.0008,0.0004,0.0002
-equipment fusion issues,0.0004,0.0002,0.0,0.0002,0.0012,0.0008,0.0002
-event access issues,0.0006,0.0,0.0,0.0002,0.0008,0.002,0.0004
-excessive and unrewarding ads,0.0034,0.0052,0.0002,0.0176,0.0136,0.0074,0.0034
-exciting fun activities,0.0,0.0,0.0,0.0022,0.001,0.0,0.0
-expressing love,0.0008,0.0002,0.0,0.0058,0.0004,0.0,0.0
-expressive sounds/reactions,0.0002,0.0004,0.0,0.0002,0.0008,0.0002,0.0004
-facebook login issues,0.0,0.0002,0.0,0.001,0.0022,0.0056,0.0002
-fraudulent transactions/scams,0.0034,0.0028,0.0006,0.0,0.0034,0.0024,0.0008
-fun and easy gameplay,0.0,0.0,0.0,0.0062,0.0,0.0,0.0
-fun and enjoyable experience,0.0,0.0,0.0,0.0062,0.0,0.0,0.0
-fun game reviews,0.0002,0.0004,0.0004,0.0086,0.0052,0.0,0.0
-game difficulty and advertising tactics,0.0002,0.0002,0.0,0.0026,0.0006,0.0008,0.0
-game difficulty and boss battles,0.0014,0.0006,0.0004,0.0008,0.002,0.0008,0.0004
-game quality evaluation,0.0002,0.0006,0.0,0.0054,0.0006,0.0004,0.0
-gameplay and level mechanics,0.0002,0.0,0.0002,0.0026,0.0002,0.0,0.0
-gameplay experience,0.0002,0.0004,0.0,0.0066,0.0006,0.0004,0.0
-gameplay grind complaints,0.0,0.0,0.0,0.0004,0.0008,0.0008,0.0
-gems and chest issues,0.0026,0.001,0.0,0.001,0.0052,0.0032,0.001
-great game reviews,0.0,0.0,0.0,0.0034,0.0,0.0,0.0002
-incoherent reviews,0.0,0.0016,0.0,0.0004,0.0022,0.0004,0.0002
-long-term gameplay enjoyment,0.0,0.0,0.0,0.0098,0.0012,0.0002,0.0016
-lost/missing inventory issues,0.0006,0.0002,0.0,0.0,0.0022,0.0024,0.0016
-minimal advertisements,0.0,0.0,0.0,0.0024,0.002,0.0006,0.0004
-multilingual game reviews,0.0,0.0002,0.0,0.0002,0.0044,0.0,0.0
-negative feedback/reviews,0.0,0.0024,0.0004,0.0004,0.0006,0.0008,0.0002
-network connection issues,0.0006,0.0004,0.0,0.0002,0.0046,0.006,0.0004
-nice game reviews,0.0,0.0,0.0,0.0118,0.001,0.0,0.0
-offline play issues,0.0002,0.0002,0.0,0.002,0.0056,0.0024,0.002
-overcomplicated game updates,0.0,0.0006,0.0,0.0004,0.0008,0.001,0.0004
-overwhelming updates & gameplay issues,0.0,0.0004,0.0,0.0,0.001,0.0008,0.0002
-pay to win criticism,0.0008,0.002,0.0,0.0026,0.006,0.0012,0.0004
-pay-to-win criticisms,0.0006,0.001,0.0006,0.0016,0.0016,0.0022,0.0
-performance issues/lagging,0.0,0.0004,0.0,0.0006,0.0028,0.0034,0.0004
-positive app feedback,0.0,0.0004,0.0002,0.0062,0.0054,0.0,0.0008
-positive comparisons,0.0,0.0,0.0,0.0002,0.004,0.0,0.0
-positive feedback,0.0002,0.0006,0.0,0.0086,0.0444,0.0,0.0
-positive feedback/compliments,0.0,0.0,0.0,0.0,0.0026,0.0,0.0
-positive feedback/reactions,0.0,0.0004,0.0,0.0028,0.001,0.0,0.0054
-positive game impressions,0.0002,0.0,0.0,0.0024,0.0006,0.0,0.0
-positive game reviews,0.0,0.0,0.0,0.0526,0.003,0.0006,0.0012
-praise for game,0.0,0.0002,0.0,0.0028,0.0006,0.0,0.0
-praise for game quality,0.0,0.0002,0.0,0.002,0.0006,0.0,0.0024
-progress reset/restart issues,0.0,0.0,0.0,0.0002,0.0016,0.0022,0.0002
-roguelike games reviews,0.0,0.0,0.0,0.0014,0.0014,0.0,0.0002
-sky tower level progression complaints,0.0004,0.0002,0.0,0.0004,0.0006,0.0002,0.0002
-star rating feedback,0.0008,0.0008,0.0002,0.0032,0.0054,0.0012,0.001
-storage and download issues,0.0014,0.0012,0.0,0.001,0.0046,0.003,0.0054
-super peak game elements,0.0,0.0002,0.0,0.0,0.002,0.0002,0.0
-time-killing games,0.0004,0.0006,0.0002,0.0094,0.0024,0.0002,0.0
-unfair duel mode issues,0.0008,0.0002,0.0,0.0,0.0008,0.0006,0.0002
-update issues & fixes,0.0,0.0002,0.0,0.0002,0.0032,0.0034,0.0004
-very fun game,0.0,0.0,0.0,0.0042,0.0002,0.0,0.0
+Addictive Fun,0.0014,0.0014,0.0002,0.0372,0.004,0.0008,0.0008
+Addictive Gameplay,0.0002,0.0014,0.0006,0.0654,0.0198,0.0018,0.0034
+Casual Acknowledgments,0.001,0.0026,0.0002,0.0108,0.0558,0.0004,0.0014
+Offline Play Issues,0.0012,0.0012,0.0002,0.0048,0.0218,0.0264,0.0048
+Other,0.0326,0.038,0.0064,0.1516,0.1432,0.0936,0.0408
+Pay-to-Win Concerns,0.0018,0.0022,0.0004,0.0032,0.0098,0.0042,0.001
+Positive Feedback,0.0002,0.0012,0.0002,0.0254,0.0206,0.0002,0.0052
+Positive Game Experience,0.0008,0.0012,0.0002,0.0814,0.0084,0.0008,0.0034
+Redemption & False Advertising,0.0038,0.0024,0.0002,0.0026,0.0094,0.0064,0.0018
+Игры и развлечения,0.0002,0.0042,0.0008,0.001,0.016,0.002,0.0002

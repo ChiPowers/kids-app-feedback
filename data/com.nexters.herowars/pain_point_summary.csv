@@ -1,80 +1,10 @@
 merged_topic_label,negative_proportion,total_reviews,pain_point_flag
-Unknown,0.3673139158576052,1236,False
-account access & payments,0.3125,16,False
-ad experience concerns,0.36538461538461536,52,False
-addictiveness,0.16666666666666666,18,False
-app compatibility and differences,0.06666666666666667,30,False
-app connectivity issues,0.5172413793103449,29,True
-app crashes and stability,0.65,40,True
-arena changes,0.6774193548387096,31,True
-basic acknowledgments,0.0,65,False
-best for kids,0.03571428571428571,28,False
-casual adventure game,0.0,21,False
-casual and fun gameplay,0.027777777777777776,36,False
-casual compliments,0.017857142857142856,56,False
-casual entertainment,0.03076923076923077,65,False
-"casual, mindless fun",0.05660377358490566,53,False
-character design and art,0.15384615384615385,13,False
-customer appreciation,0.06896551724137931,29,False
-data privacy concerns,0.4,200,False
-dislike of ads,0.85,20,True
-emeralds loss issues,0.5416666666666666,24,True
-enjoyable gameplay,0.0,28,False
-enjoyment and upgrading,0.043478260869565216,23,False
-excellent gaming experience,0.0,23,False
-excessive ads and uninstallations,0.3404255319148936,47,False
-fake ads and deception,0.5945945945945946,37,True
-false advertising,0.6363636363636364,22,True
-free-to-play features,0.09090909090909091,11,False
-fun and addictive,0.0,14,False
-fun and entertainment,0.03125,64,False
-fun/op game,0.0,12,False
-game addiction,0.37254901960784315,51,False
-game and ads feedback,0.06382978723404255,47,False
-game bugs,0.5,10,True
-game bugs and performance,0.23809523809523808,21,False
-game experience and ads,0.13043478260869565,23,False
-game freezing issues,0.5714285714285714,35,True
-game mechanics and strategy,0.0,23,False
-game quality,0.0,15,False
-gameplay challenges,0.62,50,True
-gem rewards & support issues,0.5555555555555556,18,True
-great graphics,0.0,20,False
-guild activity and server mergers,0.21428571428571427,14,False
-hero characters,0.15942028985507245,69,False
-in-app purchases,0.06666666666666667,30,False
-in-game purchases,0.265625,64,False
-loading delays,0.574468085106383,47,True
-login and account issues,0.8333333333333334,24,True
-misleading ads and monetization,0.3141025641025641,156,False
-misleading advertisements,0.4722222222222222,36,True
-misleading advertising,0.44755244755244755,143,True
-mixed opinions,0.6666666666666666,42,True
-mixed reactions,0.07407407407407407,27,False
-negative game feedback,0.9411764705882353,17,True
-offline functionality concerns,0.45454545454545453,22,True
-opiniones sobre el juego,0.08333333333333333,12,False
-player appreciation,0.0,32,False
-player enjoyment,0.0,17,False
-player favorite,0.0,18,False
-poor quality and waste,0.5833333333333334,12,True
-poor storytelling and cutscenes,0.9444444444444444,18,True
-positive early impressions,0.05555555555555555,18,False
-positive feedback,0.007575757575757576,396,False
-positive game experience,0.008108108108108109,370,False
-positive game feedback,0.0,150,False
-positive gameplay experience,0.0,20,False
-positive gaming experience,0.13636363636363635,44,False
-positive impressions,0.015873015873015872,63,False
-positive praise,0.028846153846153848,104,False
-positive reactions,0.012345679012345678,81,False
-positive surprise,0.07142857142857142,14,False
-repetitive gameplay,0.5945945945945946,37,True
-scam and fraud,0.4666666666666667,15,True
-strategic planning,0.0,11,False
-timepass fun,0.06666666666666667,60,False
-top game praise,0.0,19,False
-top-rated games,0.02127659574468085,47,False
-tower progress & challenges,0.48484848484848486,33,True
-variety of activities,0.041666666666666664,24,False
-visual appeal and relaxation,0.0,37,False
+Ad Expectations vs. Reality,0.4401840490797546,652,True
+Addiction and Toxicity,0.38461538461538464,52,False
+App Compatibility Issues,0.3300970873786408,103,False
+App Crashes and Stability,0.496,250,True
+Data Sharing Concerns,0.39864864864864863,148,False
+Gameplay Difficulty and Fun,0.06613756613756613,378,False
+Other,0.3525271912987844,1563,False
+Positive Feedback,0.024134312696747113,953,False
+Visual Appeal and Relaxation,0.06437291897891231,901,False

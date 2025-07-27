@@ -1,3 +1,11 @@
 merged_topic_label,negative_proportion,total_reviews,pain_point_flag
-Unknown,0.4017751479289941,1690,True
-unknown,0.2664652567975831,3310,False
+Brawlers & Gameplay,0.23684210526315788,266,False
+Enjoyment and Fun,0.023076923076923078,260,False
+Game Progress and Updates,0.35,220,False
+Mastery Removal Feedback,0.32950191570881227,261,False
+Other,0.43310463121783876,2332,True
+Player Experience and Satisfaction,0.16393442622950818,244,False
+Player Satisfaction and Ratings,0.24960505529225907,633,False
+Poor Quality and Updates,0.609375,128,True
+Positive Game Feedback,0.015,200,False
+Positive Praise,0.08771929824561403,456,False

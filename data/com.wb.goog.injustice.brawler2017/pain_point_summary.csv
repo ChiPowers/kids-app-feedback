@@ -1,97 +1,11 @@
 merged_topic_label,negative_proportion,total_reviews,pain_point_flag
-Unknown,0.32040472175379425,1186,False
-account bans and suspensions,0.625,16,True
-account issues,0.6521739130434783,46,True
-account loss issues,0.4716981132075472,53,True
-app connectivity and bugs,0.2727272727272727,11,False
-app crashes and performance issues,0.8333333333333334,12,True
-app crashes and stability,0.918918918918919,37,True
-app freezing issues,0.6428571428571429,14,True
-app launch issues,0.5316455696202531,79,True
-app not opening,0.4,15,False
-app not working,0.9230769230769231,26,True
-arena battles,0.5833333333333334,12,True
-batman & dc characters,0.10810810810810811,37,False
-best game ever,0.0,37,False
-character collection,0.13636363636363635,66,False
-comparison to injustice,0.29411764705882354,17,False
-console experience,0.0,18,False
-control issues,0.20833333333333334,24,False
-controller support,0.4090909090909091,22,True
-data loss and recovery,0.6923076923076923,13,True
-dc comics characters,0.0,11,False
-dc fans,0.1044776119402985,67,False
-device compatibility issues,0.7368421052631579,19,True
-download errors,0.5303030303030303,66,True
-download issues,0.6,55,True
-engaging visuals,0.0,14,False
-enjoyable game,0.0,69,False
-enjoyment and fun,0.05714285714285714,35,False
-entertainment and fun,0.0,16,False
-favorite game,0.02040816326530612,49,False
-fighting and combat games,0.10869565217391304,46,False
-fighting game comparison,0.0,16,False
-fun and action games,0.10416666666666667,48,False
-fun and addictive,0.1111111111111111,36,False
-fun and cool game,0.0,17,False
-fun and entertainment,0.08333333333333333,12,False
-fun and repetitive gameplay,0.029850746268656716,67,False
-game bugs and glitches,0.4444444444444444,45,True
-game crashes,0.6875,16,True
-game excitement,0.03636363636363636,55,False
-game experience,0.2608695652173913,23,False
-game quality concerns,0.7333333333333333,60,True
-gameplay access issues,0.7948717948717948,39,True
-gaming consoles experience,0.045454545454545456,22,False
-gems and hero unlocking,0.376,125,False
-graphics and characters,0.23076923076923078,13,False
-graphics and gameplay,0.087248322147651,149,False
-in-app purchases,0.3333333333333333,66,False
-injustice game feedback,0.27586206896551724,87,False
-loading and crash issues,0.4666666666666667,30,True
-loading issues,0.5384615384615384,39,True
-loading speed issues,0.4166666666666667,12,True
-loading/startup issues,0.6451612903225806,31,True
-login and reward issues,0.25,16,False
-login issues,0.5535714285714286,56,True
-low ads experience,0.42857142857142855,14,True
-mixed feelings,0.0,17,False
-mixed positive reactions,0.031746031746031744,63,False
-mixed reviews,0.5405405405405406,37,True
-mobile fighting experience,0.26666666666666666,15,False
-multiplayer gameplay,0.16,25,False
-network connectivity issues,0.5802469135802469,81,True
-ninja turtles requests,0.0,13,False
-nostalgic game memories,0.0,38,False
-offline mode concerns,0.20512820512820512,39,False
-opiniones sobre el juego,0.10526315789473684,19,False
-overall impressions,0.0,14,False
-payment & rewards scam,0.6458333333333334,48,True
-player appreciation,0.0,61,False
-player enjoyment,0.0,16,False
-poor game quality,0.5882352941176471,17,True
-positive city experiences,0.0,25,False
-positive excitement,0.08333333333333333,24,False
-positive expressions,0.08333333333333333,36,False
-positive feedback,0.022026431718061675,227,False
-positive game experience,0.0273972602739726,73,False
-positive game experiences,0.0,46,False
-positive game feedback,0.00641025641025641,156,False
-positive gaming experience,0.0,23,False
-positive impressions,0.0,12,False
-positive praise,0.0,82,False
-positive product experience,0.017241379310344827,58,False
-positive sentiment,0.0,36,False
-raid challenges,0.5625,32,True
-server issues,0.3333333333333333,15,False
-server lag issues,0.5,48,True
-story mode content,0.2625,80,False
-superhero game,0.0,16,False
-superhero game appreciation,0.0,13,False
-top mobile game,0.0625,48,False
-top ratings,0.13157894736842105,38,False
-top-rated games,0.0,30,False
-update feedback,0.3333333333333333,24,False
-user ratings and feedback,0.2558139534883721,43,False
-user satisfaction,0.25,12,False
-بازی‌های برتر,0.05555555555555555,18,False
+App Opening Issues,0.5113636363636364,88,True
+Controller Support,0.5384615384615384,494,True
+Customer Affection,0.019801980198019802,505,False
+Fun and Entertainment,0.06103286384976526,213,False
+Gacha Pulls and Drop Rates,0.3719279082468596,1831,False
+Game quality concerns,0.6293103448275862,116,True
+Injustice Game Feedback,0.4251497005988024,167,True
+Mixed Feelings,0.07103825136612021,183,False
+Mobile Fighting Game,0.1412037037037037,864,False
+Positive Game Experience,0.0037105751391465678,539,False

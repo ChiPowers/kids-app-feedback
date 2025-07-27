@@ -1,107 +1,11 @@
 merged_topic_label,negative_proportion,total_reviews,pain_point_flag
-Unknown,0.18044237485448195,859,False
-account bans and suspensions,0.6956521739130435,23,True
-app launch issues,0.5652173913043478,46,True
-app opening & launch issues,0.5238095238095238,21,True
-beautiful visuals,0.08333333333333333,12,False
-best game appreciation,0.0,23,False
-best game experience,0.0,42,False
-best game praise,0.029411764705882353,34,False
-cartoon game humor,0.20588235294117646,34,False
-connectivity problems,0.22580645161290322,31,False
-customer affection,0.0,17,False
-desire for old free fire,0.0,12,False
-desire for old peak,0.0,42,False
-desire for old version,0.0,11,False
-download issues,0.0,16,False
-expressive excitement,0.0,12,False
-favorite game,0.0,22,False
-favorite moments,0.06896551724137931,29,False
-feature request: old peek,0.0,38,False
-final fantasy fans,0.15384615384615385,13,False
-free fire & fans,0.08823529411764706,34,False
-free fire dominance,0.18181818181818182,11,False
-free fire game,0.13157894736842105,38,False
-free fire gameplay,0.07142857142857142,14,False
-free fire in india,0.10714285714285714,28,False
-free fire india demand,0.0,13,False
-free fire india return,0.0,19,False
-free fire max issues,0.13043478260869565,92,False
-free fire memories,0.12,25,False
-free fire praise,0.13333333333333333,120,False
-game content & skins,0.3181818181818182,22,False
-game enthusiasm,0.08,25,False
-game power,0.018518518518518517,54,False
-graphics and visuals,0.0,12,False
-graphics comparison,0.29411764705882354,17,False
-graphics quality,0.5,12,True
-hacker issues,0.35,20,False
-in-game bundles and packs,0.14285714285714285,28,False
-in-game currency & membership,0.17647058823529413,51,False
-india esports and gaming,0.125,16,False
-lag issues,0.5454545454545454,22,True
-language support issues,0.0,36,False
-legendary gameplay,0.0,13,False
-login problems,0.9,10,True
-love and affection,0.0,12,False
-love for free fire,0.034482758620689655,29,False
-mixed game experiences,0.03333333333333333,30,False
-mixed positive comments,0.14754098360655737,61,False
-mixed praise and criticism,0.10256410256410256,39,False
-mixed reactions,0.02531645569620253,158,False
-mobile gaming and emulators,0.0,15,False
-negative experiences,0.7941176470588235,34,True
-negative game experience,0.7142857142857143,56,True
-network connectivity issues,0.673469387755102,49,True
-network issues,0.4375,16,True
-network latency issues,0.3125,16,False
-nostalgia for free fire,0.25,20,False
-nostalgia for old peak,0.0,27,False
-nostalgia for old version,0.20930232558139536,43,False
-nostalgic memories,0.058823529411764705,17,False
-old free fire content,0.0975609756097561,41,False
-old free fire requests,0.039473684210526314,76,False
-old map updates,0.045454545454545456,22,False
-old peak demand,0.0,11,False
-old peak request,0.0,510,False
-old peak requests,0.07894736842105263,76,False
-old peak return,0.08333333333333333,12,False
-old peke requests,0.05,20,False
-old photos,0.02564102564102564,78,False
-old pick requests,0.0,56,False
-old pik requests,0.0,23,False
-pay-to-win games,0.30434782608695654,23,False
-peak character requests,0.0,21,False
-peak return,0.13636363636363635,22,False
-personal affection,0.17307692307692307,52,False
-player affinity,0.08333333333333333,12,False
-player appreciation,0.0,26,False
-player feedback and requests,0.16,50,False
-poor game quality,0.45454545454545453,22,True
-poor quality and waste,0.6666666666666666,12,True
-poor-quality games,0.03333333333333333,30,False
-popular game praise,0.1,10,False
-popular gaming content,0.0,20,False
-positive and enthusiastic praise,0.0625,16,False
-positive app reviews,0.15384615384615385,39,False
-positive experience,0.02857142857142857,70,False
-positive feedback,0.01092896174863388,183,False
-positive game experience,0.0,92,False
-positive game feedback,0.008333333333333333,120,False
-positive game quality,0.0,23,False
-positive gaming experience,0.0,32,False
-positive praise,0.010869565217391304,92,False
-positive reactions,0.0,51,False
-preference for old ff,0.16666666666666666,18,False
-relaxing mindfulness,0.0,26,False
-request for old peck,0.125,16,False
-request for old picture,0.0,58,False
-request for return or reposting,0.0,24,False
-return of old free fire,0.5333333333333333,15,True
-return to old version,0.03225806451612903,31,False
-royalty and praise,0.0,17,False
-top games,0.0,75,False
-uninteresting and challenging games,0.0,15,False
-unwanted or low-quality games,0.0,12,False
-user dissatisfaction,0.10256410256410256,39,False
-worst game experience,1.0,20,True
+Bast Game,0.20993788819875778,805,False
+Desire for Old Peak,0.011157601115760111,717,False
+Network Connectivity Problems,0.4473684210526316,114,True
+Old Photo Requests,0.015625,448,False
+Other,0.15293296089385475,1432,False
+Poor Quality Game,0.10194174757281553,206,False
+Positive App Feedback,0.16101694915254236,236,False
+Positive Feedback,0.04846938775510204,392,False
+Positive Game Experience,0.1,190,False
+Positive Reactions,0.07391304347826087,460,False
