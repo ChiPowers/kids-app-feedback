@@ -1,0 +1,108 @@
+merged_topic_label,negative_proportion,total_reviews,pain_point_flag
+"""affirmative responses""",0.027777777777777776,36,False
+"""ancient world game reviews""",0.1,10,False
+"""awesome app feedback""",0.0,33,False
+"""best game ever""",0.010526315789473684,95,False
+"""best game in the world""",0.0,29,False
+"""best game in world""",0.05,40,False
+"""best game reviews""",0.012345679012345678,81,False
+"""best mobile game experience""",0.02666666666666667,75,False
+"""best""",0.022222222222222223,45,False
+"""comparing free fire and pubg""",0.23809523809523808,21,False
+"""enjoyable fun experience""",0.05555555555555555,18,False
+"""excellent work feedback""",0.0,21,False
+"""expressions of love""",0.19444444444444445,36,False
+"""favorite game praise""",0.09523809523809523,21,False
+"""free fire game reviews""",0.1891891891891892,37,False
+"""high praise for game""",0.027777777777777776,108,False
+"""perfect app satisfaction""",0.0,17,False
+"""positive app feedback""",0.0,16,False
+"""positive game reviews""",0.0,103,False
+"""praise for game""",0.0,16,False
+"""pubg app appreciation""",0.07692307692307693,39,False
+"""pubg game love""",0.11409395973154363,149,False
+"""pubg game reviews""",0.16981132075471697,53,False
+"""pubg mobile game reviews""",0.08333333333333333,12,False
+"""pubg mobile game""",0.0,11,False
+"""value of pubg game""",0.15384615384615385,13,False
+"""very good reviews""",0.09090909090909091,44,False
+"""very nice game""",0.0,24,False
+Unknown,0.1461864406779661,944,False
+account security issues,0.75,24,True
+adventure combat game,0.15789473684210525,19,False
+african server issues,0.38461538461538464,13,False
+app quality opinions,0.045454545454545456,22,False
+appreciation for application,0.0,18,False
+appreciation for team effort,0.0,18,False
+arabic game praises,0.23684210526315788,38,False
+arabic praise/positive feedback,0.0,14,False
+bad update glitches,0.8,10,True
+battle ground games,0.0,18,False
+battle royale game quality,0.037037037037037035,27,False
+best game ever played,0.0,11,False
+best game reviews,0.0,13,False
+best of the best,0.041666666666666664,24,False
+cheating and hacking issues,0.4782608695652174,23,True
+emojis and non-english words,0.02666666666666667,150,False
+emotional connection to games,0.0,16,False
+emotional game experience,0.09090909090909091,11,False
+enjoyable and addictive gameplay,0.0,28,False
+enjoyable gaming experience,0.0,11,False
+exciting gameplay experience,0.047619047619047616,21,False
+expressions of amazement,0.0,23,False
+favorite game appreciation,0.03773584905660377,53,False
+favorite games,0.0,23,False
+fps performance issues,0.22580645161290322,62,False
+frequent game updates,0.07692307692307693,13,False
+game appreciation,0.0,12,False
+game enjoyment,0.0,30,False
+game performance issues,0.6206896551724138,29,True
+game preferences,0.07142857142857142,42,False
+game quality and experience,0.0,13,False
+game reviews,0.058823529411764705,17,False
+game update issues,0.08163265306122448,98,False
+good gaming experience,0.03333333333333333,30,False
+graphics quality and improvement,0.0,29,False
+great strategy game,0.023809523809523808,42,False
+high ms and crashing issues,0.3333333333333333,12,False
+impressive visual effects,0.0,14,False
+in-game rewards and currency,0.3023255813953488,43,False
+incoherent reviews,0.06666666666666667,15,False
+lobby and bot complaints,0.6,20,True
+long-term gameplay experience,0.04411764705882353,68,False
+love and enjoyment,0.44,25,True
+love for game,0.030303030303030304,33,False
+love for the game,0.0,15,False
+low-end device compatibility,0.4411764705882353,34,True
+mixed user experience,0.42857142857142855,14,True
+negative game reviews,1.0,15,True
+network connection issues,0.5,14,True
+new update features,0.08,25,False
+nice game reviews,0.0,97,False
+online multiplayer games,0.07142857142857142,14,False
+positive app feedback,0.03571428571428571,28,False
+positive app reactions,0.0,32,False
+positive emotional response,0.10344827586206896,29,False
+positive experience memories,0.0,22,False
+positive feedback,0.004098360655737705,244,False
+positive feedback/reactions,0.015384615384615385,65,False
+positive game feedback,0.0,19,False
+positive game reviews,0.054945054945054944,182,False
+positive praise,0.05084745762711865,59,False
+positive reviews in arabic,0.0,11,False
+positive satisfaction,0.0,31,False
+positive sentiment,0.0,27,False
+praise for game quality,0.07692307692307693,26,False
+pubg game discussion,0.02564102564102564,39,False
+pubg game reviews,0.125,48,False
+pubg mobile appreciation,0.07657657657657657,222,False
+realistic graphics/gameplay,0.0,22,False
+request for glacier m416,0.25,48,False
+request for m416 skin,0.21428571428571427,14,False
+request for smoother graphics,0.0,10,False
+shooting game feedback,0.0967741935483871,31,False
+stress relief activities,0.2777777777777778,18,False
+technical issues/errors,0.6071428571428571,56,True
+transformers update issues,0.45,20,True
+very good game,0.0,37,False
+world's top games,0.0,10,False

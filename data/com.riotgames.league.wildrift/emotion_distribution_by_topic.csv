@@ -1,0 +1,85 @@
+merged_topic_label,anger,disgust,fear,joy,neutral,sadness,surprise
+Unknown,0.0352,0.0262,0.0048,0.043,0.0902,0.083,0.0206
+ai and bot encounters,0.0012,0.0054,0.0004,0.0014,0.006,0.0034,0.002
+app crashes and freezes,0.0,0.0,0.0,0.0,0.0008,0.0014,0.0014
+app functionality issues,0.0,0.0002,0.0,0.0,0.0004,0.0018,0.0002
+app improvements,0.0,0.0002,0.0,0.0004,0.0028,0.0,0.0
+app launch issues,0.0,0.0002,0.0,0.0,0.0012,0.0026,0.0004
+arcane-themed game experience,0.0,0.0002,0.0,0.0014,0.0004,0.0,0.0006
+best mobile moba,0.001,0.0004,0.0002,0.0064,0.0034,0.0012,0.0014
+bug reports,0.0004,0.0002,0.0,0.0,0.0022,0.0014,0.0002
+champion requests,0.0016,0.0006,0.0,0.002,0.0096,0.0014,0.0016
+character design & balance,0.0,0.0,0.0,0.0014,0.0,0.0004,0.0002
+chat feature request,0.0,0.0,0.0002,0.0008,0.005,0.0002,0.0002
+cheating and hacks,0.0006,0.0004,0.0,0.0,0.0014,0.0002,0.0
+comparison to mobile legends,0.0002,0.0004,0.0,0.0014,0.0038,0.0002,0.0004
+connection and verification issues,0.0,0.0,0.0002,0.0,0.0016,0.0014,0.0
+connection issues,0.0,0.0,0.0002,0.0002,0.001,0.002,0.0002
+connectivity and loading issues,0.0002,0.0002,0.0,0.0,0.0006,0.001,0.0
+connectivity issues,0.0,0.0002,0.0,0.0,0.0008,0.001,0.0004
+customer satisfaction,0.0002,0.0002,0.0,0.003,0.002,0.0,0.0008
+device compatibility issues,0.0,0.0002,0.0002,0.0008,0.0004,0.0024,0.0
+download & resource issues,0.0002,0.0002,0.0,0.0,0.0008,0.0012,0.0004
+enjoyable gaming experience,0.0,0.0,0.0,0.0038,0.0,0.0002,0.0
+entertainment & enjoyment,0.0,0.0002,0.0002,0.0062,0.0,0.0,0.0
+file verification issues,0.001,0.0004,0.0,0.0004,0.0032,0.0036,0.0006
+game balance,0.0004,0.0024,0.0002,0.0002,0.002,0.0016,0.0
+game crashes and penalties,0.0006,0.0002,0.0,0.0,0.0002,0.0016,0.0004
+game flow and balance,0.0004,0.0,0.0,0.0008,0.0028,0.0002,0.0004
+game frustration,0.001,0.0002,0.0008,0.0004,0.0044,0.0002,0.0
+game performance and competition,0.0006,0.0006,0.0,0.0006,0.0008,0.001,0.001
+game performance and queue issues,0.0002,0.0002,0.0,0.0004,0.0008,0.0014,0.0006
+game performance issues,0.0012,0.0004,0.0008,0.0,0.0074,0.0,0.0
+game praise and feedback,0.0006,0.0006,0.0,0.0024,0.0006,0.001,0.0004
+game update issues,0.0006,0.0002,0.0,0.0002,0.0004,0.0006,0.0006
+game updates,0.0002,0.0,0.0,0.001,0.0008,0.0004,0.0002
+game updates and bugs,0.0002,0.0012,0.0,0.0012,0.0016,0.0024,0.0002
+gameplay frustration,0.0,0.0006,0.0,0.0008,0.0084,0.0,0.0
+league of legends mobile,0.0004,0.0006,0.0002,0.003,0.0034,0.001,0.0008
+loading/startup issues,0.0012,0.0014,0.0004,0.0002,0.0032,0.0066,0.0032
+login and account issues,0.0028,0.0,0.0004,0.0004,0.0036,0.0056,0.0014
+login issues,0.0006,0.0008,0.0002,0.0,0.0052,0.0058,0.001
+login/connection errors,0.0002,0.0,0.0,0.0,0.0018,0.002,0.0002
+login/connection issues,0.0004,0.0004,0.0,0.0,0.0016,0.0036,0.0002
+matchmaking & autofill issues,0.0024,0.0016,0.0002,0.0002,0.0024,0.0014,0.0004
+matchmaking & balance,0.0018,0.0032,0.0,0.0006,0.001,0.0012,0.0002
+matchmaking & loading issues,0.0004,0.0002,0.0,0.0002,0.0008,0.0006,0.0006
+matchmaking and afk issues,0.003,0.0016,0.0004,0.0,0.0026,0.0034,0.001
+matchmaking and player experience,0.0008,0.0014,0.0002,0.0006,0.0002,0.0006,0.0002
+matchmaking delays,0.0,0.0004,0.0,0.0,0.0038,0.0016,0.0012
+matchmaking issues,0.0078,0.0048,0.0014,0.0018,0.013,0.0036,0.0014
+mixed feedback,0.0,0.0002,0.0,0.0,0.006,0.0002,0.0002
+mixed positive feedback,0.0,0.0006,0.0,0.004,0.0012,0.0006,0.0002
+mobile game experience,0.0,0.0002,0.0,0.0028,0.002,0.0006,0.0004
+negative experience,0.0002,0.005,0.0014,0.0006,0.0022,0.005,0.0008
+network connectivity issues,0.0026,0.0,0.0008,0.0016,0.0072,0.0106,0.0014
+offline mode issues,0.0002,0.0002,0.0,0.0006,0.0024,0.0002,0.0006
+pc gaming experience,0.0,0.0,0.0,0.0014,0.0016,0.0006,0.0004
+performance & frame rate,0.0002,0.0,0.0002,0.0002,0.004,0.0038,0.0032
+performance & optimization,0.0,0.0012,0.0004,0.0004,0.0058,0.0022,0.0002
+performance and optimization,0.0,0.0002,0.0,0.0008,0.0022,0.0006,0.0006
+performance issues,0.0006,0.0004,0.0002,0.0004,0.0078,0.01,0.0012
+player appreciation,0.0,0.0,0.0,0.0046,0.0004,0.0002,0.0
+poor game quality,0.0,0.0024,0.0,0.0,0.003,0.0008,0.0
+poor matchmaking,0.001,0.0054,0.0012,0.0004,0.0028,0.0028,0.0002
+poor quality,0.0,0.0016,0.0,0.0,0.0018,0.0004,0.0008
+positive feedback,0.0002,0.0002,0.0,0.004,0.0092,0.0004,0.0006
+positive game experience,0.0,0.0,0.0,0.0086,0.0006,0.0,0.0008
+positive game feedback,0.0,0.0,0.0,0.0104,0.0004,0.0002,0.0
+positive sentiments,0.0,0.0,0.0,0.002,0.0002,0.0,0.0002
+region and account issues,0.0,0.0,0.0,0.0,0.0006,0.002,0.0002
+regional server availability,0.0014,0.0004,0.0004,0.0012,0.0028,0.0032,0.0004
+server stability,0.0008,0.0004,0.0002,0.0,0.0056,0.0048,0.001
+skin content and events,0.002,0.001,0.0002,0.0028,0.0076,0.0028,0.002
+storage issues,0.0008,0.0002,0.0,0.0004,0.0056,0.0022,0.0014
+top 5v5 moba,0.0,0.0,0.0,0.0006,0.0014,0.0,0.0004
+top gaming moments,0.0,0.0,0.0,0.0002,0.0038,0.0,0.0004
+top moba games,0.0,0.0008,0.0002,0.0006,0.0012,0.0002,0.001
+top-tier gameplay,0.0,0.0,0.0,0.0012,0.0024,0.0,0.0
+toxicity and reporting,0.0086,0.006,0.0004,0.0014,0.003,0.0038,0.0002
+ultimate game praise,0.0,0.0,0.0,0.0012,0.0016,0.0,0.0006
+update issues,0.0004,0.0004,0.0002,0.0002,0.0044,0.0088,0.0024
+user experience issues,0.002,0.0008,0.0004,0.0026,0.0252,0.003,0.0016
+wild rift gameplay and performance,0.0028,0.0034,0.0006,0.0056,0.0048,0.0034,0.0018
+игровой опыт и технические проблемы,0.0,0.0,0.0,0.0,0.0024,0.0,0.0
+اللعب والتجربة,0.0002,0.0,0.0,0.0,0.0028,0.0,0.0

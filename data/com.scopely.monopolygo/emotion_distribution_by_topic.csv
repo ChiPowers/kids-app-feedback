@@ -1,0 +1,86 @@
+merged_topic_label,anger,disgust,fear,joy,neutral,sadness,surprise
+"""boring game critiques""",0.0,0.0,0.0,0.0006,0.0006,0.0018,0.0
+"""easy and engaging gameplay""",0.0,0.0,0.0,0.0034,0.0,0.0,0.0002
+"""easy and fun city building""",0.0,0.0,0.0,0.0024,0.0004,0.0,0.0002
+"""enjoyable and fun""",0.0,0.0,0.0002,0.0054,0.0,0.0002,0.0002
+"""favorite app praise""",0.0,0.0002,0.0,0.0006,0.0016,0.0,0.0
+"""favorite game reviews""",0.0002,0.0004,0.0,0.001,0.003,0.0,0.0
+"""fun and features""",0.0,0.0,0.0,0.0042,0.0,0.0,0.0
+"""fun experience""",0.0,0.0,0.0,0.0294,0.0006,0.0002,0.0
+"""fun game experience""",0.0,0.0,0.0,0.0024,0.0,0.0,0.0
+Unknown,0.0246,0.0086,0.0026,0.1212,0.0488,0.0348,0.0156
+addictive fun games,0.0,0.0002,0.0,0.0074,0.0008,0.0,0.0002
+addictive gameplay,0.0,0.0002,0.0,0.0014,0.0006,0.0002,0.0002
+addictive gameplay love,0.0002,0.0002,0.0002,0.0134,0.002,0.0,0.0008
+addictive nature,0.002,0.001,0.0,0.0036,0.0022,0.0014,0.0002
+annoying ads and closure issues,0.0014,0.001,0.0,0.0024,0.0016,0.0006,0.0006
+annoying pop-ups,0.0002,0.0006,0.0,0.0018,0.0024,0.0002,0.0006
+app appreciation,0.0,0.0004,0.0,0.0104,0.001,0.001,0.0006
+app crashing issues,0.0008,0.0,0.0,0.0002,0.0002,0.0028,0.0006
+app error and restart issues,0.0002,0.0002,0.0,0.0008,0.0026,0.006,0.0012
+app loading issues,0.0004,0.0,0.0,0.0002,0.0004,0.001,0.0004
+app money grab complaints,0.001,0.0004,0.0,0.0004,0.0012,0.0004,0.0002
+best game ever,0.0,0.0,0.0,0.0024,0.0016,0.0,0.0004
+best game played,0.0,0.0,0.0,0.0016,0.0,0.0,0.0004
+board game experience,0.0002,0.0,0.0,0.0046,0.0016,0.0,0.0
+community chest complaints,0.0024,0.0028,0.0002,0.002,0.002,0.004,0.0004
+compatibility and update issues,0.0,0.0002,0.0,0.0002,0.0014,0.0034,0.003
+dice recharge issues,0.0012,0.001,0.0004,0.007,0.0078,0.0034,0.001
+early positive impressions,0.0,0.0,0.0,0.0024,0.0004,0.0,0.0002
+easy hotel game enjoyment,0.0,0.0,0.0,0.002,0.0002,0.0,0.0
+enjoyable and useful,0.0,0.0,0.0,0.0036,0.0002,0.0,0.0
+enjoyable family app,0.0,0.0,0.0,0.005,0.0004,0.0,0.0
+enjoyable fun experience,0.0,0.0,0.0,0.0056,0.0,0.0,0.0002
+enjoyable gameplay,0.0,0.0,0.0,0.0066,0.001,0.0004,0.0002
+enjoyable gaming experience,0.0,0.0,0.0,0.0066,0.0,0.0,0.0
+enjoying the app,0.0,0.0,0.0,0.0028,0.0,0.0,0.0
+entertainment value,0.0,0.0002,0.0,0.0038,0.001,0.0,0.0
+event participation issues,0.0008,0.0002,0.0,0.0004,0.0006,0.0014,0.0
+event prizes and spending,0.0012,0.0012,0.0002,0.0016,0.002,0.0008,0.0004
+exciting fun games,0.0002,0.0,0.0,0.0026,0.0,0.0,0.0
+exciting game experience,0.0,0.0002,0.0,0.0036,0.0002,0.0,0.0
+expressing love for app,0.0,0.0,0.0,0.0024,0.0002,0.0,0.0
+facebook login issues,0.0002,0.0,0.0,0.0002,0.001,0.0022,0.0004
+family fun games,0.0,0.0002,0.0,0.005,0.0,0.0,0.0
+frequent disruptive updates,0.0004,0.0,0.0,0.0004,0.0018,0.001,0.001
+fun and enjoyable,0.0,0.0,0.0,0.0046,0.0,0.0,0.0
+fun game reviews,0.0,0.0,0.0,0.0028,0.0002,0.0,0.0
+fun gameplay experience,0.0,0.0,0.0,0.0032,0.0,0.0002,0.0
+fun gaming experience,0.0002,0.0,0.0002,0.007,0.0004,0.0,0.0
+game appreciation,0.0,0.0,0.0,0.0154,0.0002,0.0002,0.0
+game enjoyment,0.0,0.0,0.0,0.0048,0.0,0.0,0.0
+game glitches/bugs,0.0,0.0,0.0002,0.0008,0.0012,0.0006,0.0
+game rigging complaints,0.0014,0.0006,0.0,0.0002,0.0012,0.0002,0.0004
+general affirmations,0.0,0.0,0.0,0.0004,0.0024,0.0002,0.0
+general game feedback,0.0,0.0,0.0,0.0014,0.0006,0.0,0.0
+love for app,0.0,0.0,0.0,0.0018,0.003,0.0012,0.0002
+love for the game,0.0,0.0,0.0,0.0082,0.0014,0.0,0.0002
+miscellaneous positive feedback,0.0,0.0,0.0,0.0,0.002,0.0,0.0002
+mixed feelings,0.0,0.0,0.0,0.003,0.0008,0.0002,0.0
+money and fun in games,0.0004,0.0,0.0,0.0048,0.002,0.001,0.0004
+monopoly go game feedback,0.0018,0.002,0.0006,0.0248,0.008,0.004,0.0024
+negative game reviews,0.0,0.001,0.0004,0.0002,0.0,0.0016,0.0
+nice game appreciation,0.0,0.0,0.0,0.004,0.0004,0.0004,0.0
+non-english reviews,0.0,0.0,0.0002,0.0002,0.0036,0.0,0.0002
+nostalgic childhood memories,0.0,0.0,0.0,0.0038,0.0006,0.0002,0.0
+pace of gameplay,0.0,0.0,0.0,0.0014,0.0006,0.0,0.0002
+pay to win complaints,0.0,0.0002,0.0,0.0006,0.0006,0.001,0.0
+playing with friends,0.0002,0.0002,0.0,0.005,0.0,0.0002,0.0004
+poor customer service,0.0014,0.0014,0.0006,0.0004,0.0008,0.0026,0.0004
+positive affection,0.0004,0.0,0.0,0.0072,0.0002,0.0,0.0
+positive app experience,0.0,0.0,0.0,0.0026,0.0002,0.0,0.0
+positive app feedback,0.0,0.0002,0.0,0.006,0.0008,0.0,0.001
+positive exciting experience,0.0,0.0,0.0,0.0052,0.0,0.0,0.0002
+positive feedback,0.0002,0.0,0.0,0.0346,0.01,0.0002,0.001
+positive feedback/love for app,0.0,0.0,0.0,0.002,0.028,0.0,0.0
+positive feedback/reviews,0.0006,0.0004,0.0,0.0052,0.0028,0.0,0.0028
+positive game reviews,0.0,0.0002,0.0,0.0536,0.0262,0.0002,0.0012
+positive reactions,0.0,0.0,0.0,0.0002,0.004,0.0,0.0
+positive reviews,0.0,0.0,0.0,0.001,0.001,0.0,0.0004
+quality of app,0.0,0.001,0.0,0.0044,0.0016,0.0008,0.0
+relaxing and stress-relief,0.0,0.0,0.0002,0.0074,0.0012,0.0004,0.0
+star wars sticker collection difficulty,0.0006,0.0,0.0,0.002,0.0008,0.0018,0.0004
+sticker collection and trading,0.0046,0.0026,0.0006,0.0096,0.0104,0.0096,0.0028
+time killing app,0.0008,0.0,0.0002,0.0076,0.0022,0.0,0.0008
+unfair account suspension,0.0114,0.0018,0.001,0.0006,0.0038,0.006,0.0024
+uninstall and update issues,0.0008,0.0,0.0,0.0004,0.0004,0.0006,0.0002

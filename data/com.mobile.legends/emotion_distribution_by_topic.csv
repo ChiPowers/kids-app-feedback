@@ -1,0 +1,98 @@
+merged_topic_label,anger,disgust,fear,joy,neutral,sadness,surprise
+Unknown,0.0168,0.0116,0.0008,0.0588,0.0978,0.0262,0.0082
+account recovery issues,0.0016,0.0004,0.0,0.0004,0.003,0.0054,0.002
+basic acknowledgments,0.0002,0.0,0.0002,0.0,0.0102,0.0002,0.0
+beautiful game,0.0,0.0,0.0,0.0034,0.0,0.0,0.0
+beautiful imagery,0.0,0.0,0.0,0.0022,0.0002,0.0,0.0
+connection issues,0.0002,0.0,0.0,0.0,0.0042,0.0004,0.0
+connectivity issues,0.0014,0.0008,0.0004,0.001,0.006,0.0112,0.0028
+customer appreciation,0.0,0.0,0.0,0.0006,0.0022,0.0,0.0002
+cute and playful,0.0,0.0,0.0,0.0008,0.0066,0.0,0.0002
+dark system complaints,0.0002,0.0,0.0002,0.0004,0.0084,0.0014,0.0002
+dark system issues,0.0008,0.0012,0.0004,0.001,0.005,0.0044,0.0008
+dinosaur event challenges,0.0012,0.0,0.0,0.0002,0.0006,0.0008,0.0002
+enjoyable and impressive games,0.0,0.0,0.0,0.0026,0.0006,0.0,0.0008
+enjoyable game,0.0,0.0,0.0,0.004,0.0,0.0,0.0004
+enjoyment and satisfaction,0.0,0.0,0.0,0.0078,0.0008,0.0002,0.0004
+entertainment and fun,0.0,0.0,0.0,0.0094,0.0004,0.0,0.0002
+excitement and amazement,0.0,0.0,0.0,0.0,0.0004,0.0,0.0048
+favorite games,0.0,0.0,0.0,0.0026,0.0002,0.0,0.0
+feelings of happiness,0.0,0.0,0.0,0.0052,0.0,0.0004,0.0
+free skins appreciation,0.0,0.0,0.0,0.002,0.0004,0.0002,0.0
+fun and entertainment,0.0,0.0,0.0,0.0014,0.0094,0.0004,0.0
+game addiction,0.0002,0.0,0.0,0.0032,0.0022,0.0014,0.0
+game balance issues,0.0002,0.0,0.0002,0.001,0.0088,0.0002,0.0
+game enjoyment,0.0,0.0,0.0,0.0018,0.0006,0.0,0.0
+game enjoyment and community,0.0006,0.0002,0.0,0.0062,0.0028,0.0006,0.0004
+game experience,0.0002,0.0002,0.0004,0.001,0.0004,0.0004,0.0
+game preference and dissatisfaction,0.0008,0.0002,0.0,0.0002,0.0008,0.0008,0.0002
+game quality and popularity,0.0006,0.0002,0.0,0.0002,0.003,0.0006,0.0
+game quality concerns,0.0,0.001,0.0,0.0004,0.0006,0.0004,0.0
+gameplay and connectivity,0.0,0.0,0.0,0.0024,0.0012,0.0,0.0
+gameplay frustration,0.0,0.0,0.0,0.0002,0.0022,0.0,0.0
+gaming challenges,0.0,0.0,0.0,0.0034,0.0004,0.0002,0.0
+gaming experience,0.0,0.0004,0.0,0.0032,0.0034,0.0002,0.0006
+graphics and animation,0.0,0.0,0.0,0.0018,0.0024,0.0002,0.0
+hero characters,0.0,0.0,0.0,0.0026,0.0006,0.0004,0.0006
+impressive aesthetics,0.0,0.0,0.0,0.0004,0.0004,0.0,0.0038
+in-game purchase issues,0.0004,0.0004,0.0,0.0006,0.002,0.0018,0.0022
+in-game reporting & penalties,0.0022,0.001,0.0004,0.0002,0.0008,0.0014,0.0004
+lack of engagement,0.0,0.0006,0.0,0.0002,0.0006,0.0012,0.0002
+love and friendships,0.0,0.0,0.0,0.0012,0.0004,0.0002,0.0004
+machine learning appreciation,0.0,0.0,0.0,0.0034,0.002,0.0,0.0002
+matchmaking & rank disparity,0.0004,0.0004,0.0,0.0,0.0006,0.0006,0.0004
+matchmaking and role selection,0.0008,0.0012,0.0,0.0,0.0014,0.0002,0.0002
+matchmaking and team quality,0.0016,0.0008,0.0,0.0004,0.0026,0.0008,0.0004
+matchmaking complaints,0.0002,0.0,0.0,0.0002,0.0058,0.0002,0.0002
+matchmaking concerns,0.002,0.0018,0.0002,0.0028,0.005,0.0042,0.0024
+matchmaking frustration,0.001,0.001,0.0002,0.0002,0.0002,0.0014,0.0004
+matchmaking issues,0.0016,0.002,0.0002,0.0,0.0138,0.0046,0.0004
+matchmaking problems,0.0002,0.0006,0.0,0.0,0.0012,0.0006,0.0
+mixed feedback,0.0002,0.0002,0.0,0.0052,0.0014,0.0,0.0
+mixed opinions,0.0002,0.0008,0.0,0.0068,0.0012,0.0,0.0
+mixed opinions on game,0.0,0.0,0.0,0.0034,0.0024,0.0004,0.0012
+mixed positive reactions,0.0,0.001,0.0,0.004,0.0084,0.0008,0.0022
+mixed reactions,0.0002,0.0002,0.0,0.0006,0.0132,0.0002,0.0002
+mixed update reactions,0.0,0.0008,0.0,0.0006,0.001,0.0004,0.0
+moba game reviews,0.0,0.0006,0.0,0.0016,0.0012,0.0006,0.0
+mobile legend praise,0.0,0.0,0.0,0.0026,0.0004,0.0002,0.0002
+mobile legends feedback,0.0004,0.0002,0.0,0.005,0.0022,0.0008,0.0006
+mobile legends issues,0.0,0.0,0.0,0.0,0.0028,0.0,0.0
+nc games,0.0,0.0,0.0,0.0004,0.0018,0.0,0.0002
+negative app updates,0.0,0.0,0.0,0.0002,0.004,0.0002,0.0
+negative experience,0.0,0.0016,0.0,0.0,0.0002,0.0024,0.0
+negative game experience,0.0038,0.0066,0.0004,0.0002,0.0042,0.0024,0.0002
+player appreciation,0.0,0.0,0.0,0.01,0.0006,0.0,0.0
+player enjoyment,0.0,0.0,0.0,0.0046,0.0,0.0,0.0
+playing experience,0.0,0.0,0.0,0.0052,0.001,0.0004,0.0
+playing with friends,0.0,0.0,0.0,0.0032,0.0,0.0006,0.0
+poor bot behavior,0.0008,0.0008,0.0,0.0006,0.001,0.0008,0.0006
+poor matchmaking,0.0012,0.0064,0.0002,0.0,0.0028,0.006,0.0002
+poor matchmaking and updates,0.0004,0.0004,0.0,0.0,0.0014,0.0,0.0
+positive app experience,0.0,0.0,0.0,0.0002,0.0028,0.0002,0.0
+positive compliments,0.0,0.0004,0.0,0.0022,0.0008,0.0,0.0
+positive feedback,0.0002,0.0,0.0,0.0142,0.0698,0.0002,0.0006
+positive feelings,0.0,0.0,0.0,0.0018,0.0004,0.0002,0.0
+positive game experience,0.0,0.0002,0.0,0.0178,0.0004,0.0,0.0012
+positive game feedback,0.0,0.0,0.0,0.0516,0.002,0.0006,0.0008
+positive impressions,0.0,0.0002,0.0,0.004,0.0036,0.0,0.0002
+positive praise,0.0,0.0,0.0,0.0208,0.0046,0.0006,0.001
+positive quality,0.0,0.0,0.0,0.0012,0.0008,0.0,0.0002
+positive reviews and ratings,0.0002,0.0,0.0,0.0014,0.0042,0.0006,0.0002
+positive sentiment,0.0,0.0,0.0,0.003,0.0,0.0,0.0
+positive vibes,0.0,0.0,0.0,0.0046,0.0002,0.0,0.0
+product quality,0.0,0.0,0.0,0.0016,0.0006,0.0,0.0
+promo dias issues,0.001,0.0002,0.0,0.0,0.0016,0.0002,0.0002
+protocol error issues,0.0,0.0,0.0,0.0,0.002,0.0008,0.0008
+skin and skins issues,0.002,0.0014,0.0,0.0048,0.006,0.0014,0.0002
+skin requests,0.0004,0.0002,0.0,0.0004,0.0052,0.0,0.0
+solo play challenges,0.0002,0.0014,0.0,0.0,0.0012,0.001,0.0
+stress relief,0.001,0.0002,0.0,0.0042,0.001,0.0012,0.0
+superlative praise,0.0,0.0,0.0,0.0044,0.0,0.0002,0.0014
+top game experience,0.0,0.0,0.0,0.0018,0.0034,0.0,0.0
+top ratings,0.0,0.0,0.0,0.0008,0.0058,0.0002,0.0
+top-rated game,0.0,0.0,0.0,0.0044,0.0002,0.0,0.0
+toxic player behavior,0.0014,0.0032,0.0,0.0004,0.0004,0.0004,0.0
+unfair matchmaking,0.0074,0.0008,0.0002,0.0002,0.0026,0.0002,0.0002
+user language and communication,0.0,0.0,0.0,0.0,0.0028,0.0,0.0
+visuals and graphics,0.0,0.0002,0.0,0.0028,0.0,0.0,0.0

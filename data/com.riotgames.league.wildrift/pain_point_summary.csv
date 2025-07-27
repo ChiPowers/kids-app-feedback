@@ -1,0 +1,85 @@
+merged_topic_label,negative_proportion,total_reviews,pain_point_flag
+Unknown,0.4924092409240924,1515,True
+ai and bot encounters,0.5252525252525253,99,True
+app crashes and freezes,0.3888888888888889,18,False
+app functionality issues,0.7692307692307693,13,True
+app improvements,0.058823529411764705,17,False
+app launch issues,0.6363636363636364,22,True
+arcane-themed game experience,0.07692307692307693,13,False
+best mobile moba,0.2,70,False
+bug reports,0.45454545454545453,22,True
+champion requests,0.21428571428571427,84,False
+character design & balance,0.2,10,False
+chat feature request,0.0625,32,False
+cheating and hacks,0.46153846153846156,13,True
+comparison to mobile legends,0.125,32,False
+connection and verification issues,0.5,16,True
+connection issues,0.6111111111111112,18,True
+connectivity and loading issues,0.7,10,True
+connectivity issues,0.5,12,True
+customer satisfaction,0.06451612903225806,31,False
+device compatibility issues,0.7,20,True
+download & resource issues,0.5714285714285714,14,True
+enjoyable gaming experience,0.05,20,False
+entertainment & enjoyment,0.06060606060606061,33,False
+file verification issues,0.5434782608695652,46,True
+game balance,0.6764705882352942,34,True
+game crashes and penalties,0.8,15,True
+game flow and balance,0.13043478260869565,23,False
+game frustration,0.3142857142857143,35,False
+game performance and competition,0.4782608695652174,23,True
+game performance and queue issues,0.5,18,True
+game performance issues,0.24489795918367346,49,False
+game praise and feedback,0.39285714285714285,28,False
+game update issues,0.5384615384615384,13,True
+game updates,0.23076923076923078,13,False
+game updates and bugs,0.5588235294117647,34,True
+gameplay frustration,0.061224489795918366,49,False
+league of legends mobile,0.23404255319148937,47,False
+loading/startup issues,0.5925925925925926,81,True
+login and account issues,0.6197183098591549,71,True
+login issues,0.5441176470588235,68,True
+login/connection errors,0.5238095238095238,21,True
+login/connection issues,0.7096774193548387,31,True
+matchmaking & autofill issues,0.6511627906976745,43,True
+matchmaking & balance,0.775,40,True
+matchmaking & loading issues,0.42857142857142855,14,True
+matchmaking and afk issues,0.7,60,True
+matchmaking and player experience,0.75,20,True
+matchmaking delays,0.2857142857142857,35,False
+matchmaking issues,0.5207100591715976,169,True
+mixed feedback,0.06060606060606061,33,False
+mixed positive feedback,0.18181818181818182,33,False
+mobile game experience,0.13333333333333333,30,False
+negative experience,0.7631578947368421,76,True
+network connectivity issues,0.5785123966942148,121,True
+offline mode issues,0.14285714285714285,21,False
+pc gaming experience,0.15,20,False
+performance & frame rate,0.3620689655172414,58,False
+performance & optimization,0.37254901960784315,51,False
+performance and optimization,0.18181818181818182,22,False
+performance issues,0.5436893203883495,103,True
+player appreciation,0.038461538461538464,26,False
+poor game quality,0.5161290322580645,31,True
+poor matchmaking,0.7536231884057971,69,True
+poor quality,0.43478260869565216,23,True
+positive feedback,0.0547945205479452,73,False
+positive game experience,0.0,50,False
+positive game feedback,0.01818181818181818,55,False
+positive sentiments,0.0,12,False
+region and account issues,0.7142857142857143,14,True
+regional server availability,0.5510204081632653,49,True
+server stability,0.484375,64,True
+skin content and events,0.32608695652173914,92,False
+storage issues,0.3018867924528302,53,False
+top 5v5 moba,0.0,12,False
+top gaming moments,0.0,22,False
+top moba games,0.3,20,False
+top-tier gameplay,0.0,18,False
+toxicity and reporting,0.8034188034188035,117,True
+ultimate game praise,0.0,17,False
+update issues,0.5833333333333334,84,True
+user experience issues,0.17415730337078653,178,False
+wild rift gameplay and performance,0.45535714285714285,112,True
+игровой опыт и технические проблемы,0.0,12,False
+اللعب والتجربة,0.06666666666666667,15,False

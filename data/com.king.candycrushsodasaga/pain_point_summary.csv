@@ -1,0 +1,98 @@
+merged_topic_label,negative_proportion,total_reviews,pain_point_flag
+"""addictive gameplay""",0.6470588235294118,17,True
+"""awesome game reviews""",0.0,25,False
+"""best""",0.0,34,False
+"""cool and same""",0.0,18,False
+"""expressing amazement""",0.0,15,False
+"""fun and relaxing activities""",0.03571428571428571,28,False
+"""fun experience""",0.0,30,False
+"""gaming app experience""",0.08955223880597014,67,False
+"""interesting game features""",0.03773584905660377,53,False
+"""love and fun""",0.45,20,True
+"""perfect and delicious""",0.0,12,False
+Unknown,0.21399594320486814,986,False
+account connection issues,0.5909090909090909,22,True
+ad complaints,0.3333333333333333,18,False
+ad frequency and content,0.26666666666666666,30,False
+ad issues and rewards,0.6428571428571429,14,True
+addictive fun,0.15384615384615385,13,False
+addictive game enjoyment,0.0625,48,False
+addictive gameplay,0.21052631578947367,19,False
+addictive nostalgic games,0.7619047619047619,21,True
+ads not granting rewards,0.6521739130434783,46,True
+amazing entertainment games,0.0,17,False
+app crashes and glitches,0.6262626262626263,99,True
+app quality feedback,0.05263157894736842,57,False
+app version and updates feedback,0.15789473684210525,19,False
+best ever,0.09090909090909091,11,False
+best game praise,0.025,40,False
+candy crush game enjoyment,0.13095238095238096,84,False
+candy crush soda game reviews,0.05434782608695652,92,False
+changes in daily bonuses,0.75,12,True
+daily gameplay obsession,0.0,17,False
+difficulty and level progression,0.3163265306122449,98,False
+enjoyable gameplay,0.046153846153846156,65,False
+enjoying the game,0.06666666666666667,15,False
+enjoyment and entertainment,0.0,39,False
+excellent fun gameplay,0.0,12,False
+excellent game reviews,0.0,11,False
+exciting exceptional experiences,0.047619047619047616,21,False
+favorite game praise,0.0,33,False
+fun and educational entertainment,0.0,12,False
+fun and engaging,0.009523809523809525,105,False
+fun gameplay experience,0.05660377358490566,53,False
+fun gaming experience,0.02857142857142857,35,False
+game boredom feedback,0.5555555555555556,18,True
+game challenge enjoyment,0.0,16,False
+game difficulty and fun,0.17307692307692307,52,False
+game quality evaluation,0.125,48,False
+game reviews in hindi,0.05555555555555555,36,False
+gameplay changes and boosters,0.38461538461538464,13,False
+general approval responses,0.14634146341463414,41,False
+gold bars issues,0.41379310344827586,29,True
+good game reviews,0.0,63,False
+good pocket money game,0.0,13,False
+great game reviews,0.017857142857142856,56,False
+high praise for game,0.08695652173913043,23,False
+highly enjoyable,0.0,17,False
+issues with advertisements,0.30434782608695654,23,False
+keeps users busy/engaged,0.19047619047619047,21,False
+long-term gameplay enjoyment,0.0,21,False
+lost boosters/update issues,0.2857142857142857,14,False
+lost win streak issues,0.7,10,True
+lots of fun,0.0,31,False
+love for game,0.0,31,False
+love for games,0.0,17,False
+mind refreshing games,0.0,28,False
+monetization complaints,0.26,50,False
+multilingual game reviews,0.0,15,False
+negative reviews,1.0,13,True
+nice game reviews,0.0,67,False
+positive aesthetics appreciation,0.0,40,False
+positive affirmations,0.0,57,False
+positive app feedback,0.0,12,False
+positive app reviews,0.034482758620689655,29,False
+positive excitement expressions,0.08333333333333333,12,False
+positive experience reviews,0.07142857142857142,14,False
+positive feedback,0.0,362,False
+positive feedback/appreciation,0.018518518518518517,54,False
+positive feedback/experience,0.04,25,False
+positive feedback/love for app,0.0,71,False
+positive game experience,0.0,20,False
+positive game reviews,0.0220125786163522,318,False
+positive reactions,0.0,24,False
+positive sentiments / love for app,0.0,23,False
+profile editing issues,0.02912621359223301,103,False
+purchase and points issues,0.6071428571428571,28,True
+quality of experience,0.004366812227074236,229,False
+relaxation and soothing,0.0,40,False
+relaxing and refreshing,0.0,11,False
+relaxing game experience,0.0,21,False
+relaxing gameplay experience,0.03333333333333333,30,False
+request for old music/sounds,0.5185185185185185,27,True
+stress relief,0.14634146341463414,41,False
+super duper praise,0.0,41,False
+super game praise,0.0625,16,False
+time passing activities,0.08,75,False
+user satisfaction,0.0,14,False
+wow/impressed reactions,0.0,13,False

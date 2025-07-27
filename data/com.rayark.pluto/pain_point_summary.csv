@@ -1,0 +1,86 @@
+merged_topic_label,negative_proportion,total_reviews,pain_point_flag
+Unknown,0.15187376725838264,1521,False
+addictive fun,0.16071428571428573,56,False
+ai art controversy,0.6875,16,True
+android 12 compatibility issues,0.7142857142857143,14,True
+anime art & music,0.043478260869565216,23,False
+app compatibility fixes,0.47058823529411764,17,True
+app crashes and launch issues,0.5925925925925926,27,True
+app launch issues,0.75,12,True
+app loading and sound issues,0.36363636363636365,44,False
+artist displacement concerns,0.7083333333333334,24,True
+artistic masterpieces,0.0,11,False
+beautiful music,0.02564102564102564,39,False
+beautiful story & music,0.05194805194805195,77,False
+beautiful visuals,0.023255813953488372,43,False
+black screen issue,0.42424242424242425,66,True
+casual compliments,0.0,11,False
+customer affection,0.03636363636363636,55,False
+customer satisfaction,0.047619047619047616,21,False
+cute music game,0.0,52,False
+data loss and restoration,0.5789473684210527,209,True
+deemo appreciation,0.15384615384615385,26,False
+deemo love,0.09090909090909091,33,False
+device compatibility and usage,0.08,25,False
+download issues,0.42857142857142855,42,True
+emotional game endings,0.5833333333333334,12,True
+emotional impact,0.6896551724137931,29,True
+emotional sad stories,0.38461538461538464,13,False
+engaging story and gameplay,0.05405405405405406,37,False
+exceptional praise,0.0,16,False
+favorite game,0.06666666666666667,30,False
+free songs & content requests,0.1875,16,False
+fun game,0.0,11,False
+game enjoyment,0.02564102564102564,39,False
+game reviews,0.10810810810810811,37,False
+gameplay controls,0.08333333333333333,24,False
+in-app purchases,0.2857142857142857,70,False
+loading/stuck issues,0.65,20,True
+longtime fans,0.0410958904109589,73,False
+loyalty and reinstallation,0.0967741935483871,31,False
+mixed feelings,0.07407407407407407,27,False
+mobile rhythm games,0.0425531914893617,47,False
+music & art appreciation,0.08571428571428572,35,False
+music & in-app purchases,0.13636363636363635,22,False
+music & songs,0.023255813953488372,43,False
+music & storytelling,0.11764705882352941,17,False
+music and content access,0.09090909090909091,11,False
+music and rhythm games,0.0,20,False
+music enjoyment,0.0,19,False
+offline connectivity issues,0.41509433962264153,53,True
+overall satisfaction,0.024390243902439025,41,False
+paid content / free version,0.32926829268292684,82,False
+piano rhythm game,0.0875,160,False
+piano rhythm games,0.125,16,False
+player affection,0.0,34,False
+player appreciation,0.041666666666666664,48,False
+positive descriptions,0.03278688524590164,61,False
+positive excitement,0.15,20,False
+positive feedback,0.04854368932038835,103,False
+positive game experience,0.0,69,False
+positive game feedback,0.020833333333333332,48,False
+positive game praise,0.07692307692307693,13,False
+positive gameplay,0.0,13,False
+positive praise,0.10569105691056911,123,False
+positive ratings,0.0625,32,False
+positive reactions,0.09523809523809523,21,False
+positive rhythm game,0.0,14,False
+positive sentiments,0.05714285714285714,35,False
+rayark game feedback,0.25925925925925924,27,False
+relaxation and calmness,0.061224489795918366,49,False
+relaxing music,0.0,68,False
+rhythm & music gameplay,0.07142857142857142,56,False
+rhythm game experience,0.04954954954954955,222,False
+sound and calibration issues,0.4368932038834951,103,True
+stress relief and relaxation,0.043478260869565216,23,False
+stunning art & music,0.05555555555555555,18,False
+top game praise,0.0,12,False
+top mobile games,0.058823529411764705,34,False
+top music game,0.02564102564102564,39,False
+top recommendations,0.0,27,False
+top rhythm game,0.0392156862745098,51,False
+top-rated game,0.0,14,False
+user loyalty,0.09375,32,False
+user satisfaction,0.09302325581395349,43,False
+waiting for deemo 2,0.0,16,False
+позитивные отзывы о игре,0.13333333333333333,15,False

@@ -1,0 +1,88 @@
+merged_topic_label,negative_proportion,total_reviews,pain_point_flag
+Unknown,0.35657546337157986,1133,False
+account bans and harassment,0.9,10,True
+ad-free fun,0.07692307692307693,26,False
+among us meme & fun,0.05405405405405406,37,False
+among us references,0.043478260869565216,23,False
+app compatibility & download issues,0.6515151515151515,132,True
+app nostalgia,0.3684210526315789,38,False
+app updates and changes,0.4482758620689655,29,True
+best game experience,0.0,13,False
+best game praise,0.021739130434782608,46,False
+black screen issues,0.5252525252525253,99,True
+bug issues,0.3508771929824561,57,False
+casual chat & reactions,0.02,50,False
+casual gaming experience,0.14285714285714285,28,False
+chat and voting issues,0.15384615384615385,26,False
+chat functionality issues,0.4563758389261745,149,True
+child safety concerns,0.2962962962962963,27,False
+connection issues,0.5442477876106194,226,True
+cosmicube purchases,0.2926829268292683,41,False
+customer love,0.0,15,False
+customization and skins,0.16666666666666666,30,False
+device compatibility and usage,0.05555555555555555,18,False
+disconnection bans,0.6666666666666666,30,True
+distrust and suspicion,0.3,20,False
+enjoyable gameplay,0.07142857142857142,14,False
+family & friends play,0.08,25,False
+friend list & online status,0.15384615384615385,26,False
+fun and enjoyment,0.0,53,False
+fun and entertainment,0.0975609756097561,41,False
+game bans and kicks,0.7,40,True
+game crashes and timeouts,0.3870967741935484,31,False
+game enjoyment,0.0,14,False
+game enthusiasm,0.058823529411764705,17,False
+game experience complaints,0.10810810810810811,37,False
+game feedback,0.03225806451612903,31,False
+game glitches and bugs,0.3076923076923077,26,False
+game praise,0.0,13,False
+game roles and characters,0.10256410256410256,39,False
+game updates and maps,0.0967741935483871,31,False
+gameplay and connectivity,0.20689655172413793,29,False
+hacking and cheating,0.4473684210526316,38,True
+impostor role issues,0.3333333333333333,264,False
+lack of engagement,0.6666666666666666,12,True
+level progress reset issues,0.15625,32,False
+login issues,0.7076923076923077,65,True
+mixed feedback,0.6060606060606061,33,True
+mixed responses,0.0,16,False
+multiplayer fun,0.02857142857142857,35,False
+multiplayer hide & seek,0.045454545454545456,22,False
+mystery & detective games,0.3125,32,False
+name change issues,0.47619047619047616,21,True
+negative experience with connectivity and bugs,0.3870967741935484,31,False
+negative game experience,0.98,50,True
+nostalgia for 2020,0.25,76,False
+nostalgia for original game,0.16666666666666666,12,False
+offline/online gameplay issues,0.4,15,False
+permission email issues,0.5777777777777777,45,True
+personal favorites,0.0,11,False
+pet and bee enthusiasm,0.1891891891891892,37,False
+player appreciation,0.01694915254237288,118,False
+player engagement & features,0.07142857142857142,14,False
+poor quality and bugs,0.7058823529411765,17,True
+positive app experience,0.05405405405405406,37,False
+positive excitement,0.0,14,False
+positive experiences,0.0,15,False
+positive feedback,0.014814814814814815,135,False
+positive game experience,0.0,35,False
+positive game feedback,0.010638297872340425,188,False
+positive game feelings,0.09259259259259259,54,False
+positive game praise,0.0,17,False
+positive gameplay experience,0.0,14,False
+positive impressions,0.0,78,False
+positive praise,0.018018018018018018,111,False
+positive reviews and ratings,0.24444444444444444,45,False
+positive sentiment,0.09433962264150944,53,False
+roblox and sibling gaming,0.07692307692307693,13,False
+server issues,0.6222222222222222,45,True
+storage size concerns,0.14285714285714285,21,False
+suspicious and self-image,0.09836065573770492,61,False
+top quality,0.0,35,False
+top-rated game,0.05194805194805195,77,False
+toxicity and inappropriate content,0.7083333333333334,24,True
+ultimate game praise,0.03389830508474576,59,False
+update feedback,0.47058823529411764,17,True
+user frustrations,0.0,17,False
+voice chat requests,0.18421052631578946,38,False
+طلب دعم اللغة العربية,0.06666666666666667,30,False

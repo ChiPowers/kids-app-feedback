@@ -1,0 +1,93 @@
+merged_topic_label,negative_proportion,total_reviews,pain_point_flag
+Unknown,0.31551724137931036,1160,False
+ad annoyance,0.3333333333333333,15,False
+addictive gameplay,0.3333333333333333,42,False
+ads and app performance,0.6923076923076923,65,True
+angry birds,0.7818181818181819,55,True
+angry birds classic,0.75,40,True
+angry birds enjoyment,0.5555555555555556,189,True
+app accessibility issues,0.08333333333333333,108,False
+app crashes and ads,0.6956521739130435,23,True
+app crashes and freezes,0.7692307692307693,13,True
+app crashes and launch issues,0.7142857142857143,49,True
+app crashes and loading issues,0.671875,64,True
+app freezing issues,0.5238095238095238,63,True
+app removal & availability,0.2777777777777778,36,False
+app version changes,0.2916666666666667,24,False
+best mobile game,0.15384615384615385,26,False
+birds and anger,0.6779661016949152,59,True
+casual acknowledgments,0.0,19,False
+childhood nostalgia,0.1,40,False
+classic favorites,0.047619047619047616,42,False
+classic games,0.08,25,False
+device compatibility issues,0.47368421052631576,19,True
+difficulty and challenge,0.11428571428571428,35,False
+engaging games,0.0,11,False
+enjoyable and fun games,0.0,28,False
+enjoyable experience,0.045454545454545456,22,False
+enjoyment and fun,0.06666666666666667,15,False
+excellent graphics,0.017543859649122806,57,False
+excessive ads,0.5362318840579711,69,True
+excitement and praise,0.0,23,False
+favorite games,0.0,23,False
+feature request: return,0.14285714285714285,21,False
+fun and entertainment,0.0,33,False
+functionality issues,0.8333333333333334,12,True
+game accessibility issues,0.21428571428571427,14,False
+game addiction,0.18518518518518517,27,False
+game crashes and freezes,0.5348837209302325,43,True
+game enjoyment,0.025,40,False
+game freezing issues,0.47619047619047616,42,True
+game quality,0.0,14,False
+game quality and accuracy,0.0,22,False
+game removal frustration,0.5,12,True
+gameplay and fun,0.02857142857142857,35,False
+gaming slang and memes,0.24,25,False
+iconic & legendary praise,0.0,15,False
+kids' games,0.0,10,False
+level completion & stars,0.40384615384615385,52,True
+level difficulty,0.19444444444444445,36,False
+loading issues,0.8181818181818182,11,True
+loading/startup issues,0.6071428571428571,28,True
+long-term player engagement,0.0,15,False
+mind-engaging entertainment,0.0,32,False
+mixed feelings,0.1875,16,False
+mixed feelings about fun,0.0392156862745098,51,False
+mixed language expressions,0.15789473684210525,19,False
+mixed reactions,0.06993006993006994,143,False
+negative experiences,0.9375,16,True
+negative game reception,0.9696969696969697,33,True
+nostalgia for childhood,0.08823529411764706,34,False
+nostalgic appreciation,0.0,16,False
+offline/online functionality,0.0,16,False
+original/authentic content,0.06666666666666667,15,False
+overall satisfaction,0.0,41,False
+pig-themed destruction,0.3793103448275862,29,False
+player affection,0.0,31,False
+player appreciation,0.0,27,False
+player enthusiasm,0.0,40,False
+positive app experiences,0.07317073170731707,41,False
+positive app feedback,0.0,23,False
+positive celebrations,0.0,13,False
+positive feedback,0.008928571428571428,336,False
+positive game experience,0.03636363636363636,110,False
+positive game feedback,0.006060606060606061,165,False
+positive game praise,0.023809523809523808,42,False
+positive impressions,0.0,26,False
+positive movie feedback,0.0,10,False
+positive praise,0.005747126436781609,174,False
+positive rovio feedback,0.15789473684210525,19,False
+post deletion issues,0.3,10,False
+preference for older versions,0.1875,16,False
+retro nostalgia,0.21428571428571427,28,False
+sound and support,0.07692307692307693,13,False
+startup crashes,0.7115384615384616,52,True
+stress relief,0.09090909090909091,33,False
+support and monetization issues,0.55,20,True
+time passing games,0.07142857142857142,28,False
+time wasters,0.15384615384615385,13,False
+too many ads,0.47959183673469385,98,True
+top arcade games,0.01818181818181818,55,False
+top games,0.0,83,False
+top praise,0.022222222222222223,45,False
+user discovery,0.0,22,False

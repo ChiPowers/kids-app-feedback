@@ -1,0 +1,74 @@
+merged_topic_label,negative_proportion,total_reviews,pain_point_flag
+Unknown,0.24965325936199723,721,False
+addictive entertainment,0.17391304347826086,46,False
+appreciation and love,0.0,64,False
+asmr and relaxation,0.09090909090909091,11,False
+austin's family adventures,0.0,15,False
+candy crush clones,0.5,26,True
+casual speech and expressions,0.13636363636363635,44,False
+challenging gameplay,0.07692307692307693,13,False
+children's play and satisfaction,0.06666666666666667,15,False
+customer appreciation,0.0,27,False
+device access & loss,0.6190476190476191,21,True
+difficulty and frustration,0.0,11,False
+download issues,0.5714285714285714,14,True
+easy-to-play puzzle games,0.05263157894736842,19,False
+educational apps,0.0,16,False
+engaging game content,0.0,40,False
+enjoyable entertainment,0.0,11,False
+enjoyable game,0.058823529411764705,85,False
+entertainment and humor,0.0,86,False
+entertainment experience,0.10666666666666667,75,False
+excellent quality,0.041666666666666664,24,False
+frequent update issues,0.6666666666666666,54,True
+fun and entertainment,0.0,49,False
+game addiction,0.5384615384615384,13,True
+game graphics,0.10810810810810811,37,False
+game progression and rewards,0.4945652173913043,368,True
+game quality,0.05,20,False
+gameplay enjoyment,0.0,19,False
+gaming experience,0.05263157894736842,19,False
+garden & home decor,0.10810810810810811,37,False
+general acknowledgments,0.017543859649122806,57,False
+graphics and story enjoyment,0.17647058823529413,17,False
+greatest games,0.045454545454545456,44,False
+hints and tutorial settings,0.21428571428571427,14,False
+home decoration,0.07407407407407407,54,False
+impressive reactions,0.06666666666666667,15,False
+in-app purchases and ads,0.17647058823529413,17,False
+loading and freezing issues,0.7291666666666666,48,True
+mind-blowing experiences,0.06666666666666667,15,False
+mini games complaints,0.15384615384615385,13,False
+misleading advertisements,0.21768707482993196,147,False
+mixed positive feedback,0.22058823529411764,68,False
+negative reviews,0.010869565217391304,92,False
+neutral acceptance,0.21428571428571427,14,False
+offline play issues,0.25,16,False
+opiniones sobre el juego,0.23076923076923078,13,False
+player affection,0.0,26,False
+player appreciation,0.008547008547008548,117,False
+player enjoyment,0.02702702702702703,74,False
+positive appreciation,0.02631578947368421,38,False
+positive excitement,0.0,43,False
+positive experience,0.06,50,False
+positive feedback,0.0035650623885918,561,False
+positive food reviews,0.0,10,False
+positive game experience,0.008287292817679558,362,False
+positive game feedback,0.024752475247524754,202,False
+positive gameplay experience,0.0,14,False
+positive gaming experience,0.0,30,False
+positive impressions,0.0,82,False
+positive praise,0.0,106,False
+positive reactions,0.07142857142857142,14,False
+positive sentiment,0.10638297872340426,47,False
+puzzle games,0.17777777777777778,45,False
+rating and feedback,0.34782608695652173,23,False
+relaxing and calming games,0.0392156862745098,51,False
+relaxing timepass,0.08,50,False
+repetitive event features,0.5,24,True
+simple and fun,0.0,13,False
+storyline and characters,0.0,16,False
+stress relief & relaxation,0.03773584905660377,53,False
+sweet and beautiful game,0.0,20,False
+top-rated games,0.02040816326530612,49,False
+update & graphics feedback,0.6949152542372882,236,True

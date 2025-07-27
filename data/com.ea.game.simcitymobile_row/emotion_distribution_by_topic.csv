@@ -1,0 +1,93 @@
+merged_topic_label,anger,disgust,fear,joy,neutral,sadness,surprise
+Unknown,0.012,0.0142,0.001,0.0944,0.0684,0.04,0.013
+account login issues,0.0002,0.0,0.0,0.0,0.003,0.0046,0.0002
+ad-related frustrations,0.0022,0.0014,0.0004,0.0048,0.007,0.004,0.0012
+addictive gameplay,0.0014,0.0004,0.0,0.0014,0.0014,0.0004,0.0
+american pride,0.0,0.0,0.0,0.0022,0.0002,0.0,0.0
+app bugs and glitches,0.0,0.0004,0.0002,0.0004,0.001,0.0028,0.0
+app crashes and stability,0.0006,0.0,0.0002,0.0,0.001,0.0042,0.0014
+app recommendations,0.0002,0.0006,0.0,0.0026,0.0022,0.0004,0.0002
+boring game,0.0,0.0004,0.0,0.0006,0.0008,0.0032,0.0002
+build your dream city,0.0002,0.0,0.0,0.0056,0.0014,0.0002,0.0004
+building and construction,0.0,0.0,0.0,0.006,0.0014,0.0006,0.0004
+building and resource management,0.0,0.0002,0.0,0.0004,0.0008,0.0006,0.0
+casual compliments,0.0,0.0,0.0,0.0002,0.0028,0.0,0.0
+cheating and hacking,0.0022,0.0006,0.0,0.0012,0.0034,0.001,0.0006
+city building & customization,0.0002,0.0004,0.0006,0.0,0.0038,0.0,0.0
+city building & management,0.0002,0.0008,0.0,0.0042,0.0054,0.0002,0.0004
+city building challenges,0.0,0.0006,0.0,0.0012,0.001,0.0004,0.0002
+city building game,0.0,0.0002,0.0,0.0018,0.0014,0.0004,0.0002
+city building simulation,0.0,0.0,0.0,0.0016,0.0012,0.0004,0.0
+city development and growth,0.0002,0.0002,0.0,0.0002,0.002,0.0014,0.0002
+city management,0.0,0.0002,0.0002,0.0028,0.0004,0.0,0.0
+city skyline imitations,0.0002,0.0,0.0,0.0054,0.006,0.001,0.0016
+city-building games,0.001,0.0028,0.0002,0.0152,0.011,0.0038,0.0018
+classic favorites,0.0002,0.0,0.0,0.0006,0.0068,0.0,0.0002
+customer appreciation,0.0,0.0,0.0,0.0022,0.0,0.0,0.0
+customer praise,0.0,0.0,0.0,0.003,0.0016,0.0,0.003
+engaging strategy game,0.0,0.0,0.0,0.003,0.0004,0.0,0.0002
+enjoyable experience,0.0,0.0,0.0,0.0086,0.0002,0.0,0.0
+enjoyment and fun,0.0,0.0,0.0,0.0064,0.0,0.0,0.0
+exciting game praise,0.0,0.0,0.0,0.0024,0.0,0.0,0.001
+favorite game,0.0,0.0,0.0,0.0056,0.0112,0.0,0.0006
+financial management and loans,0.0,0.0,0.0,0.0012,0.0018,0.0004,0.0
+fun idle game,0.0,0.0,0.0,0.0028,0.0002,0.0,0.0
+game addiction,0.0002,0.0002,0.0,0.0034,0.001,0.0002,0.0
+game complaints,0.0,0.0002,0.0,0.0026,0.005,0.0004,0.0002
+game difficulty and simplicity,0.0,0.0,0.0002,0.0016,0.0004,0.0006,0.0
+game enjoyment,0.0,0.0002,0.0,0.0,0.002,0.0,0.0
+game monetization concerns,0.001,0.0026,0.0,0.0002,0.002,0.002,0.0
+game progress & challenges,0.0,0.0,0.0002,0.0034,0.001,0.0004,0.0004
+gameplay enjoyment,0.0,0.0,0.0,0.002,0.0,0.0002,0.0
+global trade issues,0.0012,0.0024,0.0002,0.0018,0.0068,0.005,0.001
+graphics quality,0.0,0.0,0.0,0.0064,0.0018,0.0004,0.0002
+greatest game,0.0,0.0,0.0,0.0024,0.0004,0.0,0.0
+in-game currency & contests,0.0008,0.005,0.0004,0.0016,0.0046,0.0068,0.0004
+in-game purchases,0.0016,0.0008,0.0002,0.0048,0.0072,0.0068,0.0004
+loading and startup issues,0.0,0.0,0.0002,0.0,0.0018,0.004,0.0012
+longtime player enjoyment,0.0,0.0,0.0,0.0066,0.0014,0.0008,0.0
+mixed acknowledgments,0.0,0.0004,0.0,0.0004,0.0028,0.0,0.0
+mixed feedback,0.0,0.0002,0.0,0.0014,0.0014,0.0002,0.0
+mixed game opinions,0.0,0.0002,0.0,0.0014,0.0012,0.0002,0.0
+mobile gaming,0.0,0.0,0.0,0.002,0.0024,0.0004,0.0004
+negative game experience,0.0006,0.0042,0.0004,0.0,0.0006,0.0022,0.0
+negative update feedback,0.0004,0.0052,0.0002,0.0022,0.0018,0.0054,0.0004
+offline connectivity issues,0.0,0.0002,0.0,0.0022,0.0064,0.002,0.0008
+performance issues,0.0002,0.0004,0.0002,0.0002,0.0014,0.0034,0.0004
+player affection,0.0,0.0,0.0,0.0068,0.0006,0.0,0.0
+player appreciation,0.0,0.0,0.0,0.0026,0.0,0.0,0.0002
+player enjoyment,0.0,0.0,0.0,0.0038,0.0004,0.0,0.0
+player satisfaction,0.0,0.0,0.0,0.0028,0.0002,0.0,0.0
+poor quality,0.0002,0.0024,0.0004,0.0,0.0002,0.0002,0.0002
+positive enthusiasm,0.0002,0.0,0.0,0.0056,0.0006,0.0,0.0006
+positive experience,0.0,0.0,0.0,0.0028,0.0022,0.0004,0.0002
+positive feedback,0.0004,0.0,0.0,0.0182,0.0556,0.0006,0.0008
+positive feelings,0.0,0.0,0.0,0.0008,0.0042,0.0002,0.0
+positive food experiences,0.0,0.0,0.0,0.0006,0.0042,0.0,0.001
+positive game experience,0.0002,0.0,0.0,0.017,0.0008,0.0002,0.0002
+positive game experiences,0.0,0.0,0.0,0.0042,0.0002,0.0,0.0016
+positive game feedback,0.0002,0.0,0.0,0.0344,0.0018,0.0,0.0012
+positive game reviews,0.0,0.0,0.0,0.0076,0.0006,0.0,0.0
+positive gaming experience,0.0,0.0,0.0,0.02,0.0016,0.0002,0.0002
+positive greetings,0.0,0.0,0.0,0.0014,0.0014,0.0,0.0
+positive impressions,0.0,0.0,0.0,0.0066,0.001,0.0004,0.0022
+positive reactions,0.0,0.0,0.0,0.0062,0.0032,0.0,0.0036
+positive sentiment,0.0,0.0,0.0,0.0022,0.0002,0.0,0.0
+production time issues,0.0002,0.0,0.0,0.0004,0.0024,0.0004,0.0
+progression and grinding,0.0,0.0006,0.0,0.0004,0.0006,0.0002,0.0004
+realism and authenticity,0.0,0.0,0.0,0.0016,0.0014,0.0002,0.0
+reward and earnings concerns,0.0006,0.0012,0.0,0.0022,0.0024,0.0034,0.0006
+server connectivity issues,0.0,0.0,0.0,0.0,0.0024,0.001,0.0002
+server issues,0.0,0.0,0.0002,0.0,0.0024,0.0,0.0
+slow progress,0.0,0.0002,0.0,0.0002,0.0022,0.0008,0.0
+storage limitations,0.0008,0.0012,0.0,0.0016,0.002,0.0016,0.0018
+stress relief and relaxation,0.0,0.0,0.0,0.0028,0.0012,0.0002,0.0
+time-killing games,0.0002,0.0,0.0,0.004,0.0044,0.0008,0.0
+top games,0.0,0.0,0.0,0.0018,0.0038,0.0002,0.0004
+top simulator experience,0.0,0.0,0.0,0.0022,0.0006,0.0,0.0006
+top-rated games,0.0,0.0,0.0,0.0012,0.0002,0.0002,0.001
+train system issues,0.0006,0.0016,0.0,0.0,0.0026,0.0024,0.0006
+transportation infrastructure,0.0004,0.0,0.0,0.0024,0.008,0.0022,0.0012
+ui size & icon visibility,0.0002,0.0006,0.0,0.0,0.0006,0.0002,0.0006
+user ratings and feedback,0.0004,0.0004,0.0,0.003,0.003,0.0018,0.0002
+zoom and view features,0.0,0.0,0.0,0.0006,0.0028,0.0002,0.0

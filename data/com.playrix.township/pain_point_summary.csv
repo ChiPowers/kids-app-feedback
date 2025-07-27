@@ -1,0 +1,83 @@
+merged_topic_label,negative_proportion,total_reviews,pain_point_flag
+Unknown,0.29535864978902954,711,False
+account loss and progress issues,0.6818181818181818,44,True
+addictive fun,0.0,24,False
+addictive gameplay,0.4583333333333333,48,True
+app crashes and bugs,0.6923076923076923,13,True
+app functionality and storage,0.13793103448275862,29,False
+app updates and changes,0.5185185185185185,27,True
+barn storage issues,0.4634146341463415,41,True
+beautiful graphics,0.01818181818181818,55,False
+best city game,0.0,20,False
+candy crush frustration,0.6842105263157895,19,True
+child-friendly content,0.0,21,False
+city building & design,0.078125,64,False
+co-op & social features,0.15789473684210525,19,False
+construction and upgrades,0.2777777777777778,18,False
+customer affection,0.5,14,True
+customer love,0.023809523809523808,42,False
+cute graphics and animations,0.05,20,False
+data privacy concerns,0.5294117647058824,34,True
+difficulty and frustration,0.6923076923076923,39,True
+engaging resource management,0.0,17,False
+enjoyable experience,0.0,97,False
+enjoyable gameplay,0.018518518518518517,54,False
+excitement and enthusiasm,0.09523809523809523,21,False
+farm & farming experience,0.08695652173913043,69,False
+favorite game,0.0,13,False
+fun action game,0.0,39,False
+fun and engaging entertainment,0.029411764705882353,34,False
+fun and entertainment,0.0,54,False
+game addiction,0.08163265306122448,49,False
+game coolness,0.0,12,False
+game decorations and features,0.3333333333333333,21,False
+game enjoyment,0.15,20,False
+game quality,0.06756756756756757,74,False
+general acknowledgment,0.0,44,False
+in-app purchases,0.4731182795698925,93,True
+in-app purchases and greed,0.75,12,True
+in-game purchases and passes,0.5,14,True
+interesting features,0.0,21,False
+longtime enjoyment,0.08888888888888889,45,False
+match-3 frustration,0.6470588235294118,51,True
+mini games decline,0.5454545454545454,11,True
+misleading advertisements,0.33506493506493507,385,False
+misleading advertising,0.3888888888888889,18,False
+mixed feedback,0.03333333333333333,30,False
+mixed reviews,0.22535211267605634,71,False
+night mode & lighting,0.15384615384615385,13,False
+offline mode,0.05,20,False
+osm platform feedback,0.0,14,False
+piggy bank concerns,0.5454545454545454,11,True
+player affection,0.023255813953488372,43,False
+player appreciation,0.02,50,False
+player enjoyment,0.024390243902439025,41,False
+positive compliments,0.0,23,False
+positive descriptions,0.08333333333333333,12,False
+positive experience,0.0,31,False
+positive feedback,0.0068143100511073255,587,False
+positive game experience,0.005681818181818182,176,False
+positive game feedback,0.007731958762886598,388,False
+positive impressions,0.02040816326530612,49,False
+positive memories,0.0,31,False
+positive praise,0.007518796992481203,133,False
+positive soccer experience,0.0,35,False
+regatta and task frustration,0.5625,48,True
+repetitive events,0.5,16,True
+simple legends game,0.0,19,False
+stress relief,0.02564102564102564,39,False
+stress relief games,0.07142857142857142,56,False
+super game experience,0.0,28,False
+time passing games,0.21052631578947367,57,False
+top praise,0.027777777777777776,36,False
+top-rated 3d game,0.0,37,False
+township gameplay & spending,0.2625,80,False
+uninteresting game experience,0.7,20,True
+update compatibility issues,0.6557377049180327,61,True
+user addiction,0.7222222222222222,18,True
+user enjoyment,0.0,16,False
+user interface issues,0.06818181818181818,44,False
+user preferences,0.045454545454545456,22,False
+zoo expansion and content,0.7142857142857143,14,True
+zoo unlock issues,0.5675675675675675,37,True
+لعبة للأطفال,0.08695652173913043,23,False

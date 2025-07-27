@@ -1,0 +1,91 @@
+merged_topic_label,anger,disgust,fear,joy,neutral,sadness,surprise
+"""appreciation of app""",0.0,0.0,0.0,0.0008,0.0152,0.0002,0.0002
+"""boredom and family play""",0.0,0.0,0.0,0.0024,0.0004,0.002,0.0
+"""enjoyable action game""",0.0002,0.0,0.0,0.005,0.0002,0.0,0.0
+"""fun and enjoyable gameplay""",0.0,0.0,0.0,0.004,0.0,0.0,0.0
+"""fun and enjoyable""",0.0002,0.0,0.0,0.004,0.0,0.0,0.0
+"""fun experience""",0.0,0.0,0.0,0.0054,0.0,0.0,0.0
+"""fun game reviews""",0.0002,0.0,0.0,0.0152,0.0002,0.0002,0.0002
+"""interesting features""",0.0,0.0002,0.0,0.0006,0.0006,0.0,0.0008
+"""interesting game reviews""",0.0,0.0,0.0,0.0022,0.0008,0.0,0.0002
+"""nice game reviews""",0.0,0.0002,0.0,0.0138,0.0002,0.0,0.0002
+Unknown,0.0082,0.0062,0.002,0.1196,0.0312,0.022,0.0088
+ad presence and frequency,0.0006,0.0002,0.0,0.0046,0.0018,0.0004,0.0002
+addictive gameplay,0.0046,0.0018,0.0002,0.0192,0.0044,0.0022,0.0012
+addictive slot machine games,0.0,0.0002,0.0,0.006,0.0006,0.0002,0.0
+app functionality issues,0.0008,0.0006,0.0,0.0028,0.0074,0.0116,0.0012
+awesome game appreciation,0.0,0.0,0.0,0.0042,0.0002,0.0,0.0
+best game ever,0.0002,0.0,0.0,0.0044,0.0022,0.0,0.0006
+best game reviews,0.0002,0.0,0.0,0.0008,0.0044,0.0,0.0004
+best pokies reviews,0.0,0.0,0.0,0.0002,0.004,0.0,0.0
+can't stop playing,0.0002,0.0,0.0,0.001,0.0002,0.0012,0.0
+card and joker issues,0.0002,0.0002,0.0,0.0014,0.0028,0.0018,0.0006
+coin master game enjoyment,0.0002,0.0,0.0002,0.0134,0.0022,0.0008,0.0004
+coin master game love,0.0,0.0,0.0,0.002,0.0026,0.0004,0.0002
+cool app experience,0.0,0.0,0.0,0.001,0.0052,0.0,0.0002
+cool game appreciation,0.0,0.0002,0.0,0.0032,0.002,0.0,0.0002
+desire for more spins,0.0006,0.0,0.0002,0.0086,0.0032,0.0032,0.0006
+easy and fun learning,0.0,0.0004,0.0002,0.005,0.0018,0.0,0.0
+easy gameplay experience,0.0,0.0,0.0,0.006,0.0022,0.0004,0.0
+engaging social game,0.0002,0.0,0.0,0.0044,0.0008,0.0,0.0
+enjoyable game experience,0.0,0.0,0.0,0.0036,0.0,0.0,0.0
+enjoying the game,0.0,0.0,0.0,0.006,0.0002,0.0,0.0004
+enjoyment of app,0.0,0.0,0.0,0.0038,0.0004,0.0,0.0
+enjoyment of game,0.0,0.0,0.0,0.0084,0.0,0.0,0.0
+entertaining and profitable,0.0,0.0,0.0,0.0026,0.0,0.0,0.0
+entertainment value,0.0002,0.0004,0.0,0.001,0.002,0.0,0.0
+excellent reviews,0.0,0.0,0.0,0.0036,0.0008,0.0,0.0
+excessive pop-ups complaints,0.0014,0.0008,0.0,0.0006,0.0012,0.0016,0.0012
+"exciting, fast-paced entertainment",0.0,0.0,0.0,0.0038,0.0002,0.0,0.0
+"exciting, tactical gameplay",0.0,0.0,0.0,0.0026,0.0,0.0,0.0
+expressive interjections,0.0,0.0004,0.0,0.001,0.0024,0.0,0.0002
+favorite game app,0.0,0.0,0.0,0.0026,0.0006,0.0,0.0
+favorite games,0.0,0.0,0.0,0.0044,0.0,0.0,0.0
+fun and enjoyment,0.0,0.0,0.0,0.0026,0.0,0.0,0.0
+fun experience,0.0,0.0,0.0,0.0288,0.0008,0.0002,0.0
+fun experience changes,0.0002,0.0,0.0002,0.0034,0.0006,0.0,0.0004
+fun game experience,0.0,0.0002,0.0,0.0046,0.0002,0.0,0.0006
+fun gaming experience,0.0,0.0,0.0,0.003,0.0,0.0,0.0
+fun idle game,0.0,0.0,0.0,0.0022,0.0,0.0,0.0
+game currency management,0.0002,0.0002,0.0,0.0018,0.0004,0.0002,0.0
+game level difficulty & rewards,0.0002,0.0,0.0,0.0024,0.0006,0.0002,0.0002
+general approval,0.0,0.0,0.0,0.0006,0.0028,0.0,0.0
+general feedback,0.0,0.0002,0.0002,0.001,0.0454,0.0004,0.0016
+highly enjoyable,0.0,0.0,0.0,0.0028,0.0002,0.0,0.0
+initial positive impressions,0.0,0.0,0.0,0.0044,0.001,0.0002,0.0
+long-term game enjoyment,0.0,0.0,0.0,0.0008,0.0014,0.0,0.0
+love and enjoyment,0.0,0.0002,0.0,0.0004,0.0002,0.0016,0.0
+love for game,0.0002,0.0,0.0,0.0188,0.0006,0.0002,0.0
+love for the game,0.0,0.0,0.0,0.0098,0.0006,0.0002,0.0
+multilingual reviews,0.0004,0.0002,0.0008,0.0028,0.009,0.0006,0.0002
+negative game reviews,0.0,0.0018,0.0002,0.0,0.0,0.0008,0.0
+neutral/acceptable experience,0.0,0.0,0.0,0.0002,0.0146,0.0,0.0
+nice game reviews,0.0,0.0002,0.0,0.0026,0.0002,0.0,0.0
+pet outfit sets,0.0,0.0,0.0,0.0018,0.0004,0.0,0.0004
+playing with friends,0.0,0.0,0.0,0.014,0.001,0.0004,0.0
+positive app feedback,0.0,0.0002,0.0,0.0064,0.0,0.0,0.0
+positive app reviews,0.0,0.0,0.0,0.0034,0.002,0.0,0.0002
+positive feedback,0.0004,0.0,0.0002,0.044,0.0306,0.0002,0.0022
+positive feedback/reactions,0.0,0.0,0.0,0.0028,0.001,0.0,0.0002
+positive feedback/reviews,0.0,0.0002,0.0,0.0046,0.0016,0.0,0.0
+positive fun experience,0.0,0.0,0.0,0.0042,0.0,0.0,0.0
+positive game feedback,0.0,0.0,0.0,0.0008,0.0022,0.0,0.0
+positive game reviews,0.0,0.0004,0.0,0.0588,0.005,0.0006,0.0006
+positive game updates and experience,0.0002,0.0,0.0,0.0048,0.0002,0.0,0.0
+positive gameplay reviews,0.0,0.0,0.0,0.0,0.0024,0.0,0.0
+positive reactions,0.0,0.0002,0.0,0.0008,0.016,0.0,0.0
+positive recommendations,0.0,0.0,0.0,0.0032,0.0024,0.0,0.0
+praise for game quality,0.0,0.0,0.0,0.003,0.0002,0.0,0.001
+purchase and refund issues,0.0012,0.0004,0.0004,0.0002,0.0014,0.0014,0.001
+relaxation and stress relief,0.0002,0.0,0.0004,0.0056,0.0002,0.0004,0.0002
+reward and bonus issues,0.0002,0.0,0.0,0.0024,0.002,0.0012,0.0002
+satisfaction with quality,0.0,0.0002,0.0,0.0046,0.0008,0.0,0.0
+scam and fraud complaints,0.002,0.0,0.0006,0.0,0.001,0.0004,0.0
+spending money on app,0.0012,0.0012,0.0,0.0062,0.0044,0.0026,0.0016
+spin and event glitches,0.001,0.0004,0.0002,0.0,0.0006,0.0022,0.0016
+starting the game,0.0,0.0,0.0,0.0012,0.0008,0.0002,0.0
+stress relief and relaxation,0.0,0.0,0.0,0.0038,0.0016,0.0002,0.0
+superb quality,0.0,0.0,0.0,0.0002,0.0018,0.0,0.0002
+time killing fun,0.0002,0.0,0.0,0.0038,0.0002,0.0004,0.0
+time passing entertainment,0.0,0.0004,0.0,0.0048,0.0036,0.0002,0.0002
+village building game experience,0.0002,0.0002,0.0,0.0044,0.0002,0.0,0.0006

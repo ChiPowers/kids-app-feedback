@@ -1,0 +1,87 @@
+merged_topic_label,anger,disgust,fear,joy,neutral,sadness,surprise
+Unknown,0.0256,0.025,0.0034,0.0944,0.0624,0.0282,0.0128
+addictive gameplay,0.0016,0.0008,0.0,0.0014,0.002,0.0008,0.0
+alliance and teamwork,0.0002,0.0004,0.0,0.0014,0.001,0.0002,0.0004
+app scam & fraud,0.0012,0.0006,0.0004,0.0002,0.0008,0.0002,0.0
+building upgrades,0.0,0.0,0.0,0.001,0.0012,0.0004,0.0
+casual acknowledgments,0.0,0.0002,0.0,0.0004,0.006,0.0,0.0
+dragonspire content,0.0014,0.0018,0.0002,0.0024,0.0048,0.0012,0.0004
+earning via apps,0.0,0.0002,0.0,0.0014,0.0014,0.0,0.0002
+empire building,0.0002,0.0008,0.0004,0.0058,0.003,0.0004,0.0008
+enjoyable challenges,0.0,0.0,0.0004,0.0078,0.0022,0.0004,0.0006
+enjoyable entertainment,0.0,0.0,0.0,0.002,0.0002,0.0,0.0
+enjoyable experience,0.0,0.0,0.0,0.0174,0.0006,0.0,0.0
+enjoyable game,0.0,0.0,0.0,0.0038,0.0002,0.0,0.0002
+enjoyable gameplay,0.0,0.0,0.0,0.0072,0.0004,0.0,0.0
+enjoyable graphics,0.0002,0.0006,0.0,0.0172,0.0014,0.0002,0.0004
+enjoyment and fun,0.0,0.0002,0.0,0.0086,0.0002,0.0,0.0
+entertainment and relaxation,0.0002,0.0,0.0,0.0036,0.0016,0.0002,0.0
+excessive ads,0.003,0.0024,0.0002,0.0044,0.0072,0.0044,0.0006
+f2p & p2p balance,0.0004,0.0004,0.0,0.0014,0.0004,0.0006,0.0
+fairness and matchmaking issues,0.0014,0.001,0.0002,0.0,0.0012,0.0006,0.0
+fantasy rpg adventure,0.0,0.0,0.0,0.0034,0.0014,0.0,0.0002
+fun and addictive gameplay,0.0,0.0,0.0,0.0034,0.0,0.0,0.0
+fun and entertaining,0.0,0.0,0.0,0.0024,0.0016,0.0004,0.0
+fun game,0.0002,0.0,0.0,0.0098,0.0006,0.0,0.0
+game addiction,0.0006,0.0008,0.0,0.0064,0.0008,0.0004,0.0006
+game combat experience,0.0,0.0,0.0,0.003,0.0006,0.0,0.0
+game engagement,0.0,0.0,0.0,0.0006,0.0016,0.0,0.0004
+game enjoyment,0.0,0.0,0.0,0.0062,0.0,0.0,0.0
+game mechanics frustration,0.0014,0.0006,0.0002,0.0002,0.002,0.0006,0.0002
+game performance and access,0.0008,0.001,0.0,0.0012,0.0176,0.0004,0.0004
+game praise,0.0,0.0,0.0,0.0052,0.0008,0.0,0.0
+game quality and features,0.0,0.0,0.0,0.003,0.0006,0.0,0.0
+game ratings and reviews,0.0004,0.0002,0.0002,0.0004,0.0018,0.0006,0.0
+gameplay enjoyment,0.0,0.0,0.0,0.0062,0.0008,0.0002,0.0
+hero acquisition & spending,0.0002,0.0004,0.0,0.0006,0.0008,0.0018,0.0004
+hero and minion balance,0.0016,0.0018,0.0,0.0006,0.0028,0.0016,0.0004
+hero progression,0.001,0.0002,0.0,0.0008,0.0018,0.0002,0.0004
+humorous content,0.0,0.0002,0.0,0.0008,0.0004,0.0,0.0008
+in-app purchases,0.0042,0.005,0.0,0.012,0.013,0.0052,0.0008
+in-game ads and clutter,0.0012,0.002,0.0,0.0014,0.003,0.0008,0.0006
+in-game currency & progression,0.0004,0.001,0.0,0.0008,0.0012,0.0022,0.0004
+leveling difficulty,0.0002,0.0008,0.0002,0.0036,0.0016,0.0006,0.0
+long-term mobile gaming,0.0,0.0,0.0,0.0018,0.001,0.0002,0.0002
+longtime player appreciation,0.0,0.0,0.0,0.004,0.001,0.0004,0.0008
+match-3 rpg elements,0.0004,0.0002,0.0002,0.0052,0.0036,0.001,0.0002
+mixed feedback,0.0,0.0002,0.0,0.0004,0.002,0.0002,0.0
+mixed feelings,0.0,0.0008,0.0,0.0006,0.0098,0.0,0.0
+mobile gaming fun,0.0,0.0,0.0,0.0064,0.0006,0.0002,0.0
+negative gaming experience,0.0,0.0,0.0,0.0002,0.0012,0.0006,0.0
+outstanding quality,0.0,0.0,0.0,0.001,0.002,0.0,0.0004
+overall positive feedback,0.0002,0.0006,0.0,0.0034,0.0026,0.0,0.0002
+pay-to-win concerns,0.0002,0.0002,0.0,0.0,0.0024,0.0,0.0
+player appreciation,0.0,0.0002,0.0,0.006,0.0,0.0,0.0
+poor customer support,0.0006,0.0006,0.0002,0.0002,0.0018,0.0018,0.0006
+positive app praise,0.0002,0.0,0.0,0.0022,0.0018,0.0,0.0
+positive enjoyment,0.0,0.0,0.0,0.0034,0.0,0.0002,0.0
+positive experience,0.0,0.0,0.0,0.0096,0.0,0.0,0.0
+positive feedback,0.0,0.0002,0.0,0.0136,0.024,0.0002,0.0002
+positive game experience,0.0,0.0,0.0,0.0052,0.0,0.0002,0.0
+positive game feedback,0.0004,0.0016,0.0004,0.0584,0.003,0.0016,0.0004
+positive game feelings,0.0,0.0,0.0,0.0072,0.0004,0.0,0.0
+positive gaming experience,0.0,0.0,0.0,0.0078,0.0002,0.0,0.0
+positive impressions,0.0,0.0002,0.0,0.0006,0.0056,0.0,0.0
+positive praise,0.0,0.0002,0.0,0.0092,0.0144,0.0,0.0036
+positive sentiment,0.0,0.0,0.0,0.0022,0.0104,0.0,0.0
+positive sentiment toward game,0.0,0.0,0.0,0.0038,0.0,0.0,0.0
+puzzle & rpg fun,0.0,0.0002,0.0002,0.0114,0.0032,0.0006,0.0002
+raid battles,0.002,0.0012,0.0002,0.001,0.0028,0.0014,0.0004
+relaxing gaming,0.0,0.0,0.0,0.0024,0.0002,0.0,0.0
+reward and vip issues,0.0006,0.0,0.0,0.0006,0.0016,0.0014,0.0002
+slow animation and progress,0.0,0.0,0.0,0.0002,0.001,0.0008,0.0004
+sound control issues,0.0012,0.0004,0.0,0.0002,0.0032,0.0006,0.001
+stress relief and relaxation,0.0,0.0,0.0,0.0022,0.0008,0.0,0.0
+summoning & gacha,0.0018,0.002,0.0,0.0032,0.0068,0.0036,0.001
+thrilling experience,0.0,0.0,0.0,0.0028,0.0008,0.0,0.0002
+time killers,0.0006,0.0,0.0,0.006,0.003,0.0002,0.0004
+top-rated game,0.0,0.0,0.0,0.0028,0.004,0.0002,0.0004
+tutorial issues,0.0008,0.002,0.0,0.0004,0.0036,0.0016,0.0002
+unwanted app installations,0.001,0.0008,0.0,0.0,0.0018,0.0004,0.0002
+update issues,0.0018,0.0006,0.0004,0.0016,0.0088,0.0178,0.0034
+user appreciation,0.0,0.0004,0.0,0.0042,0.0002,0.0002,0.0
+user experience,0.0002,0.001,0.0004,0.0038,0.0008,0.0014,0.0002
+user satisfaction,0.0002,0.0,0.0,0.0002,0.0016,0.0,0.0002
+user-friendly gameplay,0.0,0.0,0.0,0.0012,0.001,0.0,0.0
+wwe game issues,0.0002,0.0004,0.0,0.0006,0.0012,0.001,0.0002
+zynga's impact,0.0006,0.0006,0.0002,0.0006,0.0008,0.0004,0.0006

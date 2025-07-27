@@ -1,0 +1,87 @@
+merged_topic_label,negative_proportion,total_reviews,pain_point_flag
+Unknown,0.32644956314535345,1259,False
+addictive gameplay,0.48484848484848486,33,True
+alliance and teamwork,0.2222222222222222,18,False
+app scam & fraud,0.7058823529411765,17,True
+building upgrades,0.15384615384615385,13,False
+casual acknowledgments,0.030303030303030304,33,False
+dragonspire content,0.3770491803278688,61,False
+earning via apps,0.0625,16,False
+empire building,0.15789473684210525,57,False
+enjoyable challenges,0.07017543859649122,57,False
+enjoyable entertainment,0.0,11,False
+enjoyable experience,0.0,90,False
+enjoyable game,0.0,21,False
+enjoyable gameplay,0.0,38,False
+enjoyable graphics,0.05,100,False
+enjoyment and fun,0.022222222222222223,45,False
+entertainment and relaxation,0.07142857142857142,28,False
+excessive ads,0.45045045045045046,111,True
+f2p & p2p balance,0.4375,16,True
+fairness and matchmaking issues,0.7272727272727273,22,True
+fantasy rpg adventure,0.0,25,False
+fun and addictive gameplay,0.0,17,False
+fun and entertaining,0.09090909090909091,22,False
+fun game,0.018867924528301886,53,False
+game addiction,0.1875,48,False
+game combat experience,0.0,18,False
+game engagement,0.0,13,False
+game enjoyment,0.0,31,False
+game mechanics frustration,0.5384615384615384,26,True
+game performance and access,0.102803738317757,107,False
+game praise,0.0,30,False
+game quality and features,0.0,18,False
+game ratings and reviews,0.3888888888888889,18,False
+gameplay enjoyment,0.027777777777777776,36,False
+hero acquisition & spending,0.5714285714285714,21,True
+hero and minion balance,0.5681818181818182,44,True
+hero progression,0.3181818181818182,22,False
+humorous content,0.09090909090909091,11,False
+in-app purchases,0.3582089552238806,201,False
+in-game ads and clutter,0.4444444444444444,45,True
+in-game currency & progression,0.6,30,True
+leveling difficulty,0.2571428571428571,35,False
+long-term mobile gaming,0.0625,16,False
+longtime player appreciation,0.06451612903225806,31,False
+match-3 rpg elements,0.16666666666666666,54,False
+mixed feedback,0.14285714285714285,14,False
+mixed feelings,0.07142857142857142,56,False
+mobile gaming fun,0.027777777777777776,36,False
+negative gaming experience,0.3,10,False
+outstanding quality,0.0,17,False
+overall positive feedback,0.11428571428571428,35,False
+pay-to-win concerns,0.14285714285714285,14,False
+player appreciation,0.03225806451612903,31,False
+poor customer support,0.5517241379310345,29,True
+positive app praise,0.047619047619047616,21,False
+positive enjoyment,0.05555555555555555,18,False
+positive experience,0.0,48,False
+positive feedback,0.010471204188481676,191,False
+positive game experience,0.037037037037037035,27,False
+positive game feedback,0.060790273556231005,329,False
+positive game feelings,0.0,38,False
+positive gaming experience,0.0,40,False
+positive impressions,0.03125,32,False
+positive praise,0.0072992700729927005,137,False
+positive sentiment,0.0,63,False
+positive sentiment toward game,0.0,19,False
+puzzle & rpg fun,0.06329113924050633,79,False
+raid battles,0.5333333333333333,45,True
+relaxing gaming,0.0,13,False
+reward and vip issues,0.45454545454545453,22,True
+slow animation and progress,0.3333333333333333,12,False
+sound control issues,0.3333333333333333,33,False
+stress relief and relaxation,0.0,15,False
+summoning & gacha,0.40217391304347827,92,True
+thrilling experience,0.0,19,False
+time killers,0.0784313725490196,51,False
+top-rated game,0.02702702702702703,37,False
+tutorial issues,0.5116279069767442,43,True
+unwanted app installations,0.5238095238095238,21,True
+update issues,0.5988372093023255,172,True
+user appreciation,0.12,25,False
+user experience,0.38461538461538464,39,False
+user satisfaction,0.09090909090909091,11,False
+user-friendly gameplay,0.0,11,False
+wwe game issues,0.4444444444444444,18,True
+zynga's impact,0.47368421052631576,19,True

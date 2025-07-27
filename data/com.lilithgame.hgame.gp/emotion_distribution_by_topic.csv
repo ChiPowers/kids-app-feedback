@@ -1,0 +1,92 @@
+merged_topic_label,anger,disgust,fear,joy,neutral,sadness,surprise
+"""addictive fun""",0.0,0.0,0.0,0.0034,0.0,0.0,0.0002
+"""addictive gameplay""",0.0002,0.001,0.0,0.0008,0.0022,0.0008,0.0
+"""app quality and features""",0.0,0.0,0.0,0.0002,0.0028,0.0,0.0
+"""average user satisfaction""",0.0002,0.0,0.0,0.0,0.003,0.0002,0.0
+"""best game ever""",0.0,0.0004,0.0,0.0014,0.0014,0.0,0.0006
+"""boring app experience""",0.0,0.0008,0.0002,0.0002,0.0006,0.0008,0.0002
+"""cool"" reactions",0.0,0.0,0.0,0.0004,0.0072,0.0,0.0
+"""enjoyable fun experience""",0.0,0.0,0.0,0.0046,0.0,0.0,0.0002
+"""fun and entertaining""",0.0,0.0,0.0,0.0054,0.0,0.0,0.0
+"""fun gameplay experience""",0.0,0.0,0.0,0.0048,0.0006,0.0,0.0
+"""gacha game criticisms""",0.0004,0.0006,0.0,0.0022,0.0012,0.0008,0.0
+"""mixed quality feedback""",0.0,0.0032,0.0,0.0,0.0012,0.0002,0.0
+"""p2w (pay-to-win) criticism""",0.0004,0.0004,0.0,0.0014,0.002,0.001,0.0
+"""rimuru character requests""",0.0,0.0002,0.0,0.0004,0.0054,0.0014,0.0008
+"""solid pay-to-win game""",0.0,0.0,0.0,0.0014,0.0008,0.0,0.0
+"""time wasting apps""",0.0002,0.0004,0.0,0.002,0.0004,0.0002,0.0
+Unknown,0.0038,0.009,0.0014,0.0952,0.059,0.0164,0.01
+account and purchases issues,0.0,0.0,0.0,0.0,0.0022,0.0,0.0
+account recovery issues,0.0034,0.0014,0.0004,0.004,0.01,0.0178,0.0044
+addictive gameplay experience,0.0,0.0,0.0002,0.0098,0.0022,0.0014,0.0
+affirmative responses,0.0,0.0004,0.0,0.0,0.0022,0.0,0.0
+afk arena game issues,0.0022,0.0026,0.0002,0.0164,0.0114,0.0036,0.0014
+anime character crossovers,0.0,0.0,0.0,0.0036,0.0004,0.0002,0.0
+app permissions and updates,0.0002,0.0004,0.0002,0.0042,0.0012,0.0,0.0
+appreciation for coolness,0.0,0.0,0.0,0.0022,0.0,0.0,0.0
+appreciation of coolness,0.0002,0.0,0.0,0.0014,0.0006,0.0,0.0008
+art and gameplay appreciation,0.0,0.0,0.0,0.0068,0.001,0.0002,0.0
+artistic style appreciation,0.0,0.0,0.0,0.0018,0.001,0.0,0.0
+awesome game reviews,0.0,0.0,0.0,0.003,0.0002,0.0,0.0
+best game reviews,0.0,0.0,0.0,0.0026,0.0016,0.0002,0.0002
+casual gameplay experience,0.0,0.0,0.0,0.0014,0.0008,0.0,0.0
+character design and storyline,0.0,0.0,0.0,0.0112,0.0018,0.0004,0.0006
+chat feature complaints,0.0004,0.001,0.0002,0.0004,0.002,0.0006,0.0004
+classic vs companion mode,0.0,0.0004,0.0,0.0008,0.0012,0.0002,0.0002
+code redemption issues,0.0006,0.0002,0.0,0.0006,0.001,0.0004,0.0002
+cool game reviews,0.0,0.0,0.0,0.0046,0.0012,0.0,0.0
+easy and fun gameplay,0.0,0.0,0.0,0.0072,0.0012,0.0002,0.0002
+easy and fun learning,0.0,0.0,0.0,0.0038,0.0014,0.0004,0.0
+emoji reactions,0.0,0.0002,0.0,0.0004,0.0116,0.0,0.0
+enjoyable gameplay experience,0.0,0.0,0.0,0.0046,0.001,0.0,0.0
+enjoyable leisure time,0.0,0.0002,0.0,0.0036,0.0008,0.0,0.0
+f2p friendly and loading times,0.0002,0.0002,0.0,0.003,0.002,0.0,0.0004
+fun experience,0.0,0.0,0.0,0.0218,0.0004,0.0,0.0002
+fun for diamonds,0.0,0.0,0.0,0.0024,0.0,0.0,0.0
+fun game experience,0.0002,0.0,0.0,0.0018,0.0,0.0002,0.0
+fun interactive game,0.0,0.0,0.0,0.0056,0.0002,0.0,0.0
+fun strategic game,0.0004,0.0004,0.0,0.0122,0.0014,0.0002,0.0
+game love,0.0,0.0002,0.0,0.006,0.0002,0.0004,0.0
+game quality opinions,0.0,0.0,0.0,0.0014,0.0012,0.0004,0.0
+game rewards and diamonds,0.0002,0.0002,0.0,0.0022,0.0028,0.0004,0.0004
+gameplay experience evaluation,0.0,0.0002,0.0002,0.0,0.0022,0.0,0.0
+gameplay grind experience,0.0,0.0002,0.0,0.0012,0.0016,0.0002,0.0
+general positive feedback,0.0,0.0,0.0,0.0022,0.001,0.0,0.0004
+great game experience,0.0,0.0,0.0,0.014,0.0,0.0002,0.0
+great graphics and gaming experience,0.0,0.0,0.0,0.0022,0.0004,0.0,0.0002
+hero acquisition difficulty,0.0004,0.0008,0.0002,0.0092,0.007,0.001,0.0018
+high quality praise,0.0,0.0002,0.0,0.0004,0.004,0.0,0.0
+highly recommended fun,0.0,0.0,0.0,0.0058,0.0,0.0,0.0
+idle rpg games,0.0,0.0,0.0,0.0022,0.0018,0.0006,0.0
+indifferent or uncertain responses,0.0,0.0018,0.0,0.0004,0.0014,0.0,0.0002
+initial enjoyment of app,0.0,0.0,0.0,0.0072,0.0,0.0,0.0
+initial impressions,0.0,0.0,0.0,0.0024,0.0008,0.0,0.0
+initial positive impressions,0.0,0.0,0.0,0.0048,0.0006,0.0,0.0002
+initial user experience,0.0,0.0,0.0,0.0018,0.0002,0.0002,0.0002
+leisure gaming experience,0.0,0.0,0.0,0.0002,0.0044,0.0002,0.0
+lilith games server issues,0.0006,0.001,0.0,0.0008,0.0016,0.0008,0.0002
+long-term enjoyment of game,0.0,0.0,0.0,0.0022,0.0002,0.0,0.0
+long-term gameplay experience,0.0,0.0,0.0,0.0014,0.0002,0.0002,0.0002
+lots of fun activities,0.0,0.0,0.0,0.0024,0.0,0.0,0.0
+love for the game,0.0,0.0,0.0,0.0036,0.0004,0.0002,0.0004
+misleading game ads,0.0002,0.0004,0.0004,0.0024,0.001,0.0002,0.0006
+mobile game satisfaction,0.0,0.0002,0.0,0.0036,0.0012,0.0006,0.0008
+negative game reviews,0.0,0.0014,0.0,0.0004,0.0002,0.001,0.0
+neutral/apologetic feedback,0.0,0.0,0.0,0.0,0.0036,0.0002,0.0
+non-english reviews,0.0002,0.0002,0.0,0.0006,0.0064,0.0,0.0004
+pay-to-win complaints,0.0002,0.0006,0.0002,0.0018,0.0034,0.001,0.0008
+positive affection,0.0,0.0,0.0,0.0024,0.0078,0.0,0.0
+positive app feedback,0.0,0.0,0.0,0.0148,0.0026,0.0,0.0004
+positive feedback,0.0,0.0,0.0,0.0182,0.0556,0.0,0.002
+positive feedback/love for app,0.0,0.0,0.0,0.002,0.0002,0.0,0.0002
+positive game reviews,0.0002,0.0014,0.0,0.0678,0.0094,0.001,0.0028
+positive reactions,0.0004,0.0002,0.0,0.0032,0.0038,0.0,0.0038
+positive reviews,0.0,0.0004,0.0,0.0,0.0142,0.0,0.0
+promised 1000 summons complaints,0.0004,0.0006,0.0,0.0004,0.0022,0.0002,0.0004
+requesting more gems/diamonds,0.0,0.0,0.0,0.0014,0.0072,0.0002,0.0002
+rpg game praise,0.0,0.0002,0.0,0.0018,0.0008,0.0002,0.0
+star rating changes,0.0,0.0006,0.0,0.0018,0.0036,0.0014,0.0006
+time-killing games,0.0002,0.0002,0.0004,0.0088,0.0038,0.0002,0.0
+update and loading issues,0.0012,0.003,0.0006,0.0042,0.0216,0.0228,0.0034
+very good game reviews,0.0,0.0,0.0,0.006,0.0,0.0,0.0002
+waifu and lover discussion,0.0,0.0,0.0,0.0,0.0062,0.0,0.0

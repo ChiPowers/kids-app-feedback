@@ -1,0 +1,93 @@
+merged_topic_label,negative_proportion,total_reviews,pain_point_flag
+Unknown,0.2765432098765432,1215,False
+account login issues,0.6,40,True
+ad-related frustrations,0.38095238095238093,105,False
+addictive gameplay,0.44,25,True
+american pride,0.0,12,False
+app bugs and glitches,0.7083333333333334,24,True
+app crashes and stability,0.6756756756756757,37,True
+app recommendations,0.1935483870967742,31,False
+boring game,0.6923076923076923,26,True
+build your dream city,0.05128205128205128,39,False
+building and construction,0.07142857142857142,42,False
+building and resource management,0.4,10,False
+casual compliments,0.0,15,False
+cheating and hacking,0.4222222222222222,45,True
+city building & customization,0.24,25,False
+city building & management,0.10714285714285714,56,False
+city building challenges,0.29411764705882354,17,False
+city building game,0.15,20,False
+city building simulation,0.125,16,False
+city development and growth,0.42857142857142855,21,True
+city management,0.1111111111111111,18,False
+city skyline imitations,0.08450704225352113,71,False
+city-building games,0.21787709497206703,179,False
+classic favorites,0.02564102564102564,39,False
+customer appreciation,0.0,11,False
+customer praise,0.0,38,False
+engaging strategy game,0.0,18,False
+enjoyable experience,0.0,44,False
+enjoyment and fun,0.0,32,False
+exciting game praise,0.0,17,False
+favorite game,0.0,87,False
+financial management and loans,0.11764705882352941,17,False
+fun idle game,0.0,15,False
+game addiction,0.12,25,False
+game complaints,0.07142857142857142,42,False
+game difficulty and simplicity,0.2857142857142857,14,False
+game enjoyment,0.09090909090909091,11,False
+game monetization concerns,0.717948717948718,39,True
+game progress & challenges,0.1111111111111111,27,False
+gameplay enjoyment,0.09090909090909091,11,False
+global trade issues,0.4782608695652174,92,True
+graphics quality,0.045454545454545456,44,False
+greatest game,0.0,14,False
+in-game currency & contests,0.6632653061224489,98,True
+in-game purchases,0.43119266055045874,109,True
+loading and startup issues,0.5833333333333334,36,True
+longtime player enjoyment,0.09090909090909091,44,False
+mixed acknowledgments,0.1111111111111111,18,False
+mixed feedback,0.125,16,False
+mixed game opinions,0.13333333333333333,15,False
+mobile gaming,0.07692307692307693,26,False
+negative game experience,0.925,40,True
+negative update feedback,0.717948717948718,78,True
+offline connectivity issues,0.1896551724137931,58,False
+performance issues,0.6774193548387096,31,True
+player affection,0.0,37,False
+player appreciation,0.0,14,False
+player enjoyment,0.0,21,False
+player satisfaction,0.0,15,False
+poor quality,0.8888888888888888,18,True
+positive enthusiasm,0.02857142857142857,35,False
+positive experience,0.07142857142857142,28,False
+positive feedback,0.013227513227513227,378,False
+positive feelings,0.038461538461538464,26,False
+positive food experiences,0.0,29,False
+positive game experience,0.021739130434782608,92,False
+positive game experiences,0.0,30,False
+positive game feedback,0.005319148936170213,188,False
+positive game reviews,0.0,41,False
+positive gaming experience,0.00909090909090909,110,False
+positive greetings,0.0,14,False
+positive impressions,0.0392156862745098,51,False
+positive reactions,0.0,65,False
+positive sentiment,0.0,12,False
+production time issues,0.17647058823529413,17,False
+progression and grinding,0.36363636363636365,11,False
+realism and authenticity,0.0625,16,False
+reward and earnings concerns,0.5,52,True
+server connectivity issues,0.2777777777777778,18,False
+server issues,0.07692307692307693,13,False
+slow progress,0.29411764705882354,17,False
+storage limitations,0.4,45,False
+stress relief and relaxation,0.047619047619047616,21,False
+time-killing games,0.10638297872340426,47,False
+top games,0.03225806451612903,31,False
+top simulator experience,0.0,17,False
+top-rated games,0.07692307692307693,13,False
+train system issues,0.5897435897435898,39,True
+transportation infrastructure,0.18309859154929578,71,False
+ui size & icon visibility,0.45454545454545453,11,True
+user ratings and feedback,0.29545454545454547,44,False
+zoom and view features,0.05555555555555555,18,False

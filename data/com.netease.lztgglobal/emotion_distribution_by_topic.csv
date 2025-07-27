@@ -1,0 +1,94 @@
+merged_topic_label,anger,disgust,fear,joy,neutral,sadness,surprise
+Unknown,0.0188,0.0146,0.0042,0.0772,0.1132,0.0596,0.0238
+account recovery issues,0.0006,0.0,0.0,0.0,0.001,0.002,0.001
+app crashes,0.0002,0.0,0.0002,0.0002,0.001,0.005,0.0004
+app discontinuation,0.0002,0.0002,0.0,0.0,0.0008,0.0012,0.0004
+app not opening,0.0002,0.0,0.0,0.0,0.0014,0.0032,0.0004
+app quality,0.0,0.0,0.0,0.0012,0.0032,0.0002,0.0002
+app shutdown sadness,0.0006,0.0002,0.0002,0.0,0.0004,0.0016,0.0
+app size concerns,0.0004,0.0002,0.0,0.001,0.0034,0.0016,0.0008
+battle royale features,0.0,0.0002,0.0,0.003,0.002,0.0004,0.0006
+battle royale gameplay,0.0,0.0002,0.0002,0.0028,0.0016,0.0008,0.0002
+bot match issues,0.0,0.0006,0.0,0.0004,0.0024,0.0012,0.0
+bug reports and glitches,0.0002,0.0,0.0,0.0002,0.002,0.0008,0.0002
+call of duty comparisons,0.0,0.0008,0.0,0.0018,0.0014,0.0002,0.0008
+character customization and outfits,0.0,0.0004,0.0,0.0012,0.0006,0.0,0.0004
+cheater complaints,0.001,0.0006,0.0,0.0004,0.0012,0.0004,0.0
+cheating and cheaters,0.0016,0.0032,0.0,0.0004,0.0026,0.0002,0.0006
+cheating and developer response,0.001,0.0018,0.0,0.0,0.0008,0.0006,0.0002
+cheating issues,0.002,0.0014,0.0,0.0016,0.0022,0.0016,0.0
+controller support,0.0,0.0,0.0,0.0002,0.0014,0.0002,0.0004
+cr7 op,0.0,0.0,0.0,0.0,0.0024,0.0,0.0
+cross-platform play,0.0018,0.0,0.0,0.0014,0.0026,0.0016,0.001
+customer love and suspense,0.0,0.0,0.0002,0.0008,0.0016,0.0,0.0
+cyber hunter appreciation,0.0008,0.0004,0.0002,0.008,0.0098,0.0028,0.001
+download delays,0.0002,0.0004,0.0,0.0002,0.0006,0.001,0.0002
+download problems,0.0002,0.0,0.0,0.0,0.0028,0.0028,0.0002
+download size and data usage,0.0002,0.0008,0.0,0.0014,0.0012,0.0014,0.001
+download/installation issues,0.0002,0.0,0.0,0.0,0.0012,0.0016,0.0006
+enjoyable fun,0.0002,0.0004,0.0,0.004,0.0,0.0008,0.0002
+enjoyable game,0.0,0.0002,0.0,0.005,0.0006,0.0002,0.0
+expressive reactions,0.0,0.0,0.0,0.0004,0.0004,0.0,0.0048
+file retrieval errors,0.0004,0.0002,0.0,0.0,0.0004,0.0012,0.0006
+fortnite comparisons,0.0002,0.0002,0.0,0.0008,0.0022,0.0,0.0
+frame rate & performance,0.0,0.0002,0.0,0.0004,0.0014,0.0006,0.0002
+future and leadership,0.0,0.0002,0.0,0.0004,0.0068,0.0002,0.0
+game glitches and bugs,0.0002,0.0,0.0,0.0006,0.0004,0.0008,0.0006
+game graphics and cheating,0.0,0.0,0.0002,0.0,0.0016,0.0002,0.0
+game issues and updates,0.0,0.0002,0.0002,0.0,0.003,0.0,0.0
+game preference and comparisons,0.0008,0.0002,0.0,0.0026,0.0036,0.0008,0.0
+game quality and pricing,0.0,0.0,0.0,0.0026,0.0004,0.0,0.0
+game references,0.0,0.0002,0.0002,0.0004,0.0016,0.0,0.0
+game revival,0.0002,0.0,0.0,0.0002,0.0026,0.0008,0.0
+game service & performance,0.0002,0.0,0.0,0.0006,0.0008,0.001,0.0002
+game size concerns,0.0,0.0,0.0,0.001,0.001,0.0006,0.0002
+gameplay experience,0.0,0.0,0.0,0.002,0.0,0.0004,0.0006
+gameplay mechanics and controls,0.001,0.0006,0.0,0.0018,0.002,0.0016,0.0008
+good luck and chance,0.0,0.0002,0.0,0.0008,0.002,0.0,0.0
+graphics and visuals,0.0,0.0004,0.0,0.0126,0.0026,0.0014,0.0008
+hacker issues,0.0024,0.0026,0.0002,0.0052,0.0072,0.0074,0.0028
+hackers and cheating,0.0004,0.0008,0.0,0.0002,0.0016,0.0016,0.0002
+hacking and cheating reports,0.0004,0.0,0.0002,0.0,0.001,0.0002,0.0002
+login issues,0.0,0.0004,0.0002,0.0,0.0004,0.0026,0.0
+loot drop rates,0.0,0.0,0.0,0.0002,0.0022,0.0018,0.0008
+map expansion requests,0.0,0.0002,0.0,0.0016,0.0044,0.0018,0.0002
+matching delay,0.0004,0.0002,0.0002,0.0014,0.0076,0.0052,0.0014
+minimal feedback,0.0002,0.0,0.0,0.0,0.0052,0.0,0.0004
+mixed game feedback,0.0,0.0002,0.0,0.0042,0.001,0.0,0.0
+mixed or neutral feedback,0.0,0.0,0.0,0.0002,0.0234,0.0,0.0
+mixed reactions and humor,0.0002,0.0,0.0,0.0006,0.0024,0.0,0.0
+mixed/neutral feedback,0.0,0.0026,0.0,0.0,0.0002,0.0002,0.0
+negative content/trash,0.0002,0.0008,0.0,0.0,0.0012,0.0,0.0
+negative experience,0.0,0.0024,0.0004,0.0002,0.0002,0.0002,0.0002
+negative game experience,0.0016,0.0078,0.0004,0.0002,0.0008,0.0026,0.0
+performance and stability,0.0,0.0002,0.0002,0.0002,0.013,0.0,0.0002
+performance issues,0.0004,0.0004,0.0,0.0018,0.0042,0.0082,0.0
+player affection,0.0,0.0,0.0,0.0066,0.0,0.0008,0.0
+player appreciation,0.0002,0.0,0.0002,0.0068,0.001,0.0006,0.0
+player enjoyment,0.0,0.0,0.0,0.0032,0.0006,0.0,0.0
+pokemon and gaming excitement,0.0,0.0,0.0,0.0002,0.0028,0.0,0.0002
+popular game praise,0.0,0.0006,0.0,0.0006,0.0056,0.0002,0.0006
+positive app experience,0.0,0.0,0.0,0.0006,0.0002,0.0002,0.0016
+positive excitement,0.0,0.001,0.0,0.0002,0.0038,0.0002,0.001
+positive feedback,0.0,0.0,0.0004,0.008,0.0268,0.0,0.0
+positive feelings,0.0,0.0,0.0,0.0048,0.0018,0.0002,0.0
+positive game feedback,0.0,0.0002,0.0,0.0376,0.0034,0.0002,0.0
+positive impressions,0.0002,0.0004,0.0,0.01,0.002,0.0006,0.0014
+positive praise,0.0,0.0,0.0,0.0038,0.0066,0.0,0.0004
+pubg copy concerns,0.0004,0.0002,0.0,0.0028,0.0034,0.0006,0.0002
+rating and reviews,0.0002,0.0002,0.0,0.0048,0.0028,0.0012,0.001
+religious references,0.0,0.0,0.0,0.0,0.0042,0.0,0.0
+rules of survival,0.0002,0.0,0.0004,0.0002,0.002,0.0002,0.0002
+security concerns,0.0012,0.0002,0.0,0.0002,0.0048,0.0006,0.001
+server connection issues,0.0,0.0,0.0,0.0002,0.0008,0.0022,0.0
+shooting games,0.0,0.0,0.0,0.0016,0.0006,0.0,0.0
+top-rated game,0.0,0.0,0.0,0.0056,0.009,0.0004,0.0014
+unintelligible or nonsensical content,0.0,0.0,0.0004,0.0002,0.0014,0.0,0.0
+update concerns,0.0,0.0008,0.0,0.0036,0.006,0.0018,0.002
+user affection,0.0,0.0,0.0,0.0024,0.0018,0.0,0.0
+user experience frustration,0.0002,0.0006,0.0006,0.0024,0.0108,0.0008,0.0004
+user favorites,0.0,0.0002,0.0,0.002,0.0,0.0,0.0
+usernames and names,0.0,0.0004,0.0,0.0002,0.0188,0.0,0.0004
+visual effects,0.0,0.0,0.0,0.001,0.0034,0.0,0.0
+технические проблемы и несправедливость,0.0,0.0,0.0,0.0,0.0022,0.0,0.0
+تجربة اللعبة,0.0008,0.0004,0.001,0.0002,0.0202,0.0,0.0002

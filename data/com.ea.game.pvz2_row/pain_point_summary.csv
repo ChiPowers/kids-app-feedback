@@ -1,0 +1,72 @@
+merged_topic_label,negative_proportion,total_reviews,pain_point_flag
+2d multiplayer game,0.16666666666666666,12,False
+Unknown,0.27004608294930876,1085,False
+account recovery,0.5905511811023622,254,True
+ad complaints,0.5806451612903226,31,True
+ad overload,0.42105263157894735,19,True
+app distraction issues,0.1,20,False
+app opening issues,0.6666666666666666,15,True
+arena cheating and bugs,0.47368421052631576,57,True
+best game ever,0.0625,32,False
+childhood nostalgia,0.15384615384615385,130,False
+classic games,0.3333333333333333,12,False
+customer appreciation,0.0,18,False
+cute and playful,0.05263157894736842,19,False
+daily rewards & claims,0.5208333333333334,48,True
+data usage and performance,0.3076923076923077,39,False
+difficulty and ease,0.6666666666666666,15,True
+difficulty and progression,0.28169014084507044,71,False
+download issues,0.5714285714285714,70,True
+enjoyable gameplay,0.0,13,False
+entertainment and fun,0.09803921568627451,51,False
+epic cinema,0.0,17,False
+excessive ads,0.5266272189349113,169,True
+excessive advertisements,0.17647058823529413,17,False
+excessive and annoying ads,0.47058823529411764,17,True
+excitement and surprise,0.0,13,False
+game bugs,0.28125,32,False
+game bugs and glitches,0.1,70,False
+game content & updates,0.266304347826087,368,False
+game crashes and bugs,0.43137254901960786,51,True
+game difficulty,0.37037037037037035,27,False
+game quality,0.125,16,False
+game stability and ratings,0.35,20,False
+gameplay and boredom,0.17647058823529413,17,False
+gameplay bugs,0.4166666666666667,36,True
+gaming brains & goat,0.2413793103448276,29,False
+general acknowledgment,0.043478260869565216,23,False
+juego divertido,0.17543859649122806,57,False
+loading/startup issues,0.5072463768115942,69,True
+map and content updates,0.2777777777777778,18,False
+microtransactions and pay-to-win,0.4883720930232558,43,True
+mixed feelings,0.0,29,False
+mixed opinions,0.4117647058823529,34,True
+negative game experience,0.8125,16,True
+nostalgia for pvz games,0.23318385650224216,223,False
+offline and online gaming,0.07142857142857142,28,False
+pay-to-win concerns,0.16,50,False
+player enjoyment,0.012048192771084338,83,False
+player favorites,0.0,24,False
+positive feedback,0.01744186046511628,172,False
+positive game experience,0.0,94,False
+positive game experiences,0.0,33,False
+positive game feedback,0.05660377358490566,159,False
+positive impressions,0.0,52,False
+positive reactions,0.06666666666666667,15,False
+positive sentiment,0.045454545454545456,22,False
+positive user feedback,0.04411764705882353,68,False
+preference for older version,0.2631578947368421,38,False
+request for new game parts,0.3076923076923077,13,False
+too many ads,0.2727272727272727,22,False
+top adventure game,0.0,42,False
+top game experience,0.0,26,False
+top-rated game,0.0,13,False
+tutorial length and skipping,0.48,25,True
+update delays,0.3870967741935484,31,False
+user experience,0.06918238993710692,159,False
+user ratings,0.08823529411764706,34,False
+user satisfaction,0.06896551724137931,29,False
+worlds and levels request,0.07894736842105263,38,False
+zombie vs plants gameplay,0.16929133858267717,254,False
+zomboss boss battles,0.2631578947368421,19,False
+أفضل لعبة,0.11764705882352941,34,False

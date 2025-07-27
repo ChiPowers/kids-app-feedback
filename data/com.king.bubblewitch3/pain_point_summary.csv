@@ -1,0 +1,93 @@
+merged_topic_label,negative_proportion,total_reviews,pain_point_flag
+Unknown,0.1528046421663443,1034,False
+addictive fun,0.0,32,False
+addictive gameplay,0.52,25,True
+app download & usage,0.07142857142857142,14,False
+app freezing issues,0.6190476190476191,21,True
+basic acknowledgments,0.047619047619047616,21,False
+brain-boosting game,0.0,14,False
+bubble shooter game,0.0,23,False
+bubble witch game,0.18518518518518517,27,False
+bubble witch saga appreciation,0.0,29,False
+cat-themed game features,0.23529411764705882,34,False
+challenging and fun,0.023255813953488372,43,False
+color and ai manipulation,0.3,10,False
+connectivity issues,0.5789473684210527,38,True
+customer appreciation,0.0,93,False
+daily play,0.038461538461538464,26,False
+enjoyable & engaging games,0.045454545454545456,22,False
+enjoyable experience,0.0,143,False
+enjoyable game,0.023255813953488372,43,False
+enjoyable game experience,0.0,16,False
+enjoyable gameplay,0.0,49,False
+enjoyment,0.0,19,False
+enjoyment and fun,0.017543859649122806,57,False
+enjoyment of challenges,0.0,20,False
+exceptional quality,0.08333333333333333,12,False
+excessive ads,0.3706896551724138,116,False
+exciting gameplay,0.0,14,False
+favorite game,0.05357142857142857,56,False
+fun and adventure,0.0,39,False
+fun and challenging,0.07142857142857142,14,False
+fun and entertaining,0.0625,32,False
+fun and entertainment,0.0,45,False
+fun and excitement,0.0,30,False
+fun and stimulating game,0.0,23,False
+game addiction,0.1941747572815534,103,False
+game challenges,0.04395604395604396,91,False
+game challenges and features,0.16666666666666666,12,False
+game enjoyment,0.17857142857142858,56,False
+game interface issues,0.5555555555555556,18,True
+game levels,0.14285714285714285,147,False
+game loyalty and satisfaction,0.0,26,False
+game progress loss,0.55,20,True
+game quality,0.07692307692307693,13,False
+game recommendations,0.045454545454545456,44,False
+game system issues,0.21428571428571427,14,False
+gameplay duration,0.0,11,False
+gameplay enjoyment,0.05263157894736842,19,False
+humor and interesting content,0.0,11,False
+ice cream enthusiasm,0.041666666666666664,24,False
+in-game currency & purchases,0.3076923076923077,13,False
+in-game currency and rewards,0.36363636363636365,33,False
+king games experience,0.2727272727272727,11,False
+long-term gameplay,0.02247191011235955,89,False
+long-term player satisfaction,0.0,12,False
+love and appreciation,0.0,18,False
+love the game,0.09090909090909091,11,False
+mental challenge,0.13333333333333333,30,False
+mental distraction,0.0784313725490196,51,False
+mixed emotions,0.2,30,False
+player affection,0.038461538461538464,26,False
+player appreciation,0.0,137,False
+player enjoyment,0.0,90,False
+positive affirmation,0.06666666666666667,15,False
+positive app experiences,0.07692307692307693,26,False
+positive comments,0.07692307692307693,13,False
+positive experience,0.0,87,False
+positive experiences,0.0,33,False
+positive feedback,0.0058309037900874635,343,False
+positive feelings about the game,0.0625,16,False
+positive game experience,0.0,25,False
+positive game feedback,0.00847457627118644,236,False
+positive gameplay experience,0.0,12,False
+positive love feedback,0.06666666666666667,15,False
+positive praise,0.01990049751243781,201,False
+positive reviews,0.0,18,False
+positive sentiment,0.012048192771084338,83,False
+relaxation and calm,0.0,22,False
+relaxation games,0.017543859649122806,57,False
+relaxing and fun,0.0,34,False
+reward and prize issues,0.5319148936170213,47,True
+stress relief,0.11538461538461539,52,False
+stress relief & relaxation,0.125,40,False
+time passes,0.16666666666666666,24,False
+time passing games,0.0,20,False
+top match-3 game,0.0,26,False
+ultimate game praise,0.0,25,False
+user enjoyment,0.07692307692307693,26,False
+user preferences,0.17391304347826086,23,False
+video playback issues,0.12903225806451613,31,False
+visuals and aesthetics,0.08333333333333333,12,False
+visuals and colors,0.0,23,False
+witch house customization,0.2,20,False

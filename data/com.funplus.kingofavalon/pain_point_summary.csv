@@ -1,0 +1,86 @@
+merged_topic_label,negative_proportion,total_reviews,pain_point_flag
+Unknown,0.297339593114241,1278,False
+alliance conflicts,0.375,40,False
+app crashes and freezes,0.7058823529411765,34,True
+castle building and progression,0.1111111111111111,27,False
+casual acknowledgments,0.05263157894736842,38,False
+city building & progression,0.2,15,False
+connectivity issues,0.5957446808510638,47,True
+customer support issues,0.6470588235294118,34,True
+dragon-themed gameplay,0.11538461538461539,26,False
+engaging and fun games,0.0625,16,False
+engaging and thought-provoking,0.0,12,False
+engaging story & graphics,0.00980392156862745,102,False
+enjoyable experience,0.0,24,False
+enjoyment and fun,0.017857142857142856,112,False
+entertaining & cute games,0.0,23,False
+fake ads,0.4666666666666667,30,True
+fake advertising,0.35294117647058826,17,False
+fun and entertainment,0.0375,80,False
+fun game,0.06382978723404255,47,False
+game addiction,0.2222222222222222,54,False
+game balance and features,0.2,20,False
+game enjoyment,0.0,29,False
+game experience and costs,0.44329896907216493,97,True
+game learning curve,0.0,13,False
+game of thrones theme,0.15384615384615385,13,False
+game progress & spending,0.40425531914893614,47,True
+game quality,0.13043478260869565,23,False
+game rewards and growth,0.25,12,False
+game stability issues,0.4166666666666667,12,True
+game updates issues,0.08333333333333333,24,False
+gameplay enjoyment,0.044444444444444446,45,False
+gameplay speed and performance,0.2,40,False
+general interest,0.2,15,False
+graphics and navigation,0.13636363636363635,22,False
+high cost concerns,0.3333333333333333,27,False
+high data usage,0.3684210526315789,19,False
+in-game purchases and refunds,0.5555555555555556,18,True
+in-game spending,0.35,40,False
+initial impressions,0.0,16,False
+initial positive impressions,0.0,12,False
+initial stages,0.07142857142857142,28,False
+login and account issues,0.5625,48,True
+long-term engagement,0.11764705882352941,17,False
+long-term player loyalty,0.038461538461538464,26,False
+military strategy,0.1282051282051282,39,False
+misleading advertisements,0.37777777777777777,135,False
+misleading advertising,0.5,30,True
+misleading visuals,0.2777777777777778,54,False
+mixed feelings,1.0,12,True
+mixed reactions,0.27586206896551724,29,False
+mobile gaming and apps,0.043478260869565216,23,False
+negative app experience,0.6842105263157895,19,True
+negative feedback,1.0,15,True
+negative game experience,0.8333333333333334,18,True
+neutral expressions,0.047619047619047616,21,False
+outstanding experience,0.029411764705882353,34,False
+pay-to-play concerns,0.23529411764705882,17,False
+pay-to-win concerns,0.525,40,True
+pay-to-win frustration,0.3333333333333333,78,False
+performance issues,0.4166666666666667,12,True
+player appreciation,0.0,15,False
+positive app experience,0.014925373134328358,67,False
+positive app feedback,0.0,64,False
+positive feedback,0.003861003861003861,518,False
+positive game experience,0.0,242,False
+positive game feedback,0.05555555555555555,108,False
+positive game feel,0.0,26,False
+positive gaming experience,0.0,90,False
+positive immersive experience,0.0625,16,False
+positive praise,0.023809523809523808,126,False
+positive progress,0.0,22,False
+positive quality,0.0,18,False
+regional fairness concerns,0.5,16,True
+scam and fraud alerts,0.7142857142857143,14,True
+strategy and power,0.0,19,False
+time wasting,0.5277777777777778,36,True
+top empire game,0.05555555555555555,18,False
+top game praise,0.0,25,False
+update and loading issues,0.6923076923076923,26,True
+update frequency and storage,0.40476190476190477,42,True
+user appreciation,0.0,44,False
+user feedback,0.0967741935483871,31,False
+user interaction and communication,0.09090909090909091,33,False
+user ratings and feedback,0.25,40,False
+visual design,0.0,47,False

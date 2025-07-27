@@ -1,0 +1,90 @@
+merged_topic_label,negative_proportion,total_reviews,pain_point_flag
+"""amazing game experience""",0.0,17,False
+"""awesome game appreciation""",0.0,14,False
+"""best game played""",0.04878048780487805,41,False
+"""best game praise""",0.0,12,False
+"""best game reviews""",0.018691588785046728,107,False
+"""coc game appreciation""",0.08695652173913043,23,False
+"""cool game reviews""",0.0,11,False
+"""excellent"" or ""high praise""",0.0,14,False
+"""fun and violent entertainment""",0.047619047619047616,21,False
+"""game praise and acclaim""",0.16666666666666666,12,False
+"""high praise for game""",0.0,66,False
+"""neutral or satisfactory responses""",0.05128205128205128,39,False
+"""op""",0.0,11,False
+"""patience in gaming""",0.17857142857142858,28,False
+"""positive game reviews""",0.05,20,False
+"""requests for global chat return""",0.2857142857142857,21,False
+"""wow reactions""",0.0,20,False
+Unknown,0.18110236220472442,762,False
+account issues/supercell support,0.6906474820143885,139,True
+ads and privacy concerns,0.21428571428571427,14,False
+best game reviews,0.0,12,False
+best gaming experience,0.06818181818181818,44,False
+best mobile game reviews,0.0625,16,False
+childhood nostalgia games,0.08,25,False
+clash of clans game,0.1134020618556701,97,False
+coc game appreciation,0.043478260869565216,23,False
+dislike for app icon/image,0.4,15,False
+enjoyable and addictive game,0.0,42,False
+excellent game,0.0,12,False
+exciting and interesting game,0.02631578947368421,38,False
+favorite game,0.0,27,False
+fun experience,0.0,30,False
+fun rpg games,0.0,29,False
+game addiction,0.14925373134328357,67,False
+game connection issues,0.2,25,False
+game enjoyment,0.02857142857142857,35,False
+game performance feedback,0.06818181818181818,44,False
+game praise,0.05,20,False
+game update feedback,0.3508771929824561,57,False
+gaming app quality,0.03125,32,False
+gem usage and acquisition,0.25925925925925924,27,False
+general feedback,0.030303030303030304,33,False
+gold pass purchase issues,0.36363636363636365,11,False
+good game reviews,0.0,32,False
+good gaming experience,0.0,13,False
+high praise for game,0.08333333333333333,12,False
+legendary and rare games,0.17391304347826086,23,False
+long upgrade times,0.2857142857142857,42,False
+long-term gameplay experience,0.015873015873015872,63,False
+love for app,0.0,21,False
+network connection issues,0.65,40,True
+nice game reviews,0.0,146,False
+non-english reviews,0.08333333333333333,72,False
+nostalgia/reminiscing old times,0.21428571428571427,14,False
+nostalgic feelings,0.6,10,True
+pay to win criticism,0.2777777777777778,18,False
+perfect satisfaction,0.0,13,False
+performance evaluation,0.08695652173913043,92,False
+personal health and emotions,0.1875,16,False
+positive app experience,0.018867924528301886,53,False
+positive app feedback,0.0,14,False
+positive app reviews,0.0,16,False
+positive emotions/reactions,0.022388059701492536,134,False
+positive enjoyment experience,0.058823529411764705,34,False
+positive feedback,0.010084033613445379,595,False
+positive feedback/compliments,0.0,32,False
+positive feedback/no problems,0.0,32,False
+positive feedback/reactions,0.13043478260869565,46,False
+positive feedback/reviews,0.05555555555555555,18,False
+positive game experience,0.017241379310344827,58,False
+positive game reviews,0.03206412825651302,499,False
+positive reactions,0.0,72,False
+positive reviews,0.01639344262295082,61,False
+praise for best game,0.041666666666666664,24,False
+rating and reviewing app,0.26666666666666666,15,False
+strategy game praise,0.02857142857142857,70,False
+super fun experience,0.0,21,False
+super game praise,0.030303030303030304,33,False
+super praise,0.0,55,False
+supercell game feedback,0.4090909090909091,44,True
+technical issues/ bugs,0.5714285714285714,70,True
+time passing activities,0.1,30,False
+town hall level complaints,0.29411764705882354,17,False
+troop training and equipment,0.23529411764705882,51,False
+unfair matchmaking complaints,0.5454545454545454,22,True
+user experience feedback,0.1111111111111111,18,False
+very good game reviews,0.01818181818181818,55,False
+village building game experience,0.3076923076923077,13,False
+wall and base upgrades,0.47058823529411764,17,True

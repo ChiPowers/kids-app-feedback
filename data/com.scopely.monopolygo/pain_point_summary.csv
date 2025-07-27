@@ -1,0 +1,86 @@
+merged_topic_label,negative_proportion,total_reviews,pain_point_flag
+"""boring game critiques""",0.6,15,True
+"""easy and engaging gameplay""",0.0,18,False
+"""easy and fun city building""",0.0,15,False
+"""enjoyable and fun""",0.06666666666666667,30,False
+"""favorite app praise""",0.08333333333333333,12,False
+"""favorite game reviews""",0.13043478260869565,23,False
+"""fun and features""",0.0,21,False
+"""fun experience""",0.006622516556291391,151,False
+"""fun game experience""",0.0,12,False
+Unknown,0.2755659640905542,1281,False
+addictive fun games,0.023255813953488372,43,False
+addictive gameplay,0.15384615384615385,13,False
+addictive gameplay love,0.03571428571428571,84,False
+addictive nature,0.4230769230769231,52,True
+annoying ads and closure issues,0.39473684210526316,38,False
+annoying pop-ups,0.1724137931034483,29,False
+app appreciation,0.1044776119402985,67,False
+app crashing issues,0.782608695652174,23,True
+app error and restart issues,0.5818181818181818,55,True
+app loading issues,0.5833333333333334,12,True
+app money grab complaints,0.5,18,True
+best game ever,0.0,22,False
+best game played,0.0,10,False
+board game experience,0.03125,32,False
+community chest complaints,0.6811594202898551,69,True
+compatibility and update issues,0.43902439024390244,41,True
+dice recharge issues,0.27522935779816515,109,False
+early positive impressions,0.0,15,False
+easy hotel game enjoyment,0.0,11,False
+enjoyable and useful,0.0,19,False
+enjoyable family app,0.0,27,False
+enjoyable fun experience,0.0,29,False
+enjoyable gameplay,0.04878048780487805,41,False
+enjoyable gaming experience,0.0,33,False
+enjoying the app,0.0,14,False
+entertainment value,0.04,25,False
+event participation issues,0.7058823529411765,17,True
+event prizes and spending,0.4594594594594595,37,True
+exciting fun games,0.07142857142857142,14,False
+exciting game experience,0.05,20,False
+expressing love for app,0.0,13,False
+facebook login issues,0.6,20,True
+family fun games,0.038461538461538464,26,False
+frequent disruptive updates,0.30434782608695654,23,False
+fun and enjoyable,0.0,23,False
+fun game reviews,0.0,15,False
+fun gameplay experience,0.058823529411764705,17,False
+fun gaming experience,0.05128205128205128,39,False
+game appreciation,0.012658227848101266,79,False
+game enjoyment,0.0,24,False
+game glitches/bugs,0.2857142857142857,14,False
+game rigging complaints,0.55,20,True
+general affirmations,0.06666666666666667,15,False
+general game feedback,0.0,10,False
+love for app,0.1935483870967742,31,False
+love for the game,0.0,49,False
+miscellaneous positive feedback,0.0,11,False
+mixed feelings,0.05,20,False
+money and fun in games,0.16279069767441862,43,False
+monopoly go game feedback,0.1926605504587156,218,False
+negative game reviews,0.9375,16,True
+nice game appreciation,0.08333333333333333,24,False
+non-english reviews,0.047619047619047616,21,False
+nostalgic childhood memories,0.043478260869565216,23,False
+pace of gameplay,0.0,11,False
+pay to win complaints,0.5,12,True
+playing with friends,0.1,30,False
+poor customer service,0.7894736842105263,38,True
+positive affection,0.05128205128205128,39,False
+positive app experience,0.0,14,False
+positive app feedback,0.025,40,False
+positive exciting experience,0.0,27,False
+positive feedback,0.008695652173913044,230,False
+positive feedback/love for app,0.0,150,False
+positive feedback/reviews,0.0847457627118644,59,False
+positive game reviews,0.004914004914004914,407,False
+positive reactions,0.0,21,False
+positive reviews,0.0,12,False
+quality of app,0.23076923076923078,39,False
+relaxing and stress-relief,0.06521739130434782,46,False
+star wars sticker collection difficulty,0.42857142857142855,28,True
+sticker collection and trading,0.43283582089552236,201,True
+time killing app,0.08620689655172414,58,False
+unfair account suspension,0.7481481481481481,135,True
+uninstall and update issues,0.5833333333333334,12,True

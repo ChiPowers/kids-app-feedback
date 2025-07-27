@@ -1,0 +1,89 @@
+merged_topic_label,negative_proportion,total_reviews,pain_point_flag
+Unknown,0.3969319271332694,1043,False
+account access issue,0.65,20,True
+ad experience and interruptions,0.45652173913043476,92,True
+addictive gameplay,0.48484848484848486,33,True
+app closing issues,0.5319148936170213,47,True
+app compatibility issues,0.6708860759493671,79,True
+app crashes,0.8113207547169812,53,True
+app crashes and bugs,0.7448979591836735,98,True
+app design and bugs,0.26666666666666666,15,False
+app freezing issues,0.6610169491525424,59,True
+app functionality issues,0.1,20,False
+app malfunction,0.8,20,True
+app opening issues,0.7368421052631579,19,True
+app recommendations,0.02564102564102564,39,False
+booster issues,0.42857142857142855,21,True
+booster loss issues,0.6470588235294118,17,True
+building and holiday events,0.5,16,True
+challenging fun,0.16666666666666666,42,False
+connectivity issues,0.6521739130434783,23,True
+customer affection,0.023529411764705882,85,False
+customer appreciation,0.0,16,False
+customer satisfaction,0.045454545454545456,22,False
+daily puzzle challenges,0.16,25,False
+device transition and memory,0.4,20,False
+dislike of new version,0.7142857142857143,126,True
+download issues and unwanted pop-ups,0.6923076923076923,13,True
+enjoyable and simple game,0.058823529411764705,17,False
+enjoyable experience,0.0,47,False
+enjoyable game,0.0,35,False
+enjoyable gameplay,0.05555555555555555,54,False
+facebook connectivity issues,0.38461538461538464,26,False
+fun and entertainment,0.0,49,False
+fun strategy game,0.034482758620689655,29,False
+game addiction,0.2777777777777778,36,False
+game appreciation,0.0,52,False
+game cheating and sabotage,0.6923076923076923,13,True
+game difficulty,0.09090909090909091,33,False
+game enjoyment,0.0,21,False
+game feedback,0.0,21,False
+game glitches and bugs,0.8125,16,True
+game loading & stability,0.7407407407407407,54,True
+game opening & functionality,0.8333333333333334,18,True
+game progression issues,0.43333333333333335,30,True
+game updates and issues,0.5,16,True
+game visual changes,0.8571428571428571,14,True
+gameplay issues,0.631578947368421,19,True
+gold claim issues,0.5217391304347826,115,True
+halloween theme & crashes,0.8064516129032258,31,True
+lack of engagement,0.6956521739130435,23,True
+level progression and rewards,0.46551724137931033,58,True
+loading issues,0.6909090909090909,55,True
+long-term enjoyment,0.1111111111111111,45,False
+long-term players,0.09090909090909091,11,False
+love and affection,0.13333333333333333,15,False
+love the game,0.06666666666666667,30,False
+map removal complaints,0.5909090909090909,22,True
+mixed reactions,0.032520325203252036,123,False
+negative experience,0.85,20,True
+negative experiences,0.8571428571428571,14,True
+pet rescue enthusiasm,0.19004524886877827,221,False
+petopia events and issues,0.7049180327868853,61,True
+player appreciation,0.0,62,False
+player enjoyment,0.05555555555555555,90,False
+player favorites,0.0,27,False
+polite requests,0.02631578947368421,38,False
+positive expressions,0.18181818181818182,11,False
+positive feedback,0.027777777777777776,180,False
+positive game experience,0.0,48,False
+positive game feedback,0.0,71,False
+positive game reviews,0.030303030303030304,33,False
+positive greetings,0.14285714285714285,14,False
+positive praise,0.01818181818181818,110,False
+positive sentiments,0.029411764705882353,68,False
+progression & level issues,0.39779005524861877,362,False
+relaxation and stress relief,0.08108108108108109,37,False
+reward loss and dailies,0.6190476190476191,21,True
+simple appreciation,0.0,12,False
+stress relief,0.06060606060606061,33,False
+time passes,0.09090909090909091,22,False
+top quality,0.0,28,False
+top-rated games,0.07692307692307693,13,False
+ultimate game praise,0.0,36,False
+update issues,0.5492957746478874,71,True
+user appreciation,0.0,16,False
+user experience enjoyment,0.0625,16,False
+usernames and names,0.0,12,False
+usernames and user mentions,0.05,20,False
+weekly challenges and events,0.4146341463414634,41,True

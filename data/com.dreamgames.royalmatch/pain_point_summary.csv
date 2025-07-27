@@ -1,0 +1,85 @@
+merged_topic_label,negative_proportion,total_reviews,pain_point_flag
+"""best game praises""",0.05555555555555555,54,False
+"""best pet apps""",0.03333333333333333,30,False
+"""boring building gameplay""",0.7894736842105263,19,True
+"""enjoyable experience""",0.0,45,False
+"""entertaining and sweet""",0.0,11,False
+"""fun experience""",0.039473684210526314,76,False
+"""interesting and nonsense reviews""",0.058823529411764705,17,False
+"""interesting knowledge""",0.0,15,False
+"""nice one"" appreciation",0.0,12,False
+"""royal match game reviews""",0.08108108108108109,74,False
+"""saving the king""",0.3838383838383838,99,False
+"""very nice game""",0.0,27,False
+"""wow factor""",0.09523809523809523,21,False
+Unknown,0.16761363636363635,704,False
+ad feedback,0.18181818181818182,33,False
+ad-free gaming experience,0.03508771929824561,57,False
+addictive fun gameplay,0.0,14,False
+addictive nature of app,0.42424242424242425,33,True
+affirmative responses,0.03076923076923077,65,False
+app appreciation,0.022727272727272728,44,False
+app functionality issues,0.4594594594594595,37,True
+appreciation of aesthetics,0.058823529411764705,17,False
+awesome game reviews,0.0,18,False
+best games,0.029411764705882353,34,False
+comparisons to candy crush,0.09090909090909091,22,False
+dislike of ads,0.46153846153846156,52,True
+easy and fun gameplay,0.044444444444444446,45,False
+engaging game experience,0.0,13,False
+enjoying game play,0.0,11,False
+enjoyment in playing game,0.0,19,False
+false advertising complaints,0.42857142857142855,28,True
+favorite game reviews,0.0,10,False
+filipino game reviews,0.0,11,False
+fun kids game,0.037037037037037035,54,False
+game addiction,0.125,72,False
+game appreciation,0.10416666666666667,48,False
+game difficulty and challenges,0.1111111111111111,63,False
+game difficulty and cost,0.4246153846153846,325,True
+gameplay complaints,0.0625,48,False
+gem appreciation,0.0,14,False
+general positive feedback,0.0,282,False
+good game reviews,0.0,139,False
+hindi language feedback,0.1111111111111111,36,False
+interesting game reviews,0.0,24,False
+love for app,0.02,50,False
+love for the game,0.011764705882352941,85,False
+mind-stimulating games,0.0,15,False
+misleading ads for candy crush clone,0.3,30,False
+misleading advertisements,0.37349397590361444,83,False
+misleading advertising,0.55,20,True
+misleading product description,0.15384615384615385,13,False
+multilingual reviews,0.0,13,False
+negative feedback/reviews,0.8947368421052632,19,True
+neutral/mixed feedback,0.25,16,False
+nice game reviews,0.0,16,False
+nice games feedback,0.0,129,False
+no ads appreciation,0.08695652173913043,23,False
+non-english reviews,0.01282051282051282,156,False
+payment for gameplay,0.3673469387755102,49,False
+positive affection,0.020833333333333332,48,False
+positive app feedback,0.02702702702702703,37,False
+positive app reactions,0.0,18,False
+positive appraisal,0.0,11,False
+positive experience feedback,0.0,23,False
+positive feedback,0.013793103448275862,435,False
+positive feedback and enjoyment,0.0,16,False
+positive feedback/appreciation,0.0,32,False
+positive feedback/approval,0.0,21,False
+positive feedback/reactions,0.03773584905660377,53,False
+positive game feedback,0.027777777777777776,36,False
+positive game reviews,0.017241379310344827,290,False
+positive gaming reviews,0.0,16,False
+positive initial impressions,0.13333333333333333,15,False
+positive reactions,0.0,28,False
+positive sentiment,0.0,22,False
+positive user experience,0.0,27,False
+puzzle game challenges,0.05263157894736842,19,False
+quality of service,0.04285714285714286,70,False
+relaxing entertainment,0.03571428571428571,28,False
+relaxing game experience,0.058823529411764705,34,False
+spanish game reviews,0.15,20,False
+stress relief games,0.25925925925925924,27,False
+super ball game,0.0625,32,False
+time passing games,0.1320754716981132,53,False

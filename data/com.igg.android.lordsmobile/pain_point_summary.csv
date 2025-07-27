@@ -1,0 +1,82 @@
+merged_topic_label,negative_proportion,total_reviews,pain_point_flag
+Unknown,0.12829736211031176,834,False
+account access issues,0.6619718309859155,71,True
+ad presence and quality,0.31976744186046513,172,False
+addictive and fun,0.0,13,False
+addictive experience,0.5333333333333333,30,True
+addictive gameplay,0.0975609756097561,41,False
+app experience,0.1111111111111111,45,False
+beautiful game,0.0,12,False
+beginner tutorials,0.2,10,False
+bot and hackers issue,0.5833333333333334,12,True
+castle defense,0.20689655172413793,29,False
+casual acceptance,0.17391304347826086,23,False
+combat and strategy,0.09090909090909091,33,False
+cool game,0.04,25,False
+discontent with updates,0.28205128205128205,39,False
+early gameplay experience,0.06976744186046512,43,False
+easy gameplay,0.09090909090909091,33,False
+enjoyable and relaxing,0.041666666666666664,48,False
+enjoyable gameplay,0.02586206896551724,116,False
+enjoyment and fun,0.02631578947368421,38,False
+enjoyment of playing,0.0,24,False
+entertainment and boredom,0.48148148148148145,27,True
+entertainment and fun,0.0,100,False
+exciting adventure games,0.0,15,False
+fun and entertainment,0.013888888888888888,144,False
+fun and playful activities,0.041666666666666664,24,False
+fun game,0.0,12,False
+fun gameplay,0.0,11,False
+game clarity and uniqueness,0.045454545454545456,22,False
+game enjoyment,0.0989010989010989,91,False
+game excitement,0.0,13,False
+game graphics and characters,0.041237113402061855,97,False
+game praise,0.0,28,False
+game ratings and reviews,0.09090909090909091,22,False
+gameplay experience,0.17073170731707318,41,False
+gaming enjoyment,0.0,15,False
+getting comfortable,0.01694915254237288,59,False
+great game,0.2692307692307692,26,False
+guild communication,0.1,10,False
+hero collection and progression,0.11764705882352941,17,False
+in-game currency & gems,0.2857142857142857,14,False
+in-game rewards,0.19444444444444445,108,False
+kingdom building,0.0,26,False
+mixed feelings on game,0.06666666666666667,15,False
+mixed or neutral feedback,0.8,15,True
+mixed positive reactions,0.1111111111111111,18,False
+mixed reactions,0.1,30,False
+mobile rpgs,0.05263157894736842,19,False
+moderate quality,0.09523809523809523,21,False
+negative game experience,0.8378378378378378,37,True
+nyc game experience,0.0,13,False
+pay-to-play concerns,0.1875,48,False
+performance issues,0.47619047619047616,21,True
+player affection,0.0,24,False
+player appreciation,0.1,30,False
+poor graphics and quality,0.9583333333333334,24,True
+positive app experience,0.0,64,False
+positive comments,0.0,118,False
+positive compliments,0.06666666666666667,15,False
+positive feedback,0.0025252525252525255,396,False
+positive game experience,0.0,205,False
+positive game feedback,0.0022271714922048997,449,False
+positive game praise,0.037037037037037035,27,False
+positive gaming experiences,0.0,17,False
+positive impressions,0.01282051282051282,78,False
+positive praise,0.01276595744680851,235,False
+positive progress,0.125,16,False
+positive sentiment,0.02857142857142857,35,False
+positive surprise,0.0,24,False
+positive update,0.0,21,False
+server connectivity issues,0.5974025974025974,77,True
+strategy and tactics,0.0,33,False
+time-killing games,0.046875,64,False
+top game experience,0.0,41,False
+top quality,0.030303030303030304,33,False
+top-rated games,0.0,13,False
+unwanted ads and misinformation,0.13333333333333333,15,False
+user appreciation,0.07692307692307693,26,False
+user engagement,0.0,11,False
+user experience,0.05263157894736842,38,False
+إعلانات وتجارب سلبية,0.19047619047619047,21,False
