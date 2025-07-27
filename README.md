@@ -10,5 +10,3 @@ This is a Streamlit web app for exploring user feedback on the top 50 kids apps 
 - Filtering and exploring raw reviews
 - Interactive charts and summaries
 
-## 🏗️ Folder Structure
-
