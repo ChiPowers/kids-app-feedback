@@ -1,96 +1,90 @@
 merged_topic_label,anger,disgust,fear,joy,neutral,sadness,surprise
-"""addictive fun""",0.001,0.0,0.0,0.002,0.0008,0.0006,0.0002
-"""awesome app feedback""",0.0,0.0,0.0,0.0046,0.0002,0.0,0.0
-"""best app reviews""",0.0,0.0002,0.0,0.0014,0.002,0.0002,0.0
-"""best game ever""",0.0,0.0,0.0,0.0038,0.0032,0.0,0.0008
-"""best time pass game""",0.0,0.0,0.0,0.0008,0.0014,0.0,0.0
-"""boring game experience""",0.0002,0.0,0.0,0.0014,0.0,0.0016,0.0
-"""candy crush gameplay experience""",0.0,0.0,0.0,0.0056,0.0008,0.0,0.0006
-"""cool"" feedback",0.0,0.0,0.0,0.0008,0.0014,0.0,0.0
-"""enjoyable game experience""",0.0,0.0,0.0,0.0038,0.0,0.0,0.0
-"""enjoyable gameplay experience""",0.0,0.0,0.0,0.0072,0.001,0.0002,0.0
-"""fun and creative""",0.0,0.0,0.0,0.0042,0.0002,0.0,0.0
-"""fun and feature-rich""",0.0,0.0,0.0,0.0032,0.0,0.0,0.0
-"""fun experience""",0.0,0.0,0.0,0.0026,0.0,0.0,0.0
-"""highly enjoyable app""",0.0,0.0,0.0,0.0022,0.0,0.0,0.0
-"""interesting game experience""",0.0,0.0002,0.0,0.002,0.0012,0.0,0.0022
-"""interesting puzzle game""",0.0,0.0,0.0,0.003,0.0004,0.0,0.0004
-"""pay to progress complaints""",0.0004,0.001,0.0,0.0004,0.0018,0.0004,0.0
-Unknown,0.0076,0.0044,0.0008,0.0752,0.032,0.0148,0.0082
-ad frequency and length,0.0042,0.002,0.0002,0.0032,0.0076,0.0078,0.0018
-ads and rewards complaints,0.0,0.0004,0.0006,0.0028,0.0054,0.0012,0.0
+"""addictive fun""",0.001,0.0002,0.0,0.002,0.001,0.0004,0.0002
+"""addictive gameplay""",0.0002,0.0,0.0,0.0056,0.0012,0.0,0.0002
+"""amazing app experience""",0.0,0.0,0.0,0.004,0.0002,0.0,0.002
+"""best game ever""",0.0,0.0,0.0,0.0034,0.003,0.0,0.0008
+"""boring game experience""",0.0002,0.0,0.0,0.002,0.0,0.0016,0.0
+"""enjoyable simple game""",0.0,0.0,0.0,0.0054,0.0002,0.0,0.0
+"""fun and feature-rich""",0.0,0.0,0.0,0.003,0.0,0.0,0.0
+"""fun game experience""",0.0,0.0,0.0,0.017,0.0006,0.0,0.0
+"""highly enjoyable app""",0.0,0.0,0.0,0.0024,0.0,0.0,0.0
+"""interesting game experience""",0.0,0.0002,0.0,0.0018,0.0012,0.0,0.0022
+"""interesting puzzle game""",0.0,0.0,0.0,0.003,0.0006,0.0,0.0006
+"""superior quality praise""",0.0,0.0,0.0,0.0,0.0138,0.0002,0.0006
+Unknown,0.0064,0.0036,0.0006,0.074,0.033,0.0132,0.0076
+account deletion/update issues,0.0004,0.0,0.0,0.0006,0.002,0.0028,0.0008
+ads in game,0.0046,0.0022,0.0004,0.003,0.0078,0.0076,0.002
+affirmative responses,0.0006,0.0,0.0,0.0,0.012,0.0004,0.0002
 ai replacing human staff,0.0004,0.001,0.0,0.0,0.0014,0.0004,0.0002
-amazing game reviews,0.0,0.0,0.0,0.0042,0.0002,0.0,0.001
-app appreciation,0.0002,0.0,0.0,0.0036,0.004,0.0,0.0004
-app functionality issues,0.0008,0.0002,0.0,0.001,0.0026,0.0038,0.0014
-app quality evaluation,0.0002,0.0014,0.0002,0.0118,0.0026,0.001,0.0002
-appreciating aesthetics,0.0,0.0,0.0,0.0024,0.0002,0.0002,0.0
-awesome games,0.0,0.0,0.0,0.0064,0.0006,0.0,0.0002
-best gaming experience,0.0,0.0,0.0,0.001,0.008,0.0002,0.0002
-booster issues and fixes,0.0006,0.0002,0.0,0.0002,0.0008,0.0018,0.0004
-brain-boosting games,0.0,0.0,0.0,0.0022,0.0,0.0,0.0
-candy crush game reviews,0.0004,0.0,0.0,0.0032,0.0002,0.0004,0.0008
-candy crush saga game,0.0,0.0,0.0,0.0058,0.0002,0.0,0.0006
-emoji reactions,0.0002,0.0,0.0006,0.002,0.0258,0.0002,0.0004
-emotional connections and love,0.0002,0.0,0.0,0.0006,0.0004,0.0012,0.0
-enjoyable fun experience,0.0,0.0,0.0,0.0026,0.0,0.0,0.0
-enjoyable gameplay,0.0,0.0,0.0,0.002,0.0002,0.0,0.0
-enjoyable gaming experience,0.0,0.0,0.0,0.0058,0.0002,0.0,0.0
-enjoying the game,0.0,0.0,0.0,0.0034,0.0,0.0002,0.0
-enjoyment and satisfaction,0.0,0.0002,0.0,0.006,0.0016,0.0,0.0
-entertainment and interest,0.0002,0.0,0.0,0.0046,0.0006,0.0,0.0
-excellent game,0.0,0.0,0.0,0.0024,0.0,0.0,0.0
-excitement or enthusiasm,0.0,0.0,0.0002,0.0018,0.0004,0.0,0.0002
-exciting and challenging gameplay,0.0,0.0002,0.0,0.0062,0.0008,0.0,0.0002
-favorite game,0.0002,0.0,0.0,0.0034,0.0,0.0,0.0004
-foreign language reviews,0.0002,0.0,0.0002,0.0,0.0028,0.0,0.0
-fun gameplay,0.0,0.0002,0.0,0.0172,0.0006,0.0,0.0
-fun gaming experience,0.0,0.0,0.0,0.0076,0.0002,0.0,0.0
-fun packed games,0.0,0.0,0.0,0.0058,0.0004,0.0,0.0
-game addiction,0.0002,0.0,0.0,0.0054,0.0014,0.0,0.0002
-game difficulty levels,0.0004,0.0002,0.0002,0.006,0.0022,0.0018,0.0006
-game love/appreciation,0.0,0.0,0.0,0.0054,0.0,0.0,0.0
-game quality and gems,0.0,0.0,0.0,0.0004,0.002,0.0002,0.0
-game sentiments,0.0004,0.0,0.0,0.004,0.0,0.0,0.0
-general satisfaction,0.0002,0.0,0.0,0.0024,0.0006,0.0006,0.0002
-gold purchase issues,0.0002,0.0,0.0,0.0006,0.0008,0.0024,0.0
-good understanding,0.0,0.0,0.0,0.0004,0.0764,0.0,0.0
+amazing game reviews,0.0,0.0,0.0,0.0046,0.0004,0.0,0.001
+app aesthetics praise,0.0,0.0,0.0,0.0024,0.0002,0.0002,0.0
+app praise,0.0,0.0,0.0,0.0024,0.0022,0.0004,0.0
+app quality feedback,0.0002,0.0,0.0,0.0032,0.0038,0.0,0.0002
+awesome game reviews,0.0,0.0,0.0,0.0056,0.0006,0.0,0.0002
+best game reviews,0.0,0.0,0.0,0.0012,0.0012,0.0,0.0
+best gaming experience,0.0,0.0,0.0,0.0022,0.009,0.0002,0.0002
+booster issues and fixes,0.0008,0.0002,0.0,0.0,0.0008,0.0018,0.0004
+brain-boosting games,0.0,0.0,0.0,0.002,0.0,0.0,0.0
+candy crush enjoyment,0.0004,0.0,0.0,0.0028,0.0002,0.0006,0.0008
+candy crush saga game,0.0,0.0,0.0,0.0056,0.0002,0.0,0.0004
+challenging and exciting fun,0.0,0.0002,0.0,0.0054,0.0008,0.0,0.0002
+easy classic puzzles,0.0,0.0,0.0,0.0,0.0024,0.0,0.0
+emotional love experiences,0.0002,0.0,0.0,0.0004,0.0006,0.0012,0.0
+enjoyable fun game,0.0,0.0,0.0,0.004,0.0,0.0,0.0
+enjoyable gameplay experience,0.0,0.0,0.0,0.0092,0.001,0.0002,0.0
+enjoyable games,0.0,0.0,0.0,0.0058,0.0002,0.0,0.0
+enjoying the game,0.0,0.0,0.0,0.0022,0.0,0.0,0.0
+enjoyment and satisfaction,0.0,0.0,0.0,0.0056,0.0008,0.0,0.0
+enjoyment of candy crush,0.0,0.0002,0.0,0.006,0.001,0.0002,0.0006
+entertaining and fun,0.0,0.0,0.0,0.0046,0.0002,0.0,0.0
+excellent game praise,0.0,0.0,0.0,0.0026,0.0,0.0,0.0
+excitement and enthusiasm,0.0,0.0002,0.0002,0.0024,0.0004,0.0,0.0002
+expressions of affection,0.0,0.0,0.0,0.0018,0.0024,0.0,0.0
+fantastic game reviews,0.0,0.0,0.0,0.0014,0.0,0.0,0.0006
+favorite foods,0.0,0.0002,0.0,0.0012,0.0006,0.0,0.0
+favorite game,0.0002,0.0,0.0,0.0032,0.0,0.0,0.0004
+fun and enjoyable,0.0,0.0,0.0,0.0046,0.0002,0.0,0.0
+fun gaming experience,0.0,0.0,0.0,0.0122,0.001,0.0,0.0004
+game appreciation,0.0,0.0,0.0,0.004,0.0,0.0,0.0
+game difficulty and levels,0.0018,0.0016,0.0002,0.0072,0.0046,0.004,0.001
+gold purchase issues,0.0002,0.0,0.0,0.0004,0.0006,0.0024,0.0
+good reviews,0.0,0.0,0.0,0.0066,0.003,0.0002,0.0
+good understanding,0.0,0.0,0.0,0.001,0.0764,0.0,0.0
 great fun,0.0,0.0,0.0,0.0024,0.0,0.0,0.0
-having fun and winning,0.0,0.0,0.0,0.0036,0.0002,0.0,0.0
-incomprehensible reviews,0.0,0.0,0.0,0.0,0.002,0.0,0.0
-long-term game enjoyment,0.0,0.0,0.0,0.0048,0.0008,0.0,0.0002
-love for game updates,0.0,0.0,0.0,0.0018,0.0008,0.0,0.0
-love for the game,0.0,0.0,0.0,0.0042,0.0,0.0,0.0
-mind refreshing games,0.0,0.0,0.0,0.0026,0.003,0.0,0.001
-mind relaxation and enhancement,0.0,0.0,0.0,0.0014,0.0018,0.0002,0.0
-misleading and annoying ads,0.0004,0.0,0.0,0.0006,0.001,0.0012,0.0006
-monetization and earnings,0.0002,0.0,0.0,0.0008,0.002,0.0002,0.0
-negative game reviews,0.0002,0.0012,0.0002,0.0002,0.0008,0.0014,0.0004
-neutral/ambivalent responses,0.0006,0.0,0.0,0.0,0.012,0.0004,0.0002
-nice game reviews,0.0,0.0,0.0002,0.0018,0.0046,0.0,0.0
-positive adjectives,0.0,0.0,0.0,0.0042,0.0012,0.0,0.0002
-positive affection,0.0,0.0,0.0,0.002,0.0068,0.0,0.0
-positive app feedback,0.0,0.0,0.0,0.0134,0.0056,0.0,0.0008
-positive feedback,0.0,0.0,0.0,0.0326,0.0452,0.0006,0.0026
-positive feedback/appreciation,0.0,0.0,0.0,0.0042,0.0016,0.0,0.002
-positive feedback/gratitude,0.0,0.0,0.0,0.0034,0.0004,0.0,0.0008
-positive feedback/high praise,0.0,0.0002,0.0,0.0016,0.0104,0.0002,0.0002
-positive feedback/reactions,0.0,0.0002,0.0,0.0126,0.0098,0.0,0.0006
-positive feedback/reviews,0.0002,0.0,0.0,0.0,0.0068,0.0,0.0
-positive game experience,0.0,0.0,0.0,0.005,0.0002,0.0,0.0
-positive game reviews,0.0,0.0,0.0,0.0802,0.0122,0.0004,0.0022
-positive reactions,0.0,0.0012,0.0,0.001,0.0022,0.001,0.0002
-relaxing entertainment,0.0,0.0,0.0,0.0086,0.0006,0.0002,0.0
-relaxing experience,0.0,0.0,0.0,0.0028,0.0036,0.0,0.0
-relaxing fun activities,0.0,0.0,0.0002,0.005,0.0002,0.0,0.0
-stress relief and mood improvement,0.0,0.0,0.0002,0.0024,0.0036,0.0018,0.0002
-stress relief games,0.0004,0.0,0.0,0.005,0.0014,0.0002,0.0
-suitable for all ages,0.0,0.0,0.0002,0.0016,0.0006,0.0002,0.0002
-super fun games,0.0,0.0,0.0,0.0012,0.0006,0.0,0.0034
-super hero games,0.0,0.0,0.0,0.0004,0.001,0.0,0.0008
-superior quality,0.0,0.0,0.0,0.0,0.0136,0.0002,0.0002
-time pass entertainment,0.0004,0.0002,0.0,0.0138,0.0094,0.0004,0.0014
-user experience,0.0,0.0,0.0,0.0026,0.0008,0.0002,0.0004
-user satisfaction,0.0,0.0,0.0,0.0028,0.0002,0.0002,0.0
-very good game,0.0,0.0,0.0,0.0038,0.0,0.0,0.0
-wow/awesome reactions,0.0,0.0,0.0,0.0,0.0,0.0,0.0028
+great game reviews,0.0,0.0,0.0,0.008,0.0,0.0,0.0
+having fun,0.0,0.0,0.0,0.0032,0.0,0.0,0.0
+incomprehensible reviews,0.0,0.0006,0.0006,0.0032,0.0092,0.0012,0.0006
+long-term game enjoyment,0.0,0.0,0.0,0.0044,0.0006,0.0,0.0
+mind refreshing games,0.0,0.0,0.0,0.0026,0.0032,0.0,0.0012
+mind relaxation & enhancement,0.0,0.0,0.0,0.002,0.0014,0.0002,0.0
+misleading and long ads,0.0002,0.0,0.0,0.0006,0.001,0.001,0.0008
+mixed feelings about game,0.0004,0.0,0.0,0.0038,0.0004,0.0,0.0
+mixed quality reviews,0.0002,0.0014,0.0004,0.0116,0.0024,0.0008,0.0002
+monetization and rewards,0.0002,0.0,0.0,0.001,0.0022,0.0004,0.0
+negative game experience,0.0002,0.0008,0.0,0.0002,0.0006,0.0014,0.0
+nice game appreciation,0.0,0.0,0.0002,0.0018,0.0048,0.0,0.0
+nice game reviews,0.0,0.0,0.0,0.0258,0.0006,0.0004,0.0002
+non-english reviews,0.0002,0.0,0.0002,0.0,0.0032,0.0,0.0
+positive affection,0.0,0.0,0.0,0.0018,0.0068,0.0,0.0
+positive app feedback,0.0004,0.0002,0.0,0.0106,0.0008,0.0008,0.001
+positive app praise,0.0,0.0,0.0,0.0006,0.01,0.0002,0.0002
+positive emotions/reactions,0.0,0.0,0.0006,0.002,0.0258,0.0002,0.0004
+positive exclamations,0.0,0.0,0.0,0.0002,0.0,0.0,0.0028
+positive feedback,0.0002,0.0002,0.0,0.044,0.0534,0.0004,0.0028
+positive feedback/appreciation,0.0,0.0,0.0,0.0068,0.001,0.0,0.0
+positive feedback/experience,0.0,0.0,0.0,0.0022,0.0,0.0,0.0004
+positive feedback/reactions,0.0,0.0012,0.0,0.0014,0.0082,0.0012,0.0004
+positive feedback/reviews,0.0,0.0,0.0,0.0008,0.0062,0.0,0.0006
+positive game reviews,0.0,0.0,0.0,0.0518,0.0062,0.0,0.001
+positive reactions,0.0,0.0,0.0,0.0088,0.0018,0.0,0.0008
+positive user satisfaction,0.0,0.0,0.0,0.0028,0.0002,0.0002,0.0
+purchase issues and refunds,0.0004,0.0002,0.0,0.0,0.0004,0.0008,0.0004
+relaxing experience,0.0,0.0,0.0,0.0024,0.0032,0.0,0.0
+relaxing gameplay experience,0.0,0.0,0.0,0.008,0.0006,0.0002,0.0
+relaxing time-passer,0.0,0.0,0.0002,0.0064,0.0004,0.0002,0.0
+stress relief games,0.0004,0.0,0.0,0.0052,0.0016,0.0002,0.0
+stress relief therapy,0.0,0.0,0.0002,0.0026,0.0038,0.002,0.0002
+superhero games,0.0,0.0,0.0,0.0018,0.0016,0.0,0.0034
+time pass games,0.0004,0.0004,0.0002,0.0136,0.0094,0.0002,0.0014
+user experience feedback,0.0,0.0,0.0,0.003,0.0008,0.0002,0.0004
+very good game,0.0,0.0,0.0,0.004,0.0,0.0,0.0

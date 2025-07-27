@@ -7,7 +7,9 @@ from tqdm import tqdm
 import textstat
 from bertopic import BERTopic
 from sentence_transformers import SentenceTransformer
+from sklearn.cluster import KMeans
 from openai import OpenAI
+import streamlit as st
 
 # Global models
 analyzer = SentimentIntensityAnalyzer()
@@ -18,7 +20,20 @@ emotion_pipeline = pipeline(
     model_kwargs={"torch_dtype": torch.float32}
 )
 embedding_model = SentenceTransformer("all-MiniLM-L6-v2")
-client = OpenAI()
+
+client = OpenAI(api_key=st.secrets["OPENAI_API_KEY"])
+import os
+
+def is_app_preprocessed(app_id, data_dir="data"):
+    """Check if all expected output files already exist for the app."""
+    app_path = os.path.join(data_dir, app_id)
+    expected_files = [
+        f"{app_id}_reviews_preprocessed.csv",
+        "topics.csv",
+        "emotion_distribution_by_topic.csv",
+        "pain_point_summary.csv"
+    ]
+    return all(os.path.exists(os.path.join(app_path, f)) for f in expected_files)
 
 def batch_emotion_labels(texts, batch_size=32):
     results = []
@@ -55,7 +70,7 @@ Respond with only the label.
 """
     try:
         response = client.chat.completions.create(
-            model="gpt-4",
+            model="gpt-4.1-nano",
             messages=[{"role": "user", "content": prompt}],
             temperature=0.4,
         )
@@ -114,22 +129,26 @@ def process_reviews_file(app_id: str, base_dir="data"):
         label = suggest_label(topic_num, top_words, sample_reviews)
         labels[topic_num] = label
 
-    # Merge topics with same label
-    label_to_new_topic = {}
-    new_topic_id = 0
-    topic_remap = {}
+    # Topic embedding clustering for consolidation
+    topic_embeddings = topic_model.topic_embeddings_[:len(topic_info)]
+    n_clusters = min(len(topic_embeddings), 10)
+    kmeans = KMeans(n_clusters=n_clusters, random_state=42)
+    cluster_ids = kmeans.fit_predict(topic_embeddings)
 
-    for old_topic, label in labels.items():
-        norm_label = label.strip().lower()
-        if norm_label not in label_to_new_topic:
-            label_to_new_topic[norm_label] = new_topic_id
-            new_topic_id += 1
-        topic_remap[old_topic] = label_to_new_topic[norm_label]
+    topic_to_cluster = {
+        topic: cluster_ids[i] for i, topic in enumerate(topic_info['Topic']) if topic != -1
+    }
+    df['merged_topic'] = df['topic'].map(topic_to_cluster)
 
-    df["merged_topic"] = df["topic"].map(topic_remap)
-    df["merged_topic_label"] = df["merged_topic"].map(
-        lambda x: [k for k, v in label_to_new_topic.items() if v == x][0] if x in df["merged_topic"].unique() else "Unknown"
-    )
+    # Build merged labels using majority GPT label in each cluster
+    merged_labels = {}
+    for cluster_id in set(topic_to_cluster.values()):
+        clustered_topics = [t for t, c in topic_to_cluster.items() if c == cluster_id]
+        clustered_labels = [labels.get(t, "Unknown") for t in clustered_topics]
+        most_common_label = pd.Series(clustered_labels).mode().iloc[0]
+        merged_labels[cluster_id] = most_common_label
+
+    df['merged_topic_label'] = df['merged_topic'].map(merged_labels)
 
     # Pain point detection
     negative_emotions = ['anger', 'sadness', 'fear', 'disgust']
@@ -178,3 +197,10 @@ def process_reviews_file(app_id: str, base_dir="data"):
     )
     pivoted = emotion_dist.pivot(index="merged_topic_label", columns="emotion", values="proportion").fillna(0)
     pivoted.to_csv(os.path.join(app_folder, "emotion_distribution_by_topic.csv"))
+
+top_apps = pd.read_csv("data/top_apps.csv")
+for app_id in top_apps["app_id"]:
+    if is_app_preprocessed(app_id):
+        print(f"✅ Skipping {app_id}: already preprocessed.")
+        continue
+    process_reviews_file(app_id)
