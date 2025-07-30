@@ -1,4 +1,4 @@
-# 📱 Kid's App Feedback Explorer
+# 📱 Top 50 Apps Review Explorer
 
 This is a Streamlit web app for exploring user feedback on the top 50 kids apps from the Google Play Store.
 
